@@ -1,0 +1,181 @@
+{
+  "took" : 126,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 18,
+      "relation" : "eq"
+    },
+    "max_score" : 44.006397,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 44.006397,
+        "_source" : {
+          "name" : "ソダシ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "18",
+        "_score" : 29.387999,
+        "_source" : {
+          "name" : "メイケイエール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 14.8896,
+        "_source" : {
+          "name" : "サトノレイナス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 13.320595,
+        "_source" : {
+          "name" : "エイシンヒテン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 12.21,
+        "_source" : {
+          "name" : "ヨカヨカ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 11.948429,
+        "_source" : {
+          "name" : "ジェラルディーナ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 11.592,
+        "_source" : {
+          "name" : "インフィナイト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 10.8216,
+        "_source" : {
+          "name" : "ポールネイロン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 10.694545,
+        "_source" : {
+          "name" : "オパールムーン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 9.827485,
+        "_source" : {
+          "name" : "リンゴアメ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 8.996333,
+        "_source" : {
+          "name" : "ルクシオン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "17",
+        "_score" : 8.862624,
+        "_source" : {
+          "name" : "フラリオナ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 6.9839997,
+        "_source" : {
+          "name" : "ウインアグライア"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 6.444,
+        "_source" : {
+          "name" : "シゲルピンクルビー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 6.2855997,
+        "_source" : {
+          "name" : "サルビア"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 6.089091,
+        "_source" : {
+          "name" : "アオイゴールド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 5.184,
+        "_source" : {
+          "name" : "ユーバーレーベン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 3.9311998,
+        "_source" : {
+          "name" : "ナムラメーテル"
+        }
+      }
+    ]
+  }
+}

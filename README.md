@@ -8,8 +8,11 @@
 
 ### Elasticsearch起動
 
+以下コマンドを実行してインデックスが出来るまで待つ。 `http://localhost:9200/hoses/_search`
+
 ```
-$ bash run.sh
+$ docker-compose build
+$ docker-compose up
 ```
 
 ### Queryを実行
