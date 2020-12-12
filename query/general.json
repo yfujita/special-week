@@ -1,0 +1,66 @@
+{
+  "size": 20,
+  "_source": ["name"],
+  "query": {
+    "function_score": {
+      "score_mode": "multiply",
+      "query": {
+        "match_all": {}
+      },
+      "functions": [
+        {
+          "field_value_factor": {
+            "field": "performance_score"
+          }
+        },
+        {
+          "linear": {
+            "additional_weight": {
+              "origin": 53,
+              "scale": 1,
+              "decay": 0.8
+            }
+          }
+        },
+        {
+          "linear": {
+            "pos": {
+              "origin": 3,
+              "scale": 2,
+              "decay": 0.97
+            }
+          }
+        },
+        {
+          "filter": {
+            "term": {
+              "sex": "牝"
+            }
+          },
+          "weight": 0.9
+        },
+        {
+          "filter": {
+            "nested": {
+              "path": "performance",
+              "query": {
+                "bool": {
+                  "must": [
+                    {
+                      "range": {
+                        "performance.date": {
+                          "gte": "now-180d/d"
+                        }
+                      }
+                    }
+                  ]
+                }
+              }
+            }
+          },
+          "weight": 2
+        }
+      ]
+    }
+  }
+}

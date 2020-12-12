@@ -1,0 +1,18 @@
+version: '3.1'
+
+services:
+  special-week:
+    build:
+      context: ./special-week
+    volumes: 
+      - ./race-info:/opt/race-info
+  elasticsearch:
+    image: elasticsearch:7.9.3
+    container_name: elasticsearch
+    environment:
+      - discovery.type=single-node
+      - cluster.name=elasticsearch-loghome
+      - "ES_JAVA_OPTS=-Xms2G -Xmx2G"
+      - bootstrap.memory_lock=true
+    ports:
+      - "9200:9200"

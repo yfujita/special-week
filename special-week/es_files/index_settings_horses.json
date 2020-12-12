@@ -1,0 +1,66 @@
+{
+  "settings": {
+    "index": {
+      "number_of_shards": 1,
+      "number_of_replicas": 0
+    }
+  },
+  "mappings": {
+    "properties": {
+      "name": {
+        "type": "keyword"
+      },
+      "pos": {
+        "type": "integer"
+      },
+      "sex": {
+        "type": "keyword"
+      },
+      "age": {
+        "type": "integer"
+      },
+      "additional_weight": {
+        "type": "integer"
+      },
+      "performance_score": {
+        "type": "double"
+      },
+      "performance": {
+        "type": "nested",
+        "properties": {
+          "date": {
+            "type": "date",
+            "format": "yyyy/MM/dd"
+          },
+          "course": {
+            "type": "keyword"
+          },
+          "weather": {
+            "type": "keyword"
+          },
+          "race_name": {
+            "type": "keyword"
+          },
+          "grade": {
+            "type": "keyword"
+          },
+          "popularity": {
+            "type": "integer"
+          },
+          "ranking": {
+            "type": "integer"
+          },
+          "distance": {
+            "type": "integer"
+          },
+          "course_type": {
+            "type": "keyword"
+          },
+          "course_condition": {
+            "type": "keyword"
+          }    
+        }
+      }
+    }
+  }
+}
