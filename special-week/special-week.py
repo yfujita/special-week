@@ -41,10 +41,10 @@ def load_race_info(race_info_name: str) -> dict:
 def build_data(race_info: dict):
   data: dict = {}
   data['race_name'] = race_info['race_name']
-  data['horses'] = scraping_horses(build_race_url(race_info['race_id']))
+  data['horses'] = scraping_horses(race_info, build_race_url(race_info['race_id']))
   return data
 
-def scraping_horses(race_url: str) -> list:
+def scraping_horses(race_info: dict, race_url: str) -> list:
   horses = []
   html = requests.get(race_url)
   soup = BeautifulSoup(html.content, "html.parser")
@@ -74,7 +74,7 @@ def scraping_horses(race_url: str) -> list:
       'additional_weight': additional_weight,
       'horse_performance': performance,
     }
-    horse['performance_score'] = calculate_performance_score(horse)
+    horse['performance_score'] = calculate_performance_score(race_info, horse)
     horses.append(horse)
     time.sleep(2)
   
@@ -111,43 +111,50 @@ def scraping_horse_performance(soup_tr) -> dict:
     FIELD_RACE_COURSE_CONDITION: td_array[15].text.strip(),
   }
 
-def calculate_performance_score(horse: dict) -> float:
+def calculate_performance_score(race_info:dict, horse: dict) -> float:
   reversed = []
   for tmp in horse['horse_performance']:
     reversed.insert(0, tmp)
 
+  race_distance = race_info['distance']
   score = 1
   for race_result in reversed:
     debug_logging("race:" + race_result[FIELD_RACE_NAME] + ' grade:' + race_result[FIELD_RACE_GRADE] + ' ' + str(race_result[FIELD_RANKING]) + '着')
 
+    additional_score = 0
     # 勝利数加点
     if race_result[FIELD_RANKING] == 1:
-      score += 5
+      additional_score += 5
       debug_logging('score += 5')
     elif race_result[FIELD_RANKING] <= 3:
-      score += 2
+      additional_score += 2
       debug_logging('score += 2')
     
     # 重賞加点
     if race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_1':
-      score += 30
+      additional_score += 30
       debug_logging('score += 30')
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_1':
-      score += 15
+      additional_score += 15
       debug_logging('score += 15')
     elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_2':
-      score += 20
+      additional_score += 20
       debug_logging('score += 20')
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_2':
-      score += 7
+      additional_score += 7
       debug_logging('score += 10')
     elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      score += 10
+      additional_score += 10
       debug_logging('score += 15')
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      score += 3
+      additional_score += 3
       debug_logging('score += 5')
     
+    distance_rate = 800 / (800 + abs(race_distance - race_result[FIELD_DISTANCE]))
+    debug_logging('distance_rate:' + str(distance_rate))
+    additional_score = additional_score * distance_rate
+
+    score += additional_score
     # 負け減点
     if race_result[FIELD_RANKING] > 5:
       score /= 2
