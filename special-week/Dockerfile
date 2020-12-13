@@ -14,10 +14,7 @@ RUN apt-get install -y vim less
 RUN pip install --upgrade pip && pip install --upgrade setuptools
 
 
-# BigQueryClientインストール
 RUN pip install --upgrade beautifulsoup4 pyyaml requests
-
-# SQLディレクトリの作成
 RUN mkdir -p /opt/race-info/
 
 #ファイルをappディレクトリに追加

@@ -25,7 +25,7 @@ FIELD_RACE_COURSE_TYPE: Final[str] = 'course_type'
 FIELD_RACE_COURSE_CONDITION: Final[str] = 'course_condition'
 
 def parse_arg() -> dict:
-  parser = argparse.ArgumentParser(description='プログラムの説明')
+  parser = argparse.ArgumentParser()
   parser.add_argument('--race_info', help='race-infoファイル名')
   args = parser.parse_args()
   d: dict = {
