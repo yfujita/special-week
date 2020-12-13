@@ -91,13 +91,16 @@ def scraping_horse(target_url: str) -> list:
   races: list = []
   for soup_tr in soup_result_table.find('tbody').find_all("tr"):
     race_info: dict = scraping_horse_performance(soup_tr)
-    races.append(race_info)
+    if race_info != None:
+      races.append(race_info)
   return races
 
 def scraping_horse_performance(soup_tr) -> dict:
   td_array = []
   for soup_td in soup_tr.find_all("td"):
     td_array.append(soup_td)
+  if td_array[11].text.strip() == '除' or td_array[11].text.strip() == '中':
+    return None
   return {
     FIELD_DATE: td_array[0].text.strip(),
     FIELD_COURSE: td_array[1].text.strip(),
