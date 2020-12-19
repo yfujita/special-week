@@ -99,7 +99,7 @@ def scraping_horse_performance(soup_tr) -> dict:
   td_array = []
   for soup_td in soup_tr.find_all("td"):
     td_array.append(soup_td)
-  if td_array[11].text.strip() == '除' or td_array[11].text.strip() == '中':
+  if td_array[11].text.strip() in ['除','中','取']:
     return None
   return {
     FIELD_DATE: td_array[0].text.strip(),

@@ -1,0 +1,163 @@
+{
+  "took" : 222,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 16,
+      "relation" : "eq"
+    },
+    "max_score" : 36.327274,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 36.327274,
+        "_source" : {
+          "name" : "レッドベルオーブ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 28.044958,
+        "_source" : {
+          "name" : "モントライゼ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 26.433819,
+        "_source" : {
+          "name" : "ショックアクション"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 23.688,
+        "_source" : {
+          "name" : "ステラヴェローチェ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 20.147108,
+        "_source" : {
+          "name" : "ホウオウアマゾン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 14.750068,
+        "_source" : {
+          "name" : "スーパーホープ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 11.64,
+        "_source" : {
+          "name" : "ドゥラモンド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 9.55,
+        "_source" : {
+          "name" : "ブルースピリット"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 9.124364,
+        "_source" : {
+          "name" : "ロードマックス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 8.864463,
+        "_source" : {
+          "name" : "ジュンブルースカイ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 8.771,
+        "_source" : {
+          "name" : "アスコルターレ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 8.438182,
+        "_source" : {
+          "name" : "テーオーダヴィンチ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 7.813889,
+        "_source" : {
+          "name" : "カイザーノヴァ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 7.056182,
+        "_source" : {
+          "name" : "グレナディアガーズ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 4.32,
+        "_source" : {
+          "name" : "バスラットレオン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 0.32318825,
+        "_source" : {
+          "name" : "ビゾンテノブファロ"
+        }
+      }
+    ]
+  }
+}
