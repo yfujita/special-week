@@ -1,0 +1,154 @@
+{
+  "took" : 96,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 15,
+      "relation" : "eq"
+    },
+    "max_score" : 18.258,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 18.258,
+        "_source" : {
+          "name" : "ダノンザキッド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 13.2,
+        "_source" : {
+          "name" : "ランドオブリバティ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 12.041323,
+        "_source" : {
+          "name" : "マカオンドール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 11.876727,
+        "_source" : {
+          "name" : "ホールシバン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 11.82,
+        "_source" : {
+          "name" : "ヨーホーレイク"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 10.476,
+        "_source" : {
+          "name" : "オーソクレース"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 10.38,
+        "_source" : {
+          "name" : "アドマイヤザーゲ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 8.64,
+        "_source" : {
+          "name" : "タイトルホルダー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 8.301626,
+        "_source" : {
+          "name" : "モリデンアロー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 7.7633333,
+        "_source" : {
+          "name" : "シュヴァリエローズ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 6.552,
+        "_source" : {
+          "name" : "アオイショー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 4.1638637,
+        "_source" : {
+          "name" : "ヴィゴーレ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 4.141,
+        "_source" : {
+          "name" : "セイハロートゥユー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 3.9152727,
+        "_source" : {
+          "name" : "テンカハル"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 1.665,
+        "_source" : {
+          "name" : "バニシングポイント"
+        }
+      }
+    ]
+  }
+}

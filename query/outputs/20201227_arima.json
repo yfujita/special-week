@@ -1,0 +1,163 @@
+{
+  "took" : 186,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 16,
+      "relation" : "eq"
+    },
+    "max_score" : 94.943924,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 94.943924,
+        "_source" : {
+          "name" : "クロノジェネシス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 64.10392,
+        "_source" : {
+          "name" : "ラッキーライラック"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 59.545876,
+        "_source" : {
+          "name" : "オーソリティ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 35.540005,
+        "_source" : {
+          "name" : "カレンブーケドール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 31.718353,
+        "_source" : {
+          "name" : "ラヴズオンリーユー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 23.621105,
+        "_source" : {
+          "name" : "サラキア"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 20.225826,
+        "_source" : {
+          "name" : "バビット"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 15.697186,
+        "_source" : {
+          "name" : "フィエールマン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 9.541056,
+        "_source" : {
+          "name" : "ワールドプレミア"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 9.442124,
+        "_source" : {
+          "name" : "モズベッロ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 3.908778,
+        "_source" : {
+          "name" : "オセアグレイト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 3.8436244,
+        "_source" : {
+          "name" : "ユーキャンスマイル"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 3.3864744,
+        "_source" : {
+          "name" : "キセキ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 3.2543051,
+        "_source" : {
+          "name" : "クレッシェンドラヴ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 1.606003,
+        "_source" : {
+          "name" : "ブラストワンピース"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 1.0022427,
+        "_source" : {
+          "name" : "ペルシアンナイト"
+        }
+      }
+    ]
+  }
+}
