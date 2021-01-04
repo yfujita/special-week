@@ -1,0 +1,163 @@
+{
+  "took" : 216,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 16,
+      "relation" : "eq"
+    },
+    "max_score" : 20.331177,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 20.331177,
+        "_source" : {
+          "name" : "タイセイビジョン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 18.012058,
+        "_source" : {
+          "name" : "シュリ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 17.07506,
+        "_source" : {
+          "name" : "トリプルエース"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 10.869137,
+        "_source" : {
+          "name" : "ピースワンパラディ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 9.560538,
+        "_source" : {
+          "name" : "レッドアネモス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 6.154487,
+        "_source" : {
+          "name" : "レッドガラン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 5.07488,
+        "_source" : {
+          "name" : "ボンセルヴィーソ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 4.8675284,
+        "_source" : {
+          "name" : "サトノアーサー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 3.6520882,
+        "_source" : {
+          "name" : "ラセット"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 3.0444996,
+        "_source" : {
+          "name" : "ケイアイノーテック"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 2.926868,
+        "_source" : {
+          "name" : "メイケイダイハード"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 2.5690591,
+        "_source" : {
+          "name" : "ロードマイウェイ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 0.9978079,
+        "_source" : {
+          "name" : "エントシャイデン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 0.14482592,
+        "_source" : {
+          "name" : "ケイデンスコール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 0.06217424,
+        "_source" : {
+          "name" : "スマートオーディン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 0.0017497526,
+        "_source" : {
+          "name" : "ブラックムーン"
+        }
+      }
+    ]
+  }
+}

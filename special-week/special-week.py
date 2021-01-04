@@ -144,18 +144,27 @@ def calculate_performance_score(race_info:dict, horse: dict) -> float:
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_1':
       additional_score += 15
       debug_logging('score += 15')
+    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_1':
+      additional_score += 7
+      debug_logging('score += 7')
     elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_2':
       additional_score += 20
       debug_logging('score += 20')
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_2':
       additional_score += 7
       debug_logging('score += 10')
+    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_2':
+      additional_score += 4
+      debug_logging('score += 4')
     elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      additional_score += 10
+      additional_score += 15
       debug_logging('score += 15')
     elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      additional_score += 3
+      additional_score += 5
       debug_logging('score += 5')
+    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_3':
+      additional_score += 3
+      debug_logging('score += 1')
     
     # 着差加点
     if race_result[FIELD_RANKING] == 1:
@@ -163,7 +172,7 @@ def calculate_performance_score(race_info:dict, horse: dict) -> float:
       additional_score += additional_score * difference
       debug_logging('differnce point: ' + str(additional_score * difference))
        
-    distance_rate = 800 / (800 + abs(race_distance - race_result[FIELD_DISTANCE]))
+    distance_rate = 1000 / (1000 + abs(race_distance - race_result[FIELD_DISTANCE]))
     debug_logging('distance_rate:' + str(distance_rate))
     additional_score = additional_score * distance_rate
 

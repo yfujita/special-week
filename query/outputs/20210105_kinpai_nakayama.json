@@ -1,0 +1,172 @@
+{
+  "took" : 151,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 17,
+      "relation" : "eq"
+    },
+    "max_score" : 28.357025,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 28.357025,
+        "_source" : {
+          "name" : "ヒシイグアス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 23.697601,
+        "_source" : {
+          "name" : "ココロノトウダイ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 15.549969,
+        "_source" : {
+          "name" : "ショウナンバルディ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 15.419174,
+        "_source" : {
+          "name" : "ディープボンド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 13.312806,
+        "_source" : {
+          "name" : "シークレットラン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 13.053492,
+        "_source" : {
+          "name" : "ロザムール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 12.119226,
+        "_source" : {
+          "name" : "ヴァンケドミンゴ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "17",
+        "_score" : 8.762548,
+        "_source" : {
+          "name" : "バイオスパーク"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 5.693728,
+        "_source" : {
+          "name" : "テリトーリアル"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 5.258893,
+        "_source" : {
+          "name" : "アールスター"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 4.4726696,
+        "_source" : {
+          "name" : "リュヌルージュ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 3.8479445,
+        "_source" : {
+          "name" : "ウインイクシード"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 3.476529,
+        "_source" : {
+          "name" : "ダーリントンホール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 1.5988661,
+        "_source" : {
+          "name" : "マウントゴールド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 0.67085207,
+        "_source" : {
+          "name" : "マイネルサーパス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 0.09708741,
+        "_source" : {
+          "name" : "ロードクエスト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 1.424532E-15,
+        "_source" : {
+          "name" : "カデナ"
+        }
+      }
+    ]
+  }
+}
