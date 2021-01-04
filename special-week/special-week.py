@@ -23,6 +23,8 @@ FIELD_RANKING: Final[str] = 'ranking'
 FIELD_DISTANCE: Final[str] = 'distance'
 FIELD_RACE_COURSE_TYPE: Final[str] = 'course_type'
 FIELD_RACE_COURSE_CONDITION: Final[str] = 'course_condition'
+FIELD_FIELD_DIFFERENCE: Final[str] = 'time_difference'
+FIELD_RUNNING_STYLE: Final[str] = 'running_style'
 
 def parse_arg() -> dict:
   parser = argparse.ArgumentParser()
@@ -112,6 +114,8 @@ def scraping_horse_performance(soup_tr) -> dict:
     FIELD_DISTANCE: int(td_array[14].text.strip()[1:]),
     FIELD_RACE_COURSE_TYPE: td_array[14].text.strip()[:1],
     FIELD_RACE_COURSE_CONDITION: td_array[15].text.strip(),
+    FIELD_FIELD_DIFFERENCE: float(td_array[18].text.strip() if len(td_array[18].text.strip()) > 0 else '0'),
+    FIELD_RUNNING_STYLE: int(td_array[20].text.strip()[:1] if len(td_array[20].text.strip()) > 0 else '7')
   }
 
 def calculate_performance_score(race_info:dict, horse: dict) -> float:
@@ -153,6 +157,12 @@ def calculate_performance_score(race_info:dict, horse: dict) -> float:
       additional_score += 3
       debug_logging('score += 5')
     
+    # 着差加点
+    if race_result[FIELD_RANKING] == 1:
+      difference: float = abs(race_result[FIELD_FIELD_DIFFERENCE])
+      additional_score += additional_score * difference
+      debug_logging('differnce point: ' + str(additional_score * difference))
+       
     distance_rate = 800 / (800 + abs(race_distance - race_result[FIELD_DISTANCE]))
     debug_logging('distance_rate:' + str(distance_rate))
     additional_score = additional_score * distance_rate
