@@ -1,0 +1,154 @@
+{
+  "took" : 222,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 15,
+      "relation" : "eq"
+    },
+    "max_score" : 16.11956,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 16.11956,
+        "_source" : {
+          "name" : "ククナ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 14.348945,
+        "_source" : {
+          "name" : "マリアエレーナ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 8.824889,
+        "_source" : {
+          "name" : "カスティーリャ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 7.654182,
+        "_source" : {
+          "name" : "ダディーズビビッド"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 7.61202,
+        "_source" : {
+          "name" : "バスラットレオン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 6.9942145,
+        "_source" : {
+          "name" : "ルース"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 6.2181816,
+        "_source" : {
+          "name" : "ルークズネスト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 5.7705555,
+        "_source" : {
+          "name" : "ファルヴォーレ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 5.0145454,
+        "_source" : {
+          "name" : "ブルーシンフォニー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 4.966,
+        "_source" : {
+          "name" : "セラフィナイト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 4.928,
+        "_source" : {
+          "name" : "レゾンドゥスリール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 4.5609093,
+        "_source" : {
+          "name" : "ピクシーナイト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 4.5039396,
+        "_source" : {
+          "name" : "ワザモノ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 4.2101274,
+        "_source" : {
+          "name" : "トーカイキング"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 3.5545454,
+        "_source" : {
+          "name" : "ロードマックス"
+        }
+      }
+    ]
+  }
+}
