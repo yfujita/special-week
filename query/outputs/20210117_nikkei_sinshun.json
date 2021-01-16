@@ -1,0 +1,163 @@
+{
+  "took" : 257,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 16,
+      "relation" : "eq"
+    },
+    "max_score" : 16.136992,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 16.136992,
+        "_source" : {
+          "name" : "アドマイヤビルゴ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 15.159484,
+        "_source" : {
+          "name" : "サンレイポケット"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 10.301541,
+        "_source" : {
+          "name" : "ショウリュウイクゾ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 6.050038,
+        "_source" : {
+          "name" : "ヴェロックス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 6.0230865,
+        "_source" : {
+          "name" : "ワセダインブルー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 5.845494,
+        "_source" : {
+          "name" : "クラージュゲリエ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 4.902325,
+        "_source" : {
+          "name" : "ダイワキャグニー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 4.1822295,
+        "_source" : {
+          "name" : "サトノソルタス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 3.538242,
+        "_source" : {
+          "name" : "レイホーロマンス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 2.9915643,
+        "_source" : {
+          "name" : "バレリオ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 2.6935577,
+        "_source" : {
+          "name" : "サトノインプレッサ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 1.2524945,
+        "_source" : {
+          "name" : "エアウィンザー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 1.1265239,
+        "_source" : {
+          "name" : "レクセランス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 1.1066124,
+        "_source" : {
+          "name" : "ミスディレクション"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 0.7299829,
+        "_source" : {
+          "name" : "ミスマンマミーア"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 0.37680122,
+        "_source" : {
+          "name" : "ロサグラウカ"
+        }
+      }
+    ]
+  }
+}
