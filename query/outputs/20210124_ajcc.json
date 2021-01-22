@@ -1,0 +1,172 @@
+{
+  "took" : 253,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 17,
+      "relation" : "eq"
+    },
+    "max_score" : 34.77856,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 34.77856,
+        "_source" : {
+          "name" : "ウインマリリン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 24.967405,
+        "_source" : {
+          "name" : "アリストテレス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 24.70427,
+        "_source" : {
+          "name" : "サトノフラッグ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 18.117342,
+        "_source" : {
+          "name" : "ヴェルトライゼンデ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 15.099783,
+        "_source" : {
+          "name" : "ステイフーリッシュ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 12.389124,
+        "_source" : {
+          "name" : "モズベッロ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 11.372972,
+        "_source" : {
+          "name" : "サンアップルトン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 9.94791,
+        "_source" : {
+          "name" : "ラストドラフト"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "16",
+        "_score" : 7.841184,
+        "_source" : {
+          "name" : "ジェネラーレウーノ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "17",
+        "_score" : 4.57416,
+        "_source" : {
+          "name" : "ジャコマル"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 4.4182763,
+        "_source" : {
+          "name" : "タガノディアマンテ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 1.1717609,
+        "_source" : {
+          "name" : "ベストアプローチ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 0.5472265,
+        "_source" : {
+          "name" : "ノーブルマーズ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 0.43381763,
+        "_source" : {
+          "name" : "ソッサスブレイ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 0.2283981,
+        "_source" : {
+          "name" : "ナイママ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 0.023321632,
+        "_source" : {
+          "name" : "マイネルハニー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 0.021543786,
+        "_source" : {
+          "name" : "ランフォザローゼス"
+        }
+      }
+    ]
+  }
+}

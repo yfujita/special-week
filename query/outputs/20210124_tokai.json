@@ -1,0 +1,154 @@
+{
+  "took" : 332,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 1,
+    "successful" : 1,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : {
+      "value" : 15,
+      "relation" : "eq"
+    },
+    "max_score" : 25.307098,
+    "hits" : [
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "15",
+        "_score" : 25.307098,
+        "_source" : {
+          "name" : "メモリーコウ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "9",
+        "_score" : 20.175753,
+        "_source" : {
+          "name" : "ダノンスプレンダー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "11",
+        "_score" : 14.162691,
+        "_source" : {
+          "name" : "オーヴェルニュ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "6",
+        "_score" : 9.105224,
+        "_source" : {
+          "name" : "インティ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "4",
+        "_score" : 9.098942,
+        "_source" : {
+          "name" : "タイキフェルヴール"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "12",
+        "_score" : 8.952363,
+        "_source" : {
+          "name" : "アナザートゥルース"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "10",
+        "_score" : 7.180491,
+        "_source" : {
+          "name" : "ハヤヤッコ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "13",
+        "_score" : 7.0921245,
+        "_source" : {
+          "name" : "デュードヴァン"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "7",
+        "_score" : 4.0633626,
+        "_source" : {
+          "name" : "ケイアイパープル"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "8",
+        "_score" : 3.8093941,
+        "_source" : {
+          "name" : "ムイトオブリガード"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "2",
+        "_score" : 3.548551,
+        "_source" : {
+          "name" : "ダイシンインディー"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "14",
+        "_score" : 2.1837785,
+        "_source" : {
+          "name" : "ロードアクシス"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "1",
+        "_score" : 1.4332571,
+        "_source" : {
+          "name" : "グレートタイム"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "3",
+        "_score" : 0.26813203,
+        "_source" : {
+          "name" : "コマビショウ"
+        }
+      },
+      {
+        "_index" : "horses",
+        "_type" : "_doc",
+        "_id" : "5",
+        "_score" : 0.2543373,
+        "_source" : {
+          "name" : "テーオーフォース"
+        }
+      }
+    ]
+  }
+}
