@@ -32,15 +32,6 @@
           }
         },
         {
-          "linear": {
-            "run_type": {
-              "origin": 1,
-              "scale": 1,
-              "decay": 0.90
-            }
-          }
-        },
-        {
           "filter": {
             "term": {
               "sex": "牝"

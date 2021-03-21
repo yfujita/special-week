@@ -6,6 +6,8 @@ from typing import Final
 import re
 import time
 import sys
+from tipster import Tipster
+from horse import Horse, RaceResult
 
 import sp_es
 
@@ -43,7 +45,16 @@ def load_race_info(race_info_name: str) -> dict:
 def build_data(race_info: dict):
   data: dict = {}
   data['race_name'] = race_info['race_name']
-  data['horses'] = scraping_horses(race_info, build_race_url(race_info['race_id']))
+  horses: list = scraping_horses(race_info, build_race_url(race_info['race_id']))
+
+  # 予想する
+  tipster: Tipster = Tipster()
+  tipster.execute(race_info, horses)
+
+  dict_list: list = []
+  for horse in horses:
+    dict_list.append(horse.to_dict())
+  data['horses'] = dict_list
   return data
 
 def scraping_horses(race_info: dict, race_url: str) -> list:
@@ -64,22 +75,21 @@ def scraping_horses(race_info: dict, race_url: str) -> list:
     sys.stdout.flush()
 
     horse_url = td_horseinfo.find('a').get('href')
-    performance = scraping_horse(horse_url)
+    results = scraping_horse(horse_url)
     sex = tr_horse.find('td', class_='Barei').text.strip()[:1]
     age = tr_horse.find('td', class_='Barei').text.strip()[1:]
     additional_weight = td_array[5].text.strip()
-    horse = {
-      'pos': pos,
-      'horse_name': horse_name,
-      'sex': sex,
-      'age': age,
-      'additional_weight': additional_weight,
-      'horse_performance': performance,
-    }
-    horse['performance_score'] = calculate_performance_score(race_info, horse)
+    horse = Horse(
+      pos=pos,
+      horse_name=horse_name,
+      sex=sex,
+      age=age,
+      additional_weight=additional_weight,
+      race_results=results
+    )
     horses.append(horse)
-    time.sleep(2)
-  
+    time.sleep(1)
+
   return horses
 
 def build_race_url(id: str):
@@ -92,103 +102,33 @@ def scraping_horse(target_url: str) -> list:
   soup_result_table = soup.find(class_="db_h_race_results")
   races: list = []
   for soup_tr in soup_result_table.find('tbody').find_all("tr"):
-    race_info: dict = scraping_horse_performance(soup_tr)
-    if race_info != None:
-      races.append(race_info)
+    race_result: RaceResult = scraping_horse_performance(soup_tr)
+    if race_result != None:
+      races.append(race_result)
   return races
 
-def scraping_horse_performance(soup_tr) -> dict:
+def scraping_horse_performance(soup_tr) -> RaceResult:
   td_array = []
   for soup_td in soup_tr.find_all("td"):
     td_array.append(soup_td)
-  if td_array[11].text.strip() in ['除','中','取']:
+  if not td_array[11].text.strip().isdigit():
     return None
-  return {
-    FIELD_DATE: td_array[0].text.strip(),
-    FIELD_COURSE: td_array[1].text.strip(),
-    FIELD_WEATHER: td_array[2].text.strip(),
-    FIELD_RACE_NAME: td_array[4].text.strip(),
-    FIELD_RACE_GRADE: td_array[4].get('class')[0] if len(td_array[4].get('class')) > 0 else "",
-    FIELD_POPULARITY: td_array[10].text.strip(),
-    FIELD_RANKING: int(td_array[11].text.strip()),
-    FIELD_DISTANCE: int(td_array[14].text.strip()[1:]),
-    FIELD_RACE_COURSE_TYPE: td_array[14].text.strip()[:1],
-    FIELD_RACE_COURSE_CONDITION: td_array[15].text.strip(),
-    FIELD_FIELD_DIFFERENCE: float(td_array[18].text.strip() if len(td_array[18].text.strip()) > 0 else '0'),
-    FIELD_RUNNING_STYLE: int(td_array[20].text.strip()[:1] if len(td_array[20].text.strip()) > 0 else '7')
-  }
-
-def calculate_performance_score(race_info:dict, horse: dict) -> float:
-  reversed = []
-  for tmp in horse['horse_performance']:
-    reversed.insert(0, tmp)
-
-  race_distance = race_info['distance']
-  score = 1
-  for race_result in reversed:
-    debug_logging("race:" + race_result[FIELD_RACE_NAME] + ' grade:' + race_result[FIELD_RACE_GRADE] + ' ' + str(race_result[FIELD_RANKING]) + '着')
-
-    additional_score = 0
-    # 勝利数加点
-    if race_result[FIELD_RANKING] == 1:
-      additional_score += 5
-      debug_logging('score += 5')
-    elif race_result[FIELD_RANKING] <= 3:
-      additional_score += 2
-      debug_logging('score += 2')
-    
-    # 重賞加点
-    if race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_1':
-      additional_score += 30
-      debug_logging('score += 30')
-    elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_1':
-      additional_score += 15
-      debug_logging('score += 15')
-    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_1':
-      additional_score += 7
-      debug_logging('score += 7')
-    elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_2':
-      additional_score += 20
-      debug_logging('score += 20')
-    elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_2':
-      additional_score += 7
-      debug_logging('score += 10')
-    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_2':
-      additional_score += 4
-      debug_logging('score += 4')
-    elif race_result[FIELD_RANKING] == 1 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      additional_score += 15
-      debug_logging('score += 15')
-    elif race_result[FIELD_RANKING] <= 3 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      additional_score += 5
-      debug_logging('score += 5')
-    elif race_result[FIELD_RANKING] <= 5 and race_result[FIELD_RACE_GRADE] == 'rank_3':
-      additional_score += 3
-      debug_logging('score += 1')
-    
-    # 着差加点
-    if race_result[FIELD_RANKING] == 1:
-      difference: float = abs(race_result[FIELD_FIELD_DIFFERENCE])
-      additional_score += additional_score * difference
-      debug_logging('differnce point: ' + str(additional_score * difference))
-       
-    distance_rate = 1000 / (1000 + abs(race_distance - race_result[FIELD_DISTANCE]))
-    debug_logging('distance_rate:' + str(distance_rate))
-    additional_score = additional_score * distance_rate
-
-    score += additional_score
-    # 負け減点
-    if race_result[FIELD_RANKING] > 5:
-      score /= 2
-      debug_logging('score /= 2')
-    elif race_result[FIELD_RANKING] > 3:
-      score /= 1.2
-      debug_logging('score /= 1.2')
-    elif race_result[FIELD_RANKING] > 1:
-      score /= 1.1
-      debug_logging('score /= 1.1')
-  
-  return score
+  return RaceResult(
+    date = td_array[0].text.strip(),
+    course = td_array[1].text.strip(),
+    weather = td_array[2].text.strip(),
+    race_name = td_array[4].text.strip(),
+    race_grade = td_array[4].get('class')[0] if len(td_array[4].get('class')) > 0 else "",
+    number_of_horses = int(td_array[6].text.strip()),
+    popularity = td_array[10].text.strip(),
+    ranking = int(td_array[11].text.strip()),
+    distance = int(td_array[14].text.strip()[1:]),
+    course_type = td_array[14].text.strip()[:1],
+    course_condition = td_array[15].text.strip(),
+    time = td_array[17].text.strip(),
+    difference = float(td_array[18].text.strip() if len(td_array[18].text.strip()) > 0 else '0'),
+    passing = td_array[20].text.strip()
+  )
 
 def debug_logging(message: str):
   if DEBUG_LOGGING:

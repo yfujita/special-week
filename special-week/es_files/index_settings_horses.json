@@ -19,6 +19,9 @@
       "age": {
         "type": "integer"
       },
+      "run_type": {
+        "type": "integer"
+      },
       "additional_weight": {
         "type": "integer"
       },

@@ -36,7 +36,7 @@ class SpEs():
 
     for horse in race_data['horses']:
       performances = []
-      for performance in horse['horse_performance']:
+      for performance in horse['race_results']:
         performances.append(performance)
 
       doc_horse: dict = {
@@ -44,9 +44,10 @@ class SpEs():
         'pos': horse['pos'],
         'sex': horse['sex'],
         'age': horse['age'],
+        'run_type': horse['run_type'],
         'additional_weight': horse['additional_weight'],
         'performance': performances,
-        'performance_score': horse['performance_score']
+        'performance_score': horse['score']
       }
       print('Put ' + str(doc_horse))
       response = requests.put(self.__index_url() + '/_doc/' + str(horse['pos']), data=json.dumps(doc_horse), headers=self.headers)

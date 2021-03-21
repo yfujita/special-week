@@ -20,6 +20,8 @@ RUN mkdir -p /opt/race-info/
 #ファイルをappディレクトリに追加
 COPY special-week.py /app/
 COPY sp_es.py /app/
+COPY horse.py /app/
+COPY tipster.py /app/
 COPY es_files /app/es_files/
 
 #ルートディレクトリ設定
