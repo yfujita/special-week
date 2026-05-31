@@ -24,6 +24,8 @@ class Horse:
     position = 0
     for race_result in self.race_results:
       first_passing = race_result.passing.split('-')[0]
+      if first_passing == "":
+        first_passing = "6"
       position += int(first_passing) / race_result.number_of_horses
 
     position = position / len(self.race_results)
