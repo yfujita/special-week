@@ -1,0 +1,102 @@
+{
+  "race_id": "202310020411",
+  "race_date": "20230219",
+  "results": [
+    {
+      "horse_name": "ヒンドゥタイムズ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "カテドラル",
+      "ranking": 2,
+      "popularity": 9,
+      "odds": 17.7
+    },
+    {
+      "horse_name": "バジオウ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 18.8
+    },
+    {
+      "horse_name": "ロングラン",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ホウオウエミーズ",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "サトノエルドール",
+      "ranking": 6,
+      "popularity": 14,
+      "odds": 51.3
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 7,
+      "popularity": 7,
+      "odds": 15.0
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "フォワードアゲン",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 21.5
+    },
+    {
+      "horse_name": "レッドランメルト",
+      "ranking": 10,
+      "popularity": 1,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "インテンスライト",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 112.5
+    },
+    {
+      "horse_name": "アルサトワ",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 42.5
+    },
+    {
+      "horse_name": "フォルコメン",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 13.9
+    },
+    {
+      "horse_name": "ゴールドギア",
+      "ranking": 14,
+      "popularity": 16,
+      "odds": 136.7
+    },
+    {
+      "horse_name": "レッドベルオーブ",
+      "ranking": 15,
+      "popularity": 8,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 51.2
+    }
+  ]
+}

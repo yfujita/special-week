@@ -1,0 +1,108 @@
+{
+  "race_id": "202106010111",
+  "race_date": "20210105",
+  "results": [
+    {
+      "horse_name": "ヒシイグアス",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "ココロノトウダイ",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "ウインイクシード",
+      "ranking": 3,
+      "popularity": 11,
+      "odds": 30.7
+    },
+    {
+      "horse_name": "ロザムール",
+      "ranking": 4,
+      "popularity": 14,
+      "odds": 56.3
+    },
+    {
+      "horse_name": "アールスター",
+      "ranking": 5,
+      "popularity": 13,
+      "odds": 34.2
+    },
+    {
+      "horse_name": "テリトーリアル",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 9.5
+    },
+    {
+      "horse_name": "シークレットラン",
+      "ranking": 7,
+      "popularity": 7,
+      "odds": 16.0
+    },
+    {
+      "horse_name": "ロードクエスト",
+      "ranking": 8,
+      "popularity": 17,
+      "odds": 134.0
+    },
+    {
+      "horse_name": "マウントゴールド",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 116.7
+    },
+    {
+      "horse_name": "バイオスパーク",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 20.5
+    },
+    {
+      "horse_name": "カデナ",
+      "ranking": 11,
+      "popularity": 6,
+      "odds": 13.5
+    },
+    {
+      "horse_name": "ヴァンケドミンゴ",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 10.9
+    },
+    {
+      "horse_name": "ショウナンバルディ",
+      "ranking": 13,
+      "popularity": 8,
+      "odds": 20.4
+    },
+    {
+      "horse_name": "ディープボンド",
+      "ranking": 14,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "リュヌルージュ",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 30.8
+    },
+    {
+      "horse_name": "マイネルサーパス",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 119.4
+    },
+    {
+      "horse_name": "ダーリントンホール",
+      "ranking": 17,
+      "popularity": 10,
+      "odds": 21.1
+    }
+  ]
+}

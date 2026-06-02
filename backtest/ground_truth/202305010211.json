@@ -1,0 +1,102 @@
+{
+  "race_id": "202305010211",
+  "race_date": "20230129",
+  "results": [
+    {
+      "horse_name": "レモンポップ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.6
+    },
+    {
+      "horse_name": "ギルデッドミラー",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "バトルクライ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 12.8
+    },
+    {
+      "horse_name": "タガノビューティー",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 23.4
+    },
+    {
+      "horse_name": "エアアルマス",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 87.3
+    },
+    {
+      "horse_name": "ケンシンコウ",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 86.7
+    },
+    {
+      "horse_name": "ベルダーイメル",
+      "ranking": 7,
+      "popularity": 14,
+      "odds": 190.8
+    },
+    {
+      "horse_name": "デンコウリジエール",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 166.7
+    },
+    {
+      "horse_name": "ジャスパープリンス",
+      "ranking": 9,
+      "popularity": 16,
+      "odds": 347.5
+    },
+    {
+      "horse_name": "レディバグ",
+      "ranking": 10,
+      "popularity": 15,
+      "odds": 191.3
+    },
+    {
+      "horse_name": "アドマイヤルプス",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 62.2
+    },
+    {
+      "horse_name": "ホウオウアマゾン",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 32.5
+    },
+    {
+      "horse_name": "セキフウ",
+      "ranking": 13,
+      "popularity": 7,
+      "odds": 27.2
+    },
+    {
+      "horse_name": "テイエムサウスダン",
+      "ranking": 14,
+      "popularity": 3,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "ヘリオス",
+      "ranking": 15,
+      "popularity": 5,
+      "odds": 14.7
+    },
+    {
+      "horse_name": "オーロラテソーロ",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 109.2
+    }
+  ]
+}

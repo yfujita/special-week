@@ -1,0 +1,114 @@
+{
+  "race_id": "202506010911",
+  "race_date": "20250126",
+  "results": [
+    {
+      "horse_name": "ダノンデサイル",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "マテンロウレオ",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 24.3
+    },
+    {
+      "horse_name": "コスモキュランダ",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 7.4
+    },
+    {
+      "horse_name": "ボルドグフーシュ",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "ライラック",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 40.3
+    },
+    {
+      "horse_name": "ビザンチンドリーム",
+      "ranking": 6,
+      "popularity": 5,
+      "odds": 17.4
+    },
+    {
+      "horse_name": "ボーンディスウェイ",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 41.0
+    },
+    {
+      "horse_name": "エヒト",
+      "ranking": 8,
+      "popularity": 16,
+      "odds": 212.4
+    },
+    {
+      "horse_name": "マイネルクリソーラ",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 191.9
+    },
+    {
+      "horse_name": "ディープモンスター",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 27.6
+    },
+    {
+      "horse_name": "カラテ",
+      "ranking": 11,
+      "popularity": 17,
+      "odds": 244.5
+    },
+    {
+      "horse_name": "レーベンスティール",
+      "ranking": 12,
+      "popularity": 2,
+      "odds": 2.9
+    },
+    {
+      "horse_name": "チャックネイト",
+      "ranking": 13,
+      "popularity": 8,
+      "odds": 28.6
+    },
+    {
+      "horse_name": "アラタ",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 127.9
+    },
+    {
+      "horse_name": "ポタジェ",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 142.2
+    },
+    {
+      "horse_name": "ニシノレヴナント",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 64.1
+    },
+    {
+      "horse_name": "ホウオウリアリティ",
+      "ranking": 17,
+      "popularity": 18,
+      "odds": 364.6
+    },
+    {
+      "horse_name": "アウスヴァール",
+      "ranking": 18,
+      "popularity": 12,
+      "odds": 81.8
+    }
+  ]
+}

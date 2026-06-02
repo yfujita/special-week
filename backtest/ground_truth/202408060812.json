@@ -1,0 +1,114 @@
+{
+  "race_id": "202408060812",
+  "race_date": "20241124",
+  "results": [
+    {
+      "horse_name": "ビッグシーザー",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "ウインカーネリアン",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ヴェントヴォーチェ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 28.1
+    },
+    {
+      "horse_name": "プルパレイ",
+      "ranking": 4,
+      "popularity": 11,
+      "odds": 37.0
+    },
+    {
+      "horse_name": "サブライムアンセム",
+      "ranking": 5,
+      "popularity": 12,
+      "odds": 57.8
+    },
+    {
+      "horse_name": "ドロップオブライト",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 9.0
+    },
+    {
+      "horse_name": "アグリ",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "グレイトゲイナー",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 128.6
+    },
+    {
+      "horse_name": "グランテスト",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 11.8
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 117.0
+    },
+    {
+      "horse_name": "レッドベルオーブ",
+      "ranking": 13,
+      "popularity": 17,
+      "odds": 229.3
+    },
+    {
+      "horse_name": "エイシンスポッター",
+      "ranking": 14,
+      "popularity": 2,
+      "odds": 6.3
+    },
+    {
+      "horse_name": "チェイスザドリーム",
+      "ranking": 15,
+      "popularity": 9,
+      "odds": 19.2
+    },
+    {
+      "horse_name": "マメコ",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 161.4
+    },
+    {
+      "horse_name": "レッドヒルシューズ",
+      "ranking": 17,
+      "popularity": 13,
+      "odds": 67.5
+    },
+    {
+      "horse_name": "ラプタス",
+      "ranking": 18,
+      "popularity": 18,
+      "odds": 301.4
+    }
+  ]
+}

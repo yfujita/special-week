@@ -1,0 +1,114 @@
+{
+  "race_id": "202608030211",
+  "race_date": "20260426",
+  "results": [
+    {
+      "horse_name": "アドマイヤズーム",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "ドラゴンブースト",
+      "ranking": 2,
+      "popularity": 9,
+      "odds": 20.4
+    },
+    {
+      "horse_name": "ベラジオボンド",
+      "ranking": 3,
+      "popularity": 5,
+      "odds": 8.3
+    },
+    {
+      "horse_name": "ショウナンアデイブ",
+      "ranking": 4,
+      "popularity": 13,
+      "odds": 84.5
+    },
+    {
+      "horse_name": "オフトレイル",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 4.2
+    },
+    {
+      "horse_name": "ファーヴェント",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 17.9
+    },
+    {
+      "horse_name": "シックスペンス",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "エルトンバローズ",
+      "ranking": 8,
+      "popularity": 6,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "シャンパンカラー",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 38.9
+    },
+    {
+      "horse_name": "キョウエイブリッサ",
+      "ranking": 10,
+      "popularity": 17,
+      "odds": 287.9
+    },
+    {
+      "horse_name": "ランスオブカオス",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 18.4
+    },
+    {
+      "horse_name": "ブエナオンダ",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 38.3
+    },
+    {
+      "horse_name": "ウォーターリヒト",
+      "ranking": 13,
+      "popularity": 3,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "クルゼイロドスル",
+      "ranking": 14,
+      "popularity": 12,
+      "odds": 70.6
+    },
+    {
+      "horse_name": "ファインライン",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 143.9
+    },
+    {
+      "horse_name": "アサヒ",
+      "ranking": 16,
+      "popularity": 18,
+      "odds": 294.5
+    },
+    {
+      "horse_name": "マテンロウスカイ",
+      "ranking": 17,
+      "popularity": 14,
+      "odds": 140.5
+    },
+    {
+      "horse_name": "ロングラン",
+      "ranking": 18,
+      "popularity": 16,
+      "odds": 153.6
+    }
+  ]
+}

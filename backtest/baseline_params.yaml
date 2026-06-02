@@ -1,0 +1,28 @@
+# リファクタ前の直書き値（最適化前のベースライン）を退避したもの。
+# ScoringParams のデフォルトを Optuna 最適化値へ差し替えたため、ベースラインを
+# 再現したい場合（再最適化時の比較基準・新レースセットでのベースライン取り直し等）は
+# このファイルを run_backtest.py --params に渡す:
+#   python3 run_backtest.py --params baseline_params.yaml --run-id baseline_check
+win_score_1st: 5.0
+win_score_top3: 2.0
+grade1_rank1: 30.0
+grade1_rank3: 15.0
+grade1_rank5: 7.0
+grade2_rank1: 20.0
+grade2_rank3: 7.0
+grade2_rank5: 4.0
+grade3_rank1: 15.0
+grade3_rank3: 5.0
+grade3_rank5: 3.0
+difference_multiplier: 1.0
+distance_base: 1000.0
+penalty_rank6plus: 2.0
+penalty_rank4_5: 1.2
+penalty_rank2_3: 1.1
+run_type_nige_threshold: 0.2
+run_type_senkou_threshold: 0.4
+run_type_sashi_threshold: 0.7
+enable_field_size_correction: false
+field_size_base: 18
+course_type_mismatch_penalty: 1.0
+course_condition_match_bonus: 1.0

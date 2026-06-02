@@ -1,0 +1,5 @@
+# Phase 3 実験: 出走頭数補正のみ有効化
+# race_score *= log(number_of_horses) / log(field_size_base)
+# 大頭数レースでの好走を相対的に高く評価する。
+enable_field_size_correction: true
+field_size_base: 18

@@ -13,8 +13,8 @@ ENV TERM xterm
 RUN apt-get install -y vim less
 RUN pip install --upgrade pip && pip install --upgrade setuptools
 
-
-RUN pip install --upgrade beautifulsoup4 pyyaml requests
+COPY requirements.txt /app/
+RUN pip install -r /app/requirements.txt
 RUN mkdir -p /opt/race-info/
 
 #ファイルをappディレクトリに追加

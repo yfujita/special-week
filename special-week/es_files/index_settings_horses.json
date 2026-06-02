@@ -44,7 +44,7 @@
           "race_name": {
             "type": "keyword"
           },
-          "grade": {
+          "race_grade": {
             "type": "keyword"
           },
           "popularity": {
@@ -61,7 +61,13 @@
           },
           "course_condition": {
             "type": "keyword"
-          }    
+          },
+          "time": {
+            "type": "keyword"
+          },
+          "difference": {
+            "type": "double"
+          }
         }
       }
     }

@@ -1,0 +1,102 @@
+{
+  "race_id": "202207030511",
+  "race_date": "20220521",
+  "results": [
+    {
+      "horse_name": "テーオーケインズ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.8
+    },
+    {
+      "horse_name": "ケイアイパープル",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 23.0
+    },
+    {
+      "horse_name": "メイショウハリオ",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 7.0
+    },
+    {
+      "horse_name": "スマッシングハーツ",
+      "ranking": 4,
+      "popularity": 11,
+      "odds": 54.8
+    },
+    {
+      "horse_name": "スワーヴアラミス",
+      "ranking": 5,
+      "popularity": 6,
+      "odds": 21.8
+    },
+    {
+      "horse_name": "オーヴェルニュ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "サンライズホープ",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "カデナ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 35.0
+    },
+    {
+      "horse_name": "サンダーブリッツ",
+      "ranking": 9,
+      "popularity": 8,
+      "odds": 25.3
+    },
+    {
+      "horse_name": "デルマルーヴル",
+      "ranking": 10,
+      "popularity": 16,
+      "odds": 228.1
+    },
+    {
+      "horse_name": "ダンツキャッスル",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 180.5
+    },
+    {
+      "horse_name": "ペルセウスシチー",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 53.6
+    },
+    {
+      "horse_name": "ブルベアイリーデ",
+      "ranking": 13,
+      "popularity": 5,
+      "odds": 18.4
+    },
+    {
+      "horse_name": "グレートタイム",
+      "ranking": 14,
+      "popularity": 12,
+      "odds": 55.4
+    },
+    {
+      "horse_name": "ヒストリーメイカー",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 180.2
+    },
+    {
+      "horse_name": "ダノンファラオ",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 97.5
+    }
+  ]
+}

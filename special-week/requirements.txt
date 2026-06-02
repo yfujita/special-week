@@ -1,0 +1,7 @@
+beautifulsoup4==4.12.3
+pyyaml==6.0.2
+requests==2.32.3
+# Phase 4: ScoringParams の Optuna 最適化（backtest/optimize.py）で使用。
+# 導入済みバージョンに合わせて下限を指定（optuna 4.9.0 / numpy 2.4.6 で動作確認）。
+optuna>=4.0
+numpy>=2.0

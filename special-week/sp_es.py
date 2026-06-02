@@ -1,17 +1,20 @@
+import os
 import requests
 import time
 import sys
 import json
 
+
 class SpEs():
   def __init__(self):
-    self.url = "http://elasticsearch:9200"
+    # 接続先URLは環境変数 ES_URL から取得する（未設定時は docker-compose のデフォルトを使用）
+    self.url = os.environ.get('ES_URL', 'http://elasticsearch:9200')
     self.index_name = "horses"
     self.headers = {'Content-Type': 'application/json'}
 
     self.INDEX_SETTING_FILE = "./es_files/index_settings_horses.json"
-  
-  def initilaize(self):
+
+  def initialize(self):
     while True:
       try:
         response: requests.Response = requests.get(self.url)
@@ -53,9 +56,9 @@ class SpEs():
       response = requests.put(self.__index_url() + '/_doc/' + str(horse['pos']), data=json.dumps(doc_horse), headers=self.headers)
       if response.status_code >= 400:
         raise RuntimeError('Failed to put data. status:' + str(response.status_code) + " " + response.text)
-    
+
     requests.post(self.url + '/_refresh')
-  
+
 
   def __load_settings(self) -> str:
     with open(self.INDEX_SETTING_FILE) as f:

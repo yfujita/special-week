@@ -1,0 +1,5 @@
+# Phase 3 実験: 出走頭数補正 + コース種別不一致ペナルティの併用
+# 馬場状態一致ボーナスは対象レースの当日馬場状態が供給できないため見送り（neutral のまま）。
+enable_field_size_correction: true
+field_size_base: 18
+course_type_mismatch_penalty: 0.5

@@ -1,0 +1,84 @@
+{
+  "race_id": "202510011011",
+  "race_date": "20250223",
+  "results": [
+    {
+      "horse_name": "ロングラン",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ショウナンアデイブ",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "ラケマーダ",
+      "ranking": 3,
+      "popularity": 12,
+      "odds": 32.0
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 4,
+      "popularity": 11,
+      "odds": 26.6
+    },
+    {
+      "horse_name": "エピファニー",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "マテンロウオリオン",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 23.3
+    },
+    {
+      "horse_name": "グランドカリナン",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 17.6
+    },
+    {
+      "horse_name": "シルトホルン",
+      "ranking": 8,
+      "popularity": 1,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "コスモブッドレア",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "ヤマニンウルス",
+      "ranking": 10,
+      "popularity": 3,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "エアファンディタ",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 17.9
+    },
+    {
+      "horse_name": "ギャラクシーナイト",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 32.1
+    },
+    {
+      "horse_name": "ホウオウプロサンゲ",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 10.3
+    }
+  ]
+}

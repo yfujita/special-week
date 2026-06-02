@@ -1,0 +1,84 @@
+{
+  "race_id": "202309030611",
+  "race_date": "20230618",
+  "results": [
+    {
+      "horse_name": "ビッグリボン",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "ウインマイティー",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.0
+    },
+    {
+      "horse_name": "ホウオウエミーズ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 23.8
+    },
+    {
+      "horse_name": "ゴールドエクリプス",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 11.1
+    },
+    {
+      "horse_name": "シンシアウィッシュ",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "ビジン",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 16.0
+    },
+    {
+      "horse_name": "ストーリア",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "ランスオブアース",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 34.4
+    },
+    {
+      "horse_name": "サンカルパ",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 13.2
+    },
+    {
+      "horse_name": "タガノフィナーレ",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 90.4
+    },
+    {
+      "horse_name": "ヒヅルジョウ",
+      "ranking": 11,
+      "popularity": 6,
+      "odds": 11.8
+    },
+    {
+      "horse_name": "ハギノメーテル",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 74.5
+    },
+    {
+      "horse_name": "シャーレイポピー",
+      "ranking": 13,
+      "popularity": 9,
+      "odds": 21.0
+    }
+  ]
+}

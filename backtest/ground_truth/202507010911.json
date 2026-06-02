@@ -1,0 +1,102 @@
+{
+  "race_id": "202507010911",
+  "race_date": "20250126",
+  "results": [
+    {
+      "horse_name": "サンデーファンデー",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "サンライズジパング",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 2.5
+    },
+    {
+      "horse_name": "ドゥラエレーデ",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "ホウオウルーレット",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 40.7
+    },
+    {
+      "horse_name": "ミッキーヌチバナ",
+      "ranking": 5,
+      "popularity": 6,
+      "odds": 32.0
+    },
+    {
+      "horse_name": "カズペトシーン",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "ディープリボーン",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 43.3
+    },
+    {
+      "horse_name": "ニューモニュメント",
+      "ranking": 9,
+      "popularity": 16,
+      "odds": 266.9
+    },
+    {
+      "horse_name": "サンマルパトロール",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 66.6
+    },
+    {
+      "horse_name": "ビヨンドザファザー",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 240.6
+    },
+    {
+      "horse_name": "タマモロック",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 69.3
+    },
+    {
+      "horse_name": "サトノエピック",
+      "ranking": 13,
+      "popularity": 10,
+      "odds": 53.9
+    },
+    {
+      "horse_name": "フタイテンロック",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 92.2
+    },
+    {
+      "horse_name": "ロコポルティ",
+      "ranking": 15,
+      "popularity": 7,
+      "odds": 34.8
+    },
+    {
+      "horse_name": "ペプチドソレイユ",
+      "ranking": 16,
+      "popularity": 15,
+      "odds": 241.6
+    }
+  ]
+}

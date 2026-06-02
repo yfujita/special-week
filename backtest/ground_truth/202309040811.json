@@ -1,0 +1,90 @@
+{
+  "race_id": "202309040811",
+  "race_date": "20230930",
+  "results": [
+    {
+      "horse_name": "ハギノアレグリアス",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "アイコンテーラー",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 5.2
+    },
+    {
+      "horse_name": "ヴァンヤール",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "フルヴォート",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 24.8
+    },
+    {
+      "horse_name": "カフジオクタゴン",
+      "ranking": 5,
+      "popularity": 6,
+      "odds": 9.3
+    },
+    {
+      "horse_name": "ニューモニュメント",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 13.4
+    },
+    {
+      "horse_name": "トウセツ",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 24.2
+    },
+    {
+      "horse_name": "サンライズホープ",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 37.9
+    },
+    {
+      "horse_name": "ゲンパチルシファー",
+      "ranking": 9,
+      "popularity": 14,
+      "odds": 115.2
+    },
+    {
+      "horse_name": "クリノドラゴン",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 43.0
+    },
+    {
+      "horse_name": "ヘラルドバローズ",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 9.3
+    },
+    {
+      "horse_name": "キリンジ",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "ロードブレス",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 83.5
+    },
+    {
+      "horse_name": "サンマルレジェンド",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 31.6
+    }
+  ]
+}

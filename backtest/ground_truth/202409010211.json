@@ -1,0 +1,114 @@
+{
+  "race_id": "202409010211",
+  "race_date": "20240225",
+  "results": [
+    {
+      "horse_name": "ウインマーベル",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "アサカラキング",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "サンライズロナウド",
+      "ranking": 3,
+      "popularity": 9,
+      "odds": 24.7
+    },
+    {
+      "horse_name": "サトノレーヴ",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "ボルザコフスキー",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 18.9
+    },
+    {
+      "horse_name": "ルプリュフォール",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 31.1
+    },
+    {
+      "horse_name": "ホープフルサイン",
+      "ranking": 7,
+      "popularity": 15,
+      "odds": 165.0
+    },
+    {
+      "horse_name": "カルロヴェローチェ",
+      "ranking": 8,
+      "popularity": 6,
+      "odds": 17.2
+    },
+    {
+      "horse_name": "ダノンティンパニー",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "スマートクラージュ",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 11.2
+    },
+    {
+      "horse_name": "デュガ",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 181.4
+    },
+    {
+      "horse_name": "ワールドウインズ",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 162.8
+    },
+    {
+      "horse_name": "メイショウチタン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 61.3
+    },
+    {
+      "horse_name": "サトノアイ",
+      "ranking": 14,
+      "popularity": 17,
+      "odds": 296.9
+    },
+    {
+      "horse_name": "タマモブラックタイ",
+      "ranking": 15,
+      "popularity": 8,
+      "odds": 21.0
+    },
+    {
+      "horse_name": "エンペザー",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 109.9
+    },
+    {
+      "horse_name": "メイショウホシアイ",
+      "ranking": 17,
+      "popularity": 11,
+      "odds": 58.9
+    },
+    {
+      "horse_name": "カリボール",
+      "ranking": 18,
+      "popularity": 18,
+      "odds": 510.6
+    }
+  ]
+}

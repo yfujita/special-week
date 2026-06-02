@@ -1,0 +1,90 @@
+{
+  "race_id": "202605021212",
+  "race_date": "20260531",
+  "results": [
+    {
+      "horse_name": "ファイアンクランツ",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "ウィクトルウェルス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "ダノンシーマ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ミラージュナイト",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "キングスコール",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 17.2
+    },
+    {
+      "horse_name": "アスクセクシーモア",
+      "ranking": 6,
+      "popularity": 9,
+      "odds": 30.3
+    },
+    {
+      "horse_name": "キングズパレス",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 71.0
+    },
+    {
+      "horse_name": "マイネルケレリウス",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 49.0
+    },
+    {
+      "horse_name": "アマキヒ",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 14.4
+    },
+    {
+      "horse_name": "ハーツコンチェルト",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 11.3
+    },
+    {
+      "horse_name": "ボーンディスウェイ",
+      "ranking": 11,
+      "popularity": 13,
+      "odds": 129.7
+    },
+    {
+      "horse_name": "ヴェルミセル",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 98.3
+    },
+    {
+      "horse_name": "ショウナンバシット",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 191.0
+    },
+    {
+      "horse_name": "ギャンブルルーム",
+      "ranking": 14,
+      "popularity": 8,
+      "odds": 25.9
+    }
+  ]
+}

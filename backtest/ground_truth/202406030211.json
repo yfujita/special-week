@@ -1,0 +1,90 @@
+{
+  "race_id": "202406030211",
+  "race_date": "20240324",
+  "results": [
+    {
+      "horse_name": "ヴァルツァーシャル",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "ミトノオー",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 7.5
+    },
+    {
+      "horse_name": "ペイシャエス",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "キタノヴィジョン",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 44.3
+    },
+    {
+      "horse_name": "ラインオブソウル",
+      "ranking": 5,
+      "popularity": 12,
+      "odds": 68.7
+    },
+    {
+      "horse_name": "ブライアンセンス",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 2.8
+    },
+    {
+      "horse_name": "ダノンブレット",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 52.6
+    },
+    {
+      "horse_name": "ゴールドハイアー",
+      "ranking": 8,
+      "popularity": 6,
+      "odds": 9.8
+    },
+    {
+      "horse_name": "ニューモニュメント",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 44.9
+    },
+    {
+      "horse_name": "クリノドラゴン",
+      "ranking": 10,
+      "popularity": 14,
+      "odds": 160.7
+    },
+    {
+      "horse_name": "キリンジ",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 17.1
+    },
+    {
+      "horse_name": "キタノリューオー",
+      "ranking": 12,
+      "popularity": 5,
+      "odds": 8.4
+    },
+    {
+      "horse_name": "ウェルカムニュース",
+      "ranking": 13,
+      "popularity": 3,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ホウオウルバン",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 118.5
+    }
+  ]
+}

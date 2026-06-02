@@ -1,0 +1,102 @@
+{
+  "race_id": "202309020411",
+  "race_date": "20230402",
+  "results": [
+    {
+      "horse_name": "ジャックドール",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.6
+    },
+    {
+      "horse_name": "スターズオンアース",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "ダノンザキッド",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "マテンロウレオ",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 31.4
+    },
+    {
+      "horse_name": "マリアエレーナ",
+      "ranking": 5,
+      "popularity": 6,
+      "odds": 12.2
+    },
+    {
+      "horse_name": "ジェラルディーナ",
+      "ranking": 6,
+      "popularity": 5,
+      "odds": 8.5
+    },
+    {
+      "horse_name": "ヒシイグアス",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "ノースブリッジ",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 15.8
+    },
+    {
+      "horse_name": "ヴェルトライゼンデ",
+      "ranking": 9,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ポタジェ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 48.5
+    },
+    {
+      "horse_name": "ラーグルフ",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 31.6
+    },
+    {
+      "horse_name": "モズベッロ",
+      "ranking": 12,
+      "popularity": 16,
+      "odds": 370.1
+    },
+    {
+      "horse_name": "キラーアビリティ",
+      "ranking": 13,
+      "popularity": 11,
+      "odds": 41.1
+    },
+    {
+      "horse_name": "ワンダフルタウン",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 326.2
+    },
+    {
+      "horse_name": "ノースザワールド",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 166.2
+    },
+    {
+      "horse_name": "ヒンドゥタイムズ",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 150.9
+    }
+  ]
+}

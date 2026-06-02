@@ -1,0 +1,5712 @@
+{
+  "run_id": "expanded_v2",
+  "summary": {
+    "race_count": 46,
+    "average_tansho_hit": 0.30434782608695654,
+    "average_top3_hit_count": 1.1304347826086956,
+    "average_spearman": 0.37046214318727444
+  },
+  "races": [
+    {
+      "race_id": "202005050912",
+      "race_name": "ジャパンカップ",
+      "race_date": "20201129",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 3,
+        "spearman": 0.9
+      },
+      "comparison": [
+        {
+          "horse_name": "コントレイル",
+          "predicted_rank": 1,
+          "score": 185.8333,
+          "actual_rank": 2,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "アーモンドアイ",
+          "predicted_rank": 2,
+          "score": 164.7501,
+          "actual_rank": 1,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "デアリングタクト",
+          "predicted_rank": 3,
+          "score": 99.8889,
+          "actual_rank": 3,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "グローリーヴェイズ",
+          "predicted_rank": 4,
+          "score": 56.8654,
+          "actual_rank": 5,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "カレンブーケドール",
+          "predicted_rank": 5,
+          "score": 51.6044,
+          "actual_rank": 4,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ワールドプレミア",
+          "predicted_rank": 6,
+          "score": 50.8142,
+          "actual_rank": 6,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ミッキースワロー",
+          "predicted_rank": 7,
+          "score": 50.7745,
+          "actual_rank": 7,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ユーキャンスマイル",
+          "predicted_rank": 8,
+          "score": 46.8004,
+          "actual_rank": 12,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ウェイトゥパリス",
+          "predicted_rank": 9,
+          "score": 35.2913,
+          "actual_rank": 10,
+          "used_results_count": 35
+        },
+        {
+          "horse_name": "クレッシェンドラヴ",
+          "predicted_rank": 10,
+          "score": 31.6412,
+          "actual_rank": 13,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "キセキ",
+          "predicted_rank": 11,
+          "score": 25.579,
+          "actual_rank": 8,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "パフォーマプロミス",
+          "predicted_rank": 12,
+          "score": 21.5949,
+          "actual_rank": 11,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "マカヒキ",
+          "predicted_rank": 13,
+          "score": 4.5105,
+          "actual_rank": 9,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "トーラスジェミニ",
+          "predicted_rank": 14,
+          "score": 1.2337,
+          "actual_rank": 14,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ヨシオ",
+          "predicted_rank": 15,
+          "score": 0.0056,
+          "actual_rank": 15,
+          "used_results_count": 68
+        }
+      ]
+    },
+    {
+      "race_id": "202009060411",
+      "race_name": "阪神ジュベナイルフィリーズ",
+      "race_date": "20201213",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.29618163054695557
+      },
+      "comparison": [
+        {
+          "horse_name": "ソダシ",
+          "predicted_rank": 1,
+          "score": 48.5,
+          "actual_rank": 1,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "メイケイエール",
+          "predicted_rank": 2,
+          "score": 41.9048,
+          "actual_rank": 4,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ポールネイロン",
+          "predicted_rank": 3,
+          "score": 13.75,
+          "actual_rank": 18,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "エイシンヒテン",
+          "predicted_rank": 4,
+          "score": 13.6047,
+          "actual_rank": 11,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ヨカヨカ",
+          "predicted_rank": 5,
+          "score": 13.3929,
+          "actual_rank": 5,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "インフィナイト",
+          "predicted_rank": 6,
+          "score": 12.7273,
+          "actual_rank": 14,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "サトノレイナス",
+          "predicted_rank": 7,
+          "score": 11.5,
+          "actual_rank": 2,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "オパールムーン",
+          "predicted_rank": 8,
+          "score": 9.4353,
+          "actual_rank": 6,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "リンゴアメ",
+          "predicted_rank": 9,
+          "score": 9.1741,
+          "actual_rank": 12,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ルクシオン",
+          "predicted_rank": 10,
+          "score": 8.7798,
+          "actual_rank": 10,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ジェラルディーナ",
+          "predicted_rank": 11,
+          "score": 7.6377,
+          "actual_rank": 7,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "フラリオナ",
+          "predicted_rank": 12,
+          "score": 7.15,
+          "actual_rank": 16,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "アオイゴールド",
+          "predicted_rank": 13,
+          "score": 6.29,
+          "actual_rank": 9,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "サルビア",
+          "predicted_rank": 14,
+          "score": 6.0417,
+          "actual_rank": 8,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "シゲルピンクルビー",
+          "predicted_rank": 15,
+          "score": 5.0,
+          "actual_rank": 17,
+          "used_results_count": 1
+        },
+        {
+          "horse_name": "ウインアグライア",
+          "predicted_rank": 16,
+          "score": 4.7917,
+          "actual_rank": 13,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ユーバーレーベン",
+          "predicted_rank": 17,
+          "score": 4.5455,
+          "actual_rank": 3,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ナムラメーテル",
+          "predicted_rank": 18,
+          "score": 3.75,
+          "actual_rank": 15,
+          "used_results_count": 2
+        }
+      ]
+    },
+    {
+      "race_id": "202009060611",
+      "race_name": "朝日杯FS",
+      "race_date": "20201220",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.10882352941176471
+      },
+      "comparison": [
+        {
+          "horse_name": "ショックアクション",
+          "predicted_rank": 1,
+          "score": 36.0152,
+          "actual_rank": 13,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "モントライゼ",
+          "predicted_rank": 2,
+          "score": 35.3257,
+          "actual_rank": 10,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ステラヴェローチェ",
+          "predicted_rank": 3,
+          "score": 35.0,
+          "actual_rank": 2,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "レッドベルオーブ",
+          "predicted_rank": 4,
+          "score": 34.8182,
+          "actual_rank": 3,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ホウオウアマゾン",
+          "predicted_rank": 5,
+          "score": 21.1983,
+          "actual_rank": 9,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "スーパーホープ",
+          "predicted_rank": 6,
+          "score": 15.6073,
+          "actual_rank": 11,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "カイザーノヴァ",
+          "predicted_rank": 7,
+          "score": 11.5855,
+          "actual_rank": 8,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ドゥラモンド",
+          "predicted_rank": 8,
+          "score": 10.0833,
+          "actual_rank": 7,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "ロードマックス",
+          "predicted_rank": 9,
+          "score": 10.0,
+          "actual_rank": 6,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ジュンブルースカイ",
+          "predicted_rank": 10,
+          "score": 9.9272,
+          "actual_rank": 12,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ブルースピリット",
+          "predicted_rank": 11,
+          "score": 9.7024,
+          "actual_rank": 5,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "アスコルターレ",
+          "predicted_rank": 12,
+          "score": 7.9861,
+          "actual_rank": 14,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "テーオーダヴィンチ",
+          "predicted_rank": 13,
+          "score": 7.8182,
+          "actual_rank": 16,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "グレナディアガーズ",
+          "predicted_rank": 14,
+          "score": 7.5126,
+          "actual_rank": 1,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "バスラットレオン",
+          "predicted_rank": 15,
+          "score": 5.303,
+          "actual_rank": 4,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ビゾンテノブファロ",
+          "predicted_rank": 16,
+          "score": 3.1616,
+          "actual_rank": 15,
+          "used_results_count": 10
+        }
+      ]
+    },
+    {
+      "race_id": "202006050811",
+      "race_name": "有馬記念",
+      "race_date": "20201227",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.3892857142857143
+      },
+      "comparison": [
+        {
+          "horse_name": "クロノジェネシス",
+          "predicted_rank": 1,
+          "score": 144.8166,
+          "actual_rank": 1,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ラッキーライラック",
+          "predicted_rank": 2,
+          "score": 73.5194,
+          "actual_rank": 4,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "オーソリティ",
+          "predicted_rank": 3,
+          "score": 67.4807,
+          "actual_rank": 14,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "フィエールマン",
+          "predicted_rank": 4,
+          "score": 56.1308,
+          "actual_rank": 3,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "カレンブーケドール",
+          "predicted_rank": 5,
+          "score": 44.9212,
+          "actual_rank": 5,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "サラキア",
+          "predicted_rank": 6,
+          "score": 36.5802,
+          "actual_rank": 2,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ラヴズオンリーユー",
+          "predicted_rank": 7,
+          "score": 34.68,
+          "actual_rank": 10,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "モズベッロ",
+          "predicted_rank": 8,
+          "score": 32.7059,
+          "actual_rank": 15,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "バビット",
+          "predicted_rank": 9,
+          "score": 27.9844,
+          "actual_rank": 13,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ワールドプレミア",
+          "predicted_rank": 10,
+          "score": 26.1391,
+          "actual_rank": 5,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ユーキャンスマイル",
+          "predicted_rank": 11,
+          "score": 23.8437,
+          "actual_rank": 11,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "クレッシェンドラヴ",
+          "predicted_rank": 12,
+          "score": 14.806,
+          "actual_rank": 8,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "オセアグレイト",
+          "predicted_rank": 13,
+          "score": 13.8518,
+          "actual_rank": 9,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "キセキ",
+          "predicted_rank": 14,
+          "score": 11.8927,
+          "actual_rank": 12,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ブラストワンピース",
+          "predicted_rank": 15,
+          "score": 5.1168,
+          "actual_rank": null,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ペルシアンナイト",
+          "predicted_rank": 16,
+          "score": 4.5611,
+          "actual_rank": 7,
+          "used_results_count": 28
+        }
+      ]
+    },
+    {
+      "race_id": "202106010111",
+      "race_name": "中山金杯",
+      "race_date": "20210105",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.24754901960784317
+      },
+      "comparison": [
+        {
+          "horse_name": "バイオスパーク",
+          "predicted_rank": 1,
+          "score": 27.7243,
+          "actual_rank": 10,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "ディープボンド",
+          "predicted_rank": 2,
+          "score": 21.7827,
+          "actual_rank": 14,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ヒシイグアス",
+          "predicted_rank": 3,
+          "score": 19.1629,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ヴァンケドミンゴ",
+          "predicted_rank": 4,
+          "score": 18.1409,
+          "actual_rank": 11,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ココロノトウダイ",
+          "predicted_rank": 5,
+          "score": 11.6594,
+          "actual_rank": 2,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ロザムール",
+          "predicted_rank": 6,
+          "score": 10.4685,
+          "actual_rank": 4,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ショウナンバルディ",
+          "predicted_rank": 7,
+          "score": 9.9924,
+          "actual_rank": 13,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "シークレットラン",
+          "predicted_rank": 8,
+          "score": 9.7565,
+          "actual_rank": 7,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "アールスター",
+          "predicted_rank": 9,
+          "score": 7.3415,
+          "actual_rank": 5,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "テリトーリアル",
+          "predicted_rank": 10,
+          "score": 7.2244,
+          "actual_rank": 6,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "ダーリントンホール",
+          "predicted_rank": 11,
+          "score": 6.8595,
+          "actual_rank": 17,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ウインイクシード",
+          "predicted_rank": 12,
+          "score": 5.9734,
+          "actual_rank": 3,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "カデナ",
+          "predicted_rank": 13,
+          "score": 4.1986,
+          "actual_rank": 11,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "リュヌルージュ",
+          "predicted_rank": 14,
+          "score": 3.3537,
+          "actual_rank": 15,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "マウントゴールド",
+          "predicted_rank": 15,
+          "score": 2.1219,
+          "actual_rank": 9,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "マイネルサーパス",
+          "predicted_rank": 16,
+          "score": 0.8504,
+          "actual_rank": 16,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ロードクエスト",
+          "predicted_rank": 17,
+          "score": 0.1251,
+          "actual_rank": 8,
+          "used_results_count": 39
+        }
+      ]
+    },
+    {
+      "race_id": "202605021211",
+      "race_name": "日本ダービー",
+      "race_date": "20260531",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.5624355005159958
+      },
+      "comparison": [
+        {
+          "horse_name": "ロブチェン",
+          "predicted_rank": 1,
+          "score": 63.8474,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "リアライズシリウス",
+          "predicted_rank": 2,
+          "score": 44.2881,
+          "actual_rank": 7,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ゴーイントゥスカイ",
+          "predicted_rank": 3,
+          "score": 31.3961,
+          "actual_rank": 4,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "コンジェスタス",
+          "predicted_rank": 4,
+          "score": 30.4762,
+          "actual_rank": 9,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ライヒスアドラー",
+          "predicted_rank": 5,
+          "score": 24.3345,
+          "actual_rank": 8,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "アスクエジンバラ",
+          "predicted_rank": 6,
+          "score": 22.8562,
+          "actual_rank": 10,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "アウダーシア",
+          "predicted_rank": 7,
+          "score": 21.4182,
+          "actual_rank": 11,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "フォルテアンジェロ",
+          "predicted_rank": 8,
+          "score": 16.5019,
+          "actual_rank": 12,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "バステール",
+          "predicted_rank": 9,
+          "score": 12.711,
+          "actual_rank": 3,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "アルトラムス",
+          "predicted_rank": 10,
+          "score": 10.5366,
+          "actual_rank": 6,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "グリーンエナジー",
+          "predicted_rank": 11,
+          "score": 10.3896,
+          "actual_rank": 16,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "パントルナイーフ",
+          "predicted_rank": 12,
+          "score": 10.2557,
+          "actual_rank": 2,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ジャスティンビスタ",
+          "predicted_rank": 13,
+          "score": 9.5759,
+          "actual_rank": 18,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "メイショウハチコウ",
+          "predicted_rank": 14,
+          "score": 8.6905,
+          "actual_rank": 13,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "マテンロウゲイル",
+          "predicted_rank": 15,
+          "score": 7.4493,
+          "actual_rank": 5,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "エムズビギン",
+          "predicted_rank": 16,
+          "score": 4.7779,
+          "actual_rank": 14,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ショウナンガルフ",
+          "predicted_rank": 17,
+          "score": 4.7656,
+          "actual_rank": 17,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ケントン",
+          "predicted_rank": 18,
+          "score": 2.5391,
+          "actual_rank": 15,
+          "used_results_count": 6
+        }
+      ]
+    },
+    {
+      "race_id": "202205010811",
+      "race_name": "フェブラリー",
+      "race_date": "20220220",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.14411764705882352
+      },
+      "comparison": [
+        {
+          "horse_name": "テオレーマ",
+          "predicted_rank": 1,
+          "score": 92.9917,
+          "actual_rank": 14,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "レッドルゼル",
+          "predicted_rank": 2,
+          "score": 92.0009,
+          "actual_rank": 6,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "アルクトス",
+          "predicted_rank": 3,
+          "score": 83.8002,
+          "actual_rank": 7,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "テイエムサウスダン",
+          "predicted_rank": 4,
+          "score": 77.7735,
+          "actual_rank": 2,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ミューチャリー",
+          "predicted_rank": 5,
+          "score": 40.3255,
+          "actual_rank": 10,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "スワーヴアラミス",
+          "predicted_rank": 6,
+          "score": 31.6848,
+          "actual_rank": 13,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "ソリストサンダー",
+          "predicted_rank": 7,
+          "score": 25.9205,
+          "actual_rank": 4,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "インティ",
+          "predicted_rank": 8,
+          "score": 23.9696,
+          "actual_rank": 11,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ソダシ",
+          "predicted_rank": 9,
+          "score": 19.7232,
+          "actual_rank": 3,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "カフェファラオ",
+          "predicted_rank": 10,
+          "score": 13.9937,
+          "actual_rank": 1,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "サンライズホープ",
+          "predicted_rank": 11,
+          "score": 12.8794,
+          "actual_rank": 12,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "サンライズノヴァ",
+          "predicted_rank": 12,
+          "score": 10.2473,
+          "actual_rank": 8,
+          "used_results_count": 37
+        },
+        {
+          "horse_name": "ダイワキャグニー",
+          "predicted_rank": 13,
+          "score": 8.818,
+          "actual_rank": 15,
+          "used_results_count": 33
+        },
+        {
+          "horse_name": "エアスピネル",
+          "predicted_rank": 14,
+          "score": 7.1079,
+          "actual_rank": 9,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "ケイティブレイブ",
+          "predicted_rank": 15,
+          "score": 2.3076,
+          "actual_rank": 16,
+          "used_results_count": 45
+        },
+        {
+          "horse_name": "タイムフライヤー",
+          "predicted_rank": 16,
+          "score": 0.3092,
+          "actual_rank": 5,
+          "used_results_count": 29
+        }
+      ]
+    },
+    {
+      "race_id": "202205040911",
+      "race_name": "天皇賞(秋)",
+      "race_date": "20221030",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.7178571428571429
+      },
+      "comparison": [
+        {
+          "horse_name": "ジャックドール",
+          "predicted_rank": 1,
+          "score": 94.0771,
+          "actual_rank": 4,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "シャフリヤール",
+          "predicted_rank": 2,
+          "score": 69.8086,
+          "actual_rank": 5,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "イクイノックス",
+          "predicted_rank": 3,
+          "score": 56.0803,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "マリアエレーナ",
+          "predicted_rank": 4,
+          "score": 53.9025,
+          "actual_rank": 7,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "パンサラッサ",
+          "predicted_rank": 5,
+          "score": 43.655,
+          "actual_rank": 2,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ジオグリフ",
+          "predicted_rank": 6,
+          "score": 36.4217,
+          "actual_rank": 9,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "カラテ",
+          "predicted_rank": 7,
+          "score": 32.7147,
+          "actual_rank": 6,
+          "used_results_count": 32
+        },
+        {
+          "horse_name": "ダノンベルーガ",
+          "predicted_rank": 8,
+          "score": 27.4306,
+          "actual_rank": 3,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ノースブリッジ",
+          "predicted_rank": 9,
+          "score": 26.6446,
+          "actual_rank": 11,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ポタジェ",
+          "predicted_rank": 10,
+          "score": 14.7548,
+          "actual_rank": 13,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "バビット",
+          "predicted_rank": 11,
+          "score": 10.22,
+          "actual_rank": 15,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "レッドガラン",
+          "predicted_rank": 12,
+          "score": 8.8363,
+          "actual_rank": 14,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ユーバーレーベン",
+          "predicted_rank": 13,
+          "score": 7.8302,
+          "actual_rank": 8,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "アブレイズ",
+          "predicted_rank": 14,
+          "score": 4.1388,
+          "actual_rank": 10,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "カデナ",
+          "predicted_rank": 15,
+          "score": 0.5392,
+          "actual_rank": 12,
+          "used_results_count": 41
+        }
+      ]
+    },
+    {
+      "race_id": "202205050311",
+      "race_name": "武蔵野S",
+      "race_date": "20221112",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.14705882352941177
+      },
+      "comparison": [
+        {
+          "horse_name": "ブラッティーキッド",
+          "predicted_rank": 1,
+          "score": 56.5627,
+          "actual_rank": 14,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "レモンポップ",
+          "predicted_rank": 2,
+          "score": 40.5324,
+          "actual_rank": 2,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "フルデプスリーダー",
+          "predicted_rank": 3,
+          "score": 27.1886,
+          "actual_rank": 15,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "アドマイヤルプス",
+          "predicted_rank": 4,
+          "score": 15.6924,
+          "actual_rank": 7,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "セキフウ",
+          "predicted_rank": 5,
+          "score": 15.4398,
+          "actual_rank": 12,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "バスラットレオン",
+          "predicted_rank": 6,
+          "score": 14.2472,
+          "actual_rank": 3,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "タガノビューティー",
+          "predicted_rank": 7,
+          "score": 12.5549,
+          "actual_rank": 6,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ハヤブサナンデクン",
+          "predicted_rank": 8,
+          "score": 9.4316,
+          "actual_rank": 5,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ギルデッドミラー",
+          "predicted_rank": 9,
+          "score": 7.7253,
+          "actual_rank": 1,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "アシャカトブ",
+          "predicted_rank": 10,
+          "score": 6.0382,
+          "actual_rank": 8,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "デュードヴァン",
+          "predicted_rank": 11,
+          "score": 5.9345,
+          "actual_rank": 11,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "エアスピネル",
+          "predicted_rank": 12,
+          "score": 5.0535,
+          "actual_rank": 10,
+          "used_results_count": 33
+        },
+        {
+          "horse_name": "スマッシングハーツ",
+          "predicted_rank": 13,
+          "score": 3.7201,
+          "actual_rank": 4,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "デュープロセス",
+          "predicted_rank": 14,
+          "score": 1.5191,
+          "actual_rank": 13,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "サンライズノヴァ",
+          "predicted_rank": 15,
+          "score": 0.6405,
+          "actual_rank": 9,
+          "used_results_count": 41
+        },
+        {
+          "horse_name": "ケイデンスコール",
+          "predicted_rank": 16,
+          "score": 0.2226,
+          "actual_rank": 16,
+          "used_results_count": 25
+        }
+      ]
+    },
+    {
+      "race_id": "202206050811",
+      "race_name": "有馬記念",
+      "race_date": "20221225",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.4235294117647059
+      },
+      "comparison": [
+        {
+          "horse_name": "ヴェラアズール",
+          "predicted_rank": 1,
+          "score": 80.9172,
+          "actual_rank": 10,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "タイトルホルダー",
+          "predicted_rank": 2,
+          "score": 77.1684,
+          "actual_rank": 9,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ジェラルディーナ",
+          "predicted_rank": 3,
+          "score": 71.3566,
+          "actual_rank": 3,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "イクイノックス",
+          "predicted_rank": 4,
+          "score": 70.9592,
+          "actual_rank": 1,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 5,
+          "score": 42.2695,
+          "actual_rank": 7,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ブレークアップ",
+          "predicted_rank": 6,
+          "score": 39.9844,
+          "actual_rank": 16,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "エフフォーリア",
+          "predicted_rank": 7,
+          "score": 32.9943,
+          "actual_rank": 5,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ボルドグフーシュ",
+          "predicted_rank": 8,
+          "score": 31.9607,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ディープボンド",
+          "predicted_rank": 9,
+          "score": 30.997,
+          "actual_rank": 8,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ボッケリーニ",
+          "predicted_rank": 10,
+          "score": 26.9864,
+          "actual_rank": 11,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ウインマイティー",
+          "predicted_rank": 11,
+          "score": 11.7305,
+          "actual_rank": 6,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "イズジョーノキセキ",
+          "predicted_rank": 12,
+          "score": 10.8524,
+          "actual_rank": 4,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "アカイイト",
+          "predicted_rank": 13,
+          "score": 6.972,
+          "actual_rank": 15,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ラストドラフト",
+          "predicted_rank": 14,
+          "score": 6.9615,
+          "actual_rank": 13,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ポタジェ",
+          "predicted_rank": 15,
+          "score": 5.0089,
+          "actual_rank": 12,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "アリストテレス",
+          "predicted_rank": 16,
+          "score": 1.0658,
+          "actual_rank": 14,
+          "used_results_count": 18
+        }
+      ]
+    },
+    {
+      "race_id": "202207030511",
+      "race_name": "平安S",
+      "race_date": "20220521",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 3,
+        "spearman": 0.4176470588235294
+      },
+      "comparison": [
+        {
+          "horse_name": "テーオーケインズ",
+          "predicted_rank": 1,
+          "score": 72.2076,
+          "actual_rank": 1,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ケイアイパープル",
+          "predicted_rank": 2,
+          "score": 47.6685,
+          "actual_rank": 2,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "メイショウハリオ",
+          "predicted_rank": 3,
+          "score": 34.7196,
+          "actual_rank": 3,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ブルベアイリーデ",
+          "predicted_rank": 4,
+          "score": 26.2078,
+          "actual_rank": 13,
+          "used_results_count": 33
+        },
+        {
+          "horse_name": "スワーヴアラミス",
+          "predicted_rank": 5,
+          "score": 16.8924,
+          "actual_rank": 5,
+          "used_results_count": 31
+        },
+        {
+          "horse_name": "ペルセウスシチー",
+          "predicted_rank": 6,
+          "score": 14.4705,
+          "actual_rank": 12,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "グレートタイム",
+          "predicted_rank": 7,
+          "score": 10.7391,
+          "actual_rank": 14,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "サンダーブリッツ",
+          "predicted_rank": 8,
+          "score": 9.6898,
+          "actual_rank": 9,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ダノンファラオ",
+          "predicted_rank": 9,
+          "score": 9.1147,
+          "actual_rank": 16,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "スマッシングハーツ",
+          "predicted_rank": 10,
+          "score": 8.2585,
+          "actual_rank": 4,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "サンライズホープ",
+          "predicted_rank": 11,
+          "score": 7.8604,
+          "actual_rank": 7,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "オーヴェルニュ",
+          "predicted_rank": 12,
+          "score": 7.311,
+          "actual_rank": 6,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ヒストリーメイカー",
+          "predicted_rank": 13,
+          "score": 6.0558,
+          "actual_rank": 15,
+          "used_results_count": 40
+        },
+        {
+          "horse_name": "カデナ",
+          "predicted_rank": 14,
+          "score": 4.7056,
+          "actual_rank": 8,
+          "used_results_count": 38
+        },
+        {
+          "horse_name": "ダンツキャッスル",
+          "predicted_rank": 15,
+          "score": 3.3266,
+          "actual_rank": 11,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "デルマルーヴル",
+          "predicted_rank": 16,
+          "score": 0.1762,
+          "actual_rank": 10,
+          "used_results_count": 27
+        }
+      ]
+    },
+    {
+      "race_id": "202209040711",
+      "race_name": "菊花賞",
+      "race_date": "20221023",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 2,
+        "spearman": 0.6284829721362228
+      },
+      "comparison": [
+        {
+          "horse_name": "アスクビクターモア",
+          "predicted_rank": 1,
+          "score": 28.8616,
+          "actual_rank": 1,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 2,
+          "score": 25.5177,
+          "actual_rank": 3,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ガイアフォース",
+          "predicted_rank": 3,
+          "score": 24.6629,
+          "actual_rank": 8,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "フェーングロッテン",
+          "predicted_rank": 4,
+          "score": 17.8109,
+          "actual_rank": 15,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ボルドグフーシュ",
+          "predicted_rank": 5,
+          "score": 17.1258,
+          "actual_rank": 2,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "プラダリア",
+          "predicted_rank": 6,
+          "score": 12.4419,
+          "actual_rank": 7,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ドゥラドーレス",
+          "predicted_rank": 7,
+          "score": 11.9222,
+          "actual_rank": 4,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ディナースタ",
+          "predicted_rank": 8,
+          "score": 11.2302,
+          "actual_rank": 14,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ヴェローナシチー",
+          "predicted_rank": 9,
+          "score": 10.9731,
+          "actual_rank": 12,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "シホノスペランツァ",
+          "predicted_rank": 10,
+          "score": 7.4528,
+          "actual_rank": 5,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ヤマニンゼスト",
+          "predicted_rank": 11,
+          "score": 7.3159,
+          "actual_rank": 6,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "セレシオン",
+          "predicted_rank": 12,
+          "score": 7.2685,
+          "actual_rank": 11,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "マイネルトルファン",
+          "predicted_rank": 13,
+          "score": 5.6818,
+          "actual_rank": 18,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "シェルビーズアイ",
+          "predicted_rank": 14,
+          "score": 5.278,
+          "actual_rank": 10,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "アスクワイルドモア",
+          "predicted_rank": 15,
+          "score": 4.8194,
+          "actual_rank": 9,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "セイウンハーデス",
+          "predicted_rank": 16,
+          "score": 4.3412,
+          "actual_rank": 17,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ビーアストニッシド",
+          "predicted_rank": 17,
+          "score": 2.4821,
+          "actual_rank": 13,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ポッドボレット",
+          "predicted_rank": 18,
+          "score": 1.0522,
+          "actual_rank": 16,
+          "used_results_count": 9
+        }
+      ]
+    },
+    {
+      "race_id": "202209050311",
+      "race_name": "デイリー2歳S",
+      "race_date": "20221112",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.696969696969697
+      },
+      "comparison": [
+        {
+          "horse_name": "シルヴァーデューク",
+          "predicted_rank": 1,
+          "score": 13.0441,
+          "actual_rank": 4,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ショーモン",
+          "predicted_rank": 2,
+          "score": 9.3802,
+          "actual_rank": 3,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "オールパルフェ",
+          "predicted_rank": 3,
+          "score": 8.8182,
+          "actual_rank": 1,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "クルゼイロドスル",
+          "predicted_rank": 4,
+          "score": 7.8182,
+          "actual_rank": 5,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "フォーサイドナイン",
+          "predicted_rank": 5,
+          "score": 6.9318,
+          "actual_rank": 7,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "ショウナンアレクサ",
+          "predicted_rank": 6,
+          "score": 6.0985,
+          "actual_rank": 6,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ダノンタッチダウン",
+          "predicted_rank": 7,
+          "score": 6.0,
+          "actual_rank": 2,
+          "used_results_count": 1
+        },
+        {
+          "horse_name": "エミサキホコル",
+          "predicted_rank": 8,
+          "score": 4.5139,
+          "actual_rank": 10,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "トーセントラム",
+          "predicted_rank": 9,
+          "score": 4.0444,
+          "actual_rank": 8,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "デイドリームビーチ",
+          "predicted_rank": 10,
+          "score": 1.9643,
+          "actual_rank": 9,
+          "used_results_count": 2
+        }
+      ]
+    },
+    {
+      "race_id": "202210020411",
+      "race_name": "小倉大賞典",
+      "race_date": "20220220",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.7264705882352941
+      },
+      "comparison": [
+        {
+          "horse_name": "ヴァイスメテオール",
+          "predicted_rank": 1,
+          "score": 19.3819,
+          "actual_rank": 4,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ノルカソルカ",
+          "predicted_rank": 2,
+          "score": 17.2564,
+          "actual_rank": 6,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "アリーヴォ",
+          "predicted_rank": 3,
+          "score": 13.8168,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "スカーフェイス",
+          "predicted_rank": 4,
+          "score": 11.9287,
+          "actual_rank": 5,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ランブリングアレー",
+          "predicted_rank": 5,
+          "score": 10.7744,
+          "actual_rank": 2,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ダブルシャープ",
+          "predicted_rank": 6,
+          "score": 9.6206,
+          "actual_rank": 7,
+          "used_results_count": 35
+        },
+        {
+          "horse_name": "スーパーフェザー",
+          "predicted_rank": 7,
+          "score": 9.2194,
+          "actual_rank": 8,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "レッドフラヴィア",
+          "predicted_rank": 8,
+          "score": 4.3809,
+          "actual_rank": 16,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "カデナ",
+          "predicted_rank": 9,
+          "score": 3.364,
+          "actual_rank": 3,
+          "used_results_count": 35
+        },
+        {
+          "horse_name": "ブラヴァス",
+          "predicted_rank": 10,
+          "score": 2.4581,
+          "actual_rank": 14,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "サトノアーサー",
+          "predicted_rank": 11,
+          "score": 0.4043,
+          "actual_rank": 10,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ジェネラーレウーノ",
+          "predicted_rank": 12,
+          "score": 0.3206,
+          "actual_rank": 9,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ヴェロックス",
+          "predicted_rank": 13,
+          "score": 0.2833,
+          "actual_rank": 13,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "アイスバブル",
+          "predicted_rank": 14,
+          "score": 0.2808,
+          "actual_rank": 11,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "トップウイナー",
+          "predicted_rank": 15,
+          "score": 0.2315,
+          "actual_rank": 12,
+          "used_results_count": 32
+        },
+        {
+          "horse_name": "アールスター",
+          "predicted_rank": 16,
+          "score": 0.1328,
+          "actual_rank": 15,
+          "used_results_count": 28
+        }
+      ]
+    },
+    {
+      "race_id": "202305010211",
+      "race_name": "根岸S",
+      "race_date": "20230129",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": -0.21470588235294116
+      },
+      "comparison": [
+        {
+          "horse_name": "テイエムサウスダン",
+          "predicted_rank": 1,
+          "score": 49.5984,
+          "actual_rank": 14,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ヘリオス",
+          "predicted_rank": 2,
+          "score": 48.4201,
+          "actual_rank": 15,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "レモンポップ",
+          "predicted_rank": 3,
+          "score": 47.6508,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "オーロラテソーロ",
+          "predicted_rank": 4,
+          "score": 31.6492,
+          "actual_rank": 16,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "バトルクライ",
+          "predicted_rank": 5,
+          "score": 28.0513,
+          "actual_rank": 3,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ギルデッドミラー",
+          "predicted_rank": 6,
+          "score": 24.2637,
+          "actual_rank": 2,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "セキフウ",
+          "predicted_rank": 7,
+          "score": 8.5265,
+          "actual_rank": 13,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "アドマイヤルプス",
+          "predicted_rank": 8,
+          "score": 7.9336,
+          "actual_rank": 11,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "レディバグ",
+          "predicted_rank": 9,
+          "score": 7.3569,
+          "actual_rank": 10,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "デンコウリジエール",
+          "predicted_rank": 10,
+          "score": 6.6017,
+          "actual_rank": 8,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "エアアルマス",
+          "predicted_rank": 11,
+          "score": 3.3505,
+          "actual_rank": 5,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "タガノビューティー",
+          "predicted_rank": 12,
+          "score": 3.2378,
+          "actual_rank": 4,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ベルダーイメル",
+          "predicted_rank": 13,
+          "score": 2.7118,
+          "actual_rank": 7,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "ホウオウアマゾン",
+          "predicted_rank": 14,
+          "score": 2.4845,
+          "actual_rank": 12,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ケンシンコウ",
+          "predicted_rank": 15,
+          "score": 2.4058,
+          "actual_rank": 6,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ジャスパープリンス",
+          "predicted_rank": 16,
+          "score": 0.1168,
+          "actual_rank": 9,
+          "used_results_count": 31
+        }
+      ]
+    },
+    {
+      "race_id": "202305010811",
+      "race_name": "フェブラリー",
+      "race_date": "20230219",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.49117647058823527
+      },
+      "comparison": [
+        {
+          "horse_name": "ショウナンナデシコ",
+          "predicted_rank": 1,
+          "score": 72.9733,
+          "actual_rank": 15,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "レッドルゼル",
+          "predicted_rank": 2,
+          "score": 66.0718,
+          "actual_rank": 2,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "レモンポップ",
+          "predicted_rank": 3,
+          "score": 61.5446,
+          "actual_rank": 1,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "メイショウハリオ",
+          "predicted_rank": 4,
+          "score": 60.3199,
+          "actual_rank": 3,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "シャールズスパイト",
+          "predicted_rank": 5,
+          "score": 59.665,
+          "actual_rank": 9,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ドライスタウト",
+          "predicted_rank": 6,
+          "score": 58.3835,
+          "actual_rank": 4,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "スピーディキック",
+          "predicted_rank": 7,
+          "score": 57.6583,
+          "actual_rank": 6,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ヘリオス",
+          "predicted_rank": 8,
+          "score": 22.9396,
+          "actual_rank": 7,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "テイエムサウスダン",
+          "predicted_rank": 9,
+          "score": 22.7746,
+          "actual_rank": 14,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "ソリストサンダー",
+          "predicted_rank": 10,
+          "score": 19.634,
+          "actual_rank": 8,
+          "used_results_count": 32
+        },
+        {
+          "horse_name": "ケイアイターコイズ",
+          "predicted_rank": 11,
+          "score": 7.189,
+          "actual_rank": 13,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "セキフウ",
+          "predicted_rank": 12,
+          "score": 4.2666,
+          "actual_rank": 11,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "アドマイヤルプス",
+          "predicted_rank": 13,
+          "score": 3.9231,
+          "actual_rank": 5,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ケンシンコウ",
+          "predicted_rank": 14,
+          "score": 1.4104,
+          "actual_rank": 10,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "オーヴェルニュ",
+          "predicted_rank": 15,
+          "score": 0.7936,
+          "actual_rank": 12,
+          "used_results_count": 32
+        },
+        {
+          "horse_name": "ジャスパープリンス",
+          "predicted_rank": 16,
+          "score": 0.0489,
+          "actual_rank": 16,
+          "used_results_count": 32
+        }
+      ]
+    },
+    {
+      "race_id": "202305030611",
+      "race_name": "ユニコーンS",
+      "race_date": "20230618",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 2,
+        "spearman": 0.3107142857142857
+      },
+      "comparison": [
+        {
+          "horse_name": "ペリエール",
+          "predicted_rank": 1,
+          "score": 31.003,
+          "actual_rank": 1,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ヘンリー",
+          "predicted_rank": 2,
+          "score": 17.8926,
+          "actual_rank": 7,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ブライアンセンス",
+          "predicted_rank": 3,
+          "score": 16.2562,
+          "actual_rank": 3,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "オマツリオトコ",
+          "predicted_rank": 4,
+          "score": 14.9303,
+          "actual_rank": 6,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ラフエイジアン",
+          "predicted_rank": 5,
+          "score": 11.5978,
+          "actual_rank": 11,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ニシノカシミヤ",
+          "predicted_rank": 6,
+          "score": 11.5414,
+          "actual_rank": 8,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ワールズコライド",
+          "predicted_rank": 7,
+          "score": 10.1786,
+          "actual_rank": 15,
+          "used_results_count": 2
+        },
+        {
+          "horse_name": "グレートサンドシー",
+          "predicted_rank": 8,
+          "score": 10.1389,
+          "actual_rank": 5,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ハードワイヤード",
+          "predicted_rank": 9,
+          "score": 9.6861,
+          "actual_rank": 10,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ジャスパーバローズ",
+          "predicted_rank": 10,
+          "score": 7.645,
+          "actual_rank": 13,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ニシキギミッチー",
+          "predicted_rank": 11,
+          "score": 7.4107,
+          "actual_rank": 14,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "サンライズジーク",
+          "predicted_rank": 12,
+          "score": 6.7945,
+          "actual_rank": 2,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "アイファーテイオー",
+          "predicted_rank": 13,
+          "score": 4.1667,
+          "actual_rank": 9,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "メイショウモズ",
+          "predicted_rank": 14,
+          "score": 4.0404,
+          "actual_rank": 4,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "カレンアルカンタラ",
+          "predicted_rank": 15,
+          "score": 2.5,
+          "actual_rank": 12,
+          "used_results_count": 5
+        }
+      ]
+    },
+    {
+      "race_id": "202305050211",
+      "race_name": "アルゼンチン",
+      "race_date": "20231105",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 2,
+        "spearman": 0.5624355005159958
+      },
+      "comparison": [
+        {
+          "horse_name": "ゼッフィーロ",
+          "predicted_rank": 1,
+          "score": 22.6887,
+          "actual_rank": 1,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "チャックネイト",
+          "predicted_rank": 2,
+          "score": 20.2338,
+          "actual_rank": 3,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ヒートオンビート",
+          "predicted_rank": 3,
+          "score": 19.9974,
+          "actual_rank": 3,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "ディアスティマ",
+          "predicted_rank": 4,
+          "score": 15.5446,
+          "actual_rank": 13,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "レッドバリエンテ",
+          "predicted_rank": 5,
+          "score": 15.4082,
+          "actual_rank": 7,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "テーオーロイヤル",
+          "predicted_rank": 6,
+          "score": 9.7784,
+          "actual_rank": 10,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ハーツイストワール",
+          "predicted_rank": 7,
+          "score": 8.9709,
+          "actual_rank": 6,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "プリュムドール",
+          "predicted_rank": 8,
+          "score": 8.7568,
+          "actual_rank": 9,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "アーティット",
+          "predicted_rank": 9,
+          "score": 8.5439,
+          "actual_rank": 11,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ジャンカズマ",
+          "predicted_rank": 10,
+          "score": 5.7556,
+          "actual_rank": 17,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "ユーキャンスマイル",
+          "predicted_rank": 11,
+          "score": 4.5518,
+          "actual_rank": 12,
+          "used_results_count": 33
+        },
+        {
+          "horse_name": "アフリカンゴールド",
+          "predicted_rank": 12,
+          "score": 4.1146,
+          "actual_rank": 8,
+          "used_results_count": 36
+        },
+        {
+          "horse_name": "マイネルウィルトス",
+          "predicted_rank": 13,
+          "score": 3.5137,
+          "actual_rank": 2,
+          "used_results_count": 37
+        },
+        {
+          "horse_name": "グランオフィシエ",
+          "predicted_rank": 14,
+          "score": 2.0303,
+          "actual_rank": 15,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ヒュミドール",
+          "predicted_rank": 15,
+          "score": 1.8542,
+          "actual_rank": 14,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "セファーラジエル",
+          "predicted_rank": 16,
+          "score": 1.5387,
+          "actual_rank": 5,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "アサマノイタズラ",
+          "predicted_rank": 17,
+          "score": 0.4672,
+          "actual_rank": 18,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "アリストテレス",
+          "predicted_rank": 18,
+          "score": 0.0666,
+          "actual_rank": 16,
+          "used_results_count": 22
+        }
+      ]
+    },
+    {
+      "race_id": "202307011011",
+      "race_name": "シルクロード",
+      "race_date": "20230129",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.31785714285714284
+      },
+      "comparison": [
+        {
+          "horse_name": "ナムラクレア",
+          "predicted_rank": 1,
+          "score": 67.2882,
+          "actual_rank": 1,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ウインマーベル",
+          "predicted_rank": 2,
+          "score": 55.7891,
+          "actual_rank": 7,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "トウシンマカオ",
+          "predicted_rank": 3,
+          "score": 37.577,
+          "actual_rank": 4,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "マッドクール",
+          "predicted_rank": 4,
+          "score": 28.1125,
+          "actual_rank": 3,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "キルロード",
+          "predicted_rank": 5,
+          "score": 15.5738,
+          "actual_rank": 12,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "グルーヴィット",
+          "predicted_rank": 6,
+          "score": 5.4468,
+          "actual_rank": 15,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "テイエムスパーダ",
+          "predicted_rank": 7,
+          "score": 5.3082,
+          "actual_rank": 14,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "マリアズハート",
+          "predicted_rank": 8,
+          "score": 3.6693,
+          "actual_rank": 5,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "シゲルピンクルビー",
+          "predicted_rank": 9,
+          "score": 3.2183,
+          "actual_rank": 10,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "シャインガーネット",
+          "predicted_rank": 10,
+          "score": 2.7909,
+          "actual_rank": 6,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ショウナンバニラ",
+          "predicted_rank": 11,
+          "score": 2.4927,
+          "actual_rank": 8,
+          "used_results_count": 36
+        },
+        {
+          "horse_name": "ファストフォース",
+          "predicted_rank": 12,
+          "score": 1.8354,
+          "actual_rank": 2,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "レイハリア",
+          "predicted_rank": 13,
+          "score": 1.2959,
+          "actual_rank": 13,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "エイティーンガール",
+          "predicted_rank": 14,
+          "score": 0.7995,
+          "actual_rank": 9,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "カイザーメランジェ",
+          "predicted_rank": 15,
+          "score": 0.1267,
+          "actual_rank": 11,
+          "used_results_count": 40
+        }
+      ]
+    },
+    {
+      "race_id": "202307040211",
+      "race_name": "チャンピオン",
+      "race_date": "20231203",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.41785714285714287
+      },
+      "comparison": [
+        {
+          "horse_name": "レモンポップ",
+          "predicted_rank": 1,
+          "score": 131.263,
+          "actual_rank": 1,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "メイショウハリオ",
+          "predicted_rank": 2,
+          "score": 119.6882,
+          "actual_rank": 5,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "テーオーケインズ",
+          "predicted_rank": 3,
+          "score": 107.9985,
+          "actual_rank": 4,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "アイコンテーラー",
+          "predicted_rank": 4,
+          "score": 79.3966,
+          "actual_rank": 14,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ウィルソンテソーロ",
+          "predicted_rank": 5,
+          "score": 76.9231,
+          "actual_rank": 2,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "グロリアムンディ",
+          "predicted_rank": 6,
+          "score": 75.7526,
+          "actual_rank": 13,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "クラウンプライド",
+          "predicted_rank": 7,
+          "score": 70.5991,
+          "actual_rank": 11,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ハギノアレグリアス",
+          "predicted_rank": 8,
+          "score": 68.2429,
+          "actual_rank": 6,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "セラフィックコール",
+          "predicted_rank": 9,
+          "score": 61.8462,
+          "actual_rank": 10,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "アーテルアストレア",
+          "predicted_rank": 10,
+          "score": 58.8201,
+          "actual_rank": 9,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "メイクアリープ",
+          "predicted_rank": 11,
+          "score": 26.6316,
+          "actual_rank": 7,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ノットゥルノ",
+          "predicted_rank": 12,
+          "score": 14.3103,
+          "actual_rank": 8,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ドゥラエレーデ",
+          "predicted_rank": 13,
+          "score": 10.5372,
+          "actual_rank": 3,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ケイアイシェルビー",
+          "predicted_rank": 14,
+          "score": 5.2129,
+          "actual_rank": 12,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ジオグリフ",
+          "predicted_rank": 15,
+          "score": 1.6819,
+          "actual_rank": 15,
+          "used_results_count": 12
+        }
+      ]
+    },
+    {
+      "race_id": "202308030211",
+      "race_name": "みやこS",
+      "race_date": "20231105",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.18529411764705883
+      },
+      "comparison": [
+        {
+          "horse_name": "ワールドタキオン",
+          "predicted_rank": 1,
+          "score": 42.9312,
+          "actual_rank": 13,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ウィリアムバローズ",
+          "predicted_rank": 2,
+          "score": 32.8703,
+          "actual_rank": 3,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "セラフィックコール",
+          "predicted_rank": 3,
+          "score": 31.8462,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "アスクドゥラメンテ",
+          "predicted_rank": 4,
+          "score": 27.5909,
+          "actual_rank": 14,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "メイクアリープ",
+          "predicted_rank": 5,
+          "score": 22.2948,
+          "actual_rank": 2,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "アイオライト",
+          "predicted_rank": 6,
+          "score": 17.3279,
+          "actual_rank": 10,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "ブリッツファング",
+          "predicted_rank": 7,
+          "score": 15.2795,
+          "actual_rank": 11,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "タイセイドレフォン",
+          "predicted_rank": 8,
+          "score": 12.948,
+          "actual_rank": 12,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ペプチドナイル",
+          "predicted_rank": 9,
+          "score": 8.8286,
+          "actual_rank": 4,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ホウオウルーレット",
+          "predicted_rank": 10,
+          "score": 8.1422,
+          "actual_rank": 6,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "アルーブルト",
+          "predicted_rank": 11,
+          "score": 6.0372,
+          "actual_rank": 16,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "マリオロード",
+          "predicted_rank": 12,
+          "score": 5.1861,
+          "actual_rank": 8,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "エナハツホ",
+          "predicted_rank": 13,
+          "score": 2.3796,
+          "actual_rank": 9,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "サンライズホープ",
+          "predicted_rank": 14,
+          "score": 1.7704,
+          "actual_rank": 7,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "ゲンパチルシファー",
+          "predicted_rank": 15,
+          "score": 0.6115,
+          "actual_rank": 5,
+          "used_results_count": 35
+        },
+        {
+          "horse_name": "メイショウカズサ",
+          "predicted_rank": 16,
+          "score": 0.5285,
+          "actual_rank": 15,
+          "used_results_count": 27
+        }
+      ]
+    },
+    {
+      "race_id": "202309020411",
+      "race_name": "大阪杯",
+      "race_date": "20230402",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.38529411764705884
+      },
+      "comparison": [
+        {
+          "horse_name": "ヒシイグアス",
+          "predicted_rank": 1,
+          "score": 91.257,
+          "actual_rank": 7,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ジェラルディーナ",
+          "predicted_rank": 2,
+          "score": 84.935,
+          "actual_rank": 6,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "スターズオンアース",
+          "predicted_rank": 3,
+          "score": 79.0536,
+          "actual_rank": 2,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ヴェルトライゼンデ",
+          "predicted_rank": 4,
+          "score": 53.083,
+          "actual_rank": 9,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ラーグルフ",
+          "predicted_rank": 5,
+          "score": 42.2498,
+          "actual_rank": 11,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ジャックドール",
+          "predicted_rank": 6,
+          "score": 42.1155,
+          "actual_rank": 1,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ノースブリッジ",
+          "predicted_rank": 7,
+          "score": 36.239,
+          "actual_rank": 8,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "キラーアビリティ",
+          "predicted_rank": 8,
+          "score": 24.9716,
+          "actual_rank": 13,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ヒンドゥタイムズ",
+          "predicted_rank": 9,
+          "score": 23.4122,
+          "actual_rank": 16,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ダノンザキッド",
+          "predicted_rank": 10,
+          "score": 20.6683,
+          "actual_rank": 3,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "マテンロウレオ",
+          "predicted_rank": 11,
+          "score": 20.0026,
+          "actual_rank": 4,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ノースザワールド",
+          "predicted_rank": 12,
+          "score": 15.4477,
+          "actual_rank": 15,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "マリアエレーナ",
+          "predicted_rank": 13,
+          "score": 15.4324,
+          "actual_rank": 5,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ポタジェ",
+          "predicted_rank": 14,
+          "score": 1.8444,
+          "actual_rank": 10,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ワンダフルタウン",
+          "predicted_rank": 15,
+          "score": 0.8041,
+          "actual_rank": 14,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "モズベッロ",
+          "predicted_rank": 16,
+          "score": 0.3484,
+          "actual_rank": 12,
+          "used_results_count": 24
+        }
+      ]
+    },
+    {
+      "race_id": "202309030611",
+      "race_name": "マーメイドS",
+      "race_date": "20230618",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.510989010989011
+      },
+      "comparison": [
+        {
+          "horse_name": "ビッグリボン",
+          "predicted_rank": 1,
+          "score": 19.2211,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "シンシアウィッシュ",
+          "predicted_rank": 2,
+          "score": 12.1595,
+          "actual_rank": 5,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ストーリア",
+          "predicted_rank": 3,
+          "score": 10.5089,
+          "actual_rank": 7,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ゴールドエクリプス",
+          "predicted_rank": 4,
+          "score": 9.435,
+          "actual_rank": 4,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "サンカルパ",
+          "predicted_rank": 5,
+          "score": 8.541,
+          "actual_rank": 9,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ヒヅルジョウ",
+          "predicted_rank": 6,
+          "score": 4.0387,
+          "actual_rank": 11,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ビジン",
+          "predicted_rank": 7,
+          "score": 4.0213,
+          "actual_rank": 6,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ウインマイティー",
+          "predicted_rank": 8,
+          "score": 3.7193,
+          "actual_rank": 2,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ハギノメーテル",
+          "predicted_rank": 9,
+          "score": 3.4026,
+          "actual_rank": 12,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ホウオウエミーズ",
+          "predicted_rank": 10,
+          "score": 2.2382,
+          "actual_rank": 3,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "タガノフィナーレ",
+          "predicted_rank": 11,
+          "score": 0.6931,
+          "actual_rank": 10,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ランスオブアース",
+          "predicted_rank": 12,
+          "score": 0.6177,
+          "actual_rank": 8,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "シャーレイポピー",
+          "predicted_rank": 13,
+          "score": 0.1442,
+          "actual_rank": 13,
+          "used_results_count": 17
+        }
+      ]
+    },
+    {
+      "race_id": "202309040811",
+      "race_name": "シリウスS",
+      "race_date": "20230930",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.3098901098901099
+      },
+      "comparison": [
+        {
+          "horse_name": "ハギノアレグリアス",
+          "predicted_rank": 1,
+          "score": 48.8488,
+          "actual_rank": 1,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "キリンジ",
+          "predicted_rank": 2,
+          "score": 30.99,
+          "actual_rank": 12,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "クリノドラゴン",
+          "predicted_rank": 3,
+          "score": 24.8978,
+          "actual_rank": 10,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "ヴァンヤール",
+          "predicted_rank": 4,
+          "score": 22.5419,
+          "actual_rank": 3,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ニューモニュメント",
+          "predicted_rank": 5,
+          "score": 14.5698,
+          "actual_rank": 6,
+          "used_results_count": 34
+        },
+        {
+          "horse_name": "アイコンテーラー",
+          "predicted_rank": 6,
+          "score": 12.1431,
+          "actual_rank": 2,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "トウセツ",
+          "predicted_rank": 7,
+          "score": 10.0773,
+          "actual_rank": 7,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ロードブレス",
+          "predicted_rank": 8,
+          "score": 6.4179,
+          "actual_rank": 13,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "フルヴォート",
+          "predicted_rank": 9,
+          "score": 6.1658,
+          "actual_rank": 4,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "サンマルレジェンド",
+          "predicted_rank": 10,
+          "score": 6.1045,
+          "actual_rank": 14,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "カフジオクタゴン",
+          "predicted_rank": 11,
+          "score": 4.7363,
+          "actual_rank": 5,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "サンライズホープ",
+          "predicted_rank": 12,
+          "score": 3.9098,
+          "actual_rank": 8,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ヘラルドバローズ",
+          "predicted_rank": 13,
+          "score": 3.4284,
+          "actual_rank": 11,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ゲンパチルシファー",
+          "predicted_rank": 14,
+          "score": 1.0743,
+          "actual_rank": 9,
+          "used_results_count": 34
+        }
+      ]
+    },
+    {
+      "race_id": "202310020411",
+      "race_name": "小倉大賞典",
+      "race_date": "20230219",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.3323529411764706
+      },
+      "comparison": [
+        {
+          "horse_name": "ウイングレイテスト",
+          "predicted_rank": 1,
+          "score": 12.7427,
+          "actual_rank": 8,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "レッドランメルト",
+          "predicted_rank": 2,
+          "score": 12.502,
+          "actual_rank": 10,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ロングラン",
+          "predicted_rank": 3,
+          "score": 9.3945,
+          "actual_rank": 4,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ヒンドゥタイムズ",
+          "predicted_rank": 4,
+          "score": 5.83,
+          "actual_rank": 1,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "カテドラル",
+          "predicted_rank": 5,
+          "score": 4.3582,
+          "actual_rank": 2,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "フォルコメン",
+          "predicted_rank": 6,
+          "score": 3.0583,
+          "actual_rank": 13,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ホウオウエミーズ",
+          "predicted_rank": 7,
+          "score": 2.6368,
+          "actual_rank": 5,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "アルサトワ",
+          "predicted_rank": 8,
+          "score": 2.4473,
+          "actual_rank": 12,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "フォワードアゲン",
+          "predicted_rank": 9,
+          "score": 2.0202,
+          "actual_rank": 9,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ダンディズム",
+          "predicted_rank": 10,
+          "score": 1.9478,
+          "actual_rank": 7,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "テイエムスパーダ",
+          "predicted_rank": 11,
+          "score": 1.6588,
+          "actual_rank": 16,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "レッドベルオーブ",
+          "predicted_rank": 12,
+          "score": 1.2442,
+          "actual_rank": 15,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "バジオウ",
+          "predicted_rank": 13,
+          "score": 1.0676,
+          "actual_rank": 3,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "インテンスライト",
+          "predicted_rank": 14,
+          "score": 0.4759,
+          "actual_rank": 11,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ゴールドギア",
+          "predicted_rank": 15,
+          "score": 0.1354,
+          "actual_rank": 14,
+          "used_results_count": 39
+        },
+        {
+          "horse_name": "サトノエルドール",
+          "predicted_rank": 16,
+          "score": 0.0567,
+          "actual_rank": 6,
+          "used_results_count": 29
+        }
+      ]
+    },
+    {
+      "race_id": "202402011211",
+      "race_name": "函館記念",
+      "race_date": "20240714",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": -0.07352941176470588
+      },
+      "comparison": [
+        {
+          "horse_name": "チャックネイト",
+          "predicted_rank": 1,
+          "score": 21.8324,
+          "actual_rank": 6,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "エンパイアウエスト",
+          "predicted_rank": 2,
+          "score": 17.9065,
+          "actual_rank": 15,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "リカンカブール",
+          "predicted_rank": 3,
+          "score": 15.7229,
+          "actual_rank": 8,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ホウオウビスケッツ",
+          "predicted_rank": 4,
+          "score": 12.5313,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "デビットバローズ",
+          "predicted_rank": 5,
+          "score": 11.5071,
+          "actual_rank": 16,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "トップナイフ",
+          "predicted_rank": 6,
+          "score": 8.3898,
+          "actual_rank": 10,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "マイネルクリソーラ",
+          "predicted_rank": 7,
+          "score": 8.2582,
+          "actual_rank": 9,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "ハヤヤッコ",
+          "predicted_rank": 8,
+          "score": 5.486,
+          "actual_rank": 12,
+          "used_results_count": 39
+        },
+        {
+          "horse_name": "サヴォーナ",
+          "predicted_rank": 9,
+          "score": 5.2129,
+          "actual_rank": 4,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "アケルナルスター",
+          "predicted_rank": 10,
+          "score": 4.9145,
+          "actual_rank": 11,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "グランディア",
+          "predicted_rank": 11,
+          "score": 4.4239,
+          "actual_rank": 2,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "プラチナトレジャー",
+          "predicted_rank": 12,
+          "score": 2.1793,
+          "actual_rank": 5,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "オニャンコポン",
+          "predicted_rank": 13,
+          "score": 1.6684,
+          "actual_rank": 13,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "アウスヴァール",
+          "predicted_rank": 14,
+          "score": 1.1416,
+          "actual_rank": 3,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "サンストックトン",
+          "predicted_rank": 15,
+          "score": 0.4016,
+          "actual_rank": 7,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "エミュー",
+          "predicted_rank": 16,
+          "score": 0.1976,
+          "actual_rank": 14,
+          "used_results_count": 13
+        }
+      ]
+    },
+    {
+      "race_id": "202405021211",
+      "race_name": "日本ダービー",
+      "race_date": "20240526",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.5465686274509804
+      },
+      "comparison": [
+        {
+          "horse_name": "ジャスティンミラノ",
+          "predicted_rank": 1,
+          "score": 44.6429,
+          "actual_rank": 2,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "シュガークン",
+          "predicted_rank": 2,
+          "score": 35.7125,
+          "actual_rank": 7,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "コスモキュランダ",
+          "predicted_rank": 3,
+          "score": 34.3029,
+          "actual_rank": 6,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "シンエンペラー",
+          "predicted_rank": 4,
+          "score": 31.4505,
+          "actual_rank": 3,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ジューンテイク",
+          "predicted_rank": 5,
+          "score": 31.3044,
+          "actual_rank": 10,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "シックスペンス",
+          "predicted_rank": 6,
+          "score": 31.1111,
+          "actual_rank": 9,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ダノンデサイル",
+          "predicted_rank": 7,
+          "score": 20.625,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ゴンバデカーブース",
+          "predicted_rank": 8,
+          "score": 18.287,
+          "actual_rank": 13,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "メイショウタバル",
+          "predicted_rank": 9,
+          "score": 16.2054,
+          "actual_rank": null,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "レガレイラ",
+          "predicted_rank": 10,
+          "score": 16.0227,
+          "actual_rank": 5,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ショウナンラプンタ",
+          "predicted_rank": 11,
+          "score": 16.0227,
+          "actual_rank": 15,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "アーバンシック",
+          "predicted_rank": 12,
+          "score": 13.2982,
+          "actual_rank": 11,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "サンライズジパング",
+          "predicted_rank": 13,
+          "score": 9.8425,
+          "actual_rank": 12,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ビザンチンドリーム",
+          "predicted_rank": 14,
+          "score": 8.9286,
+          "actual_rank": 17,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "エコロヴァルツ",
+          "predicted_rank": 15,
+          "score": 8.2649,
+          "actual_rank": 8,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ダノンエアズロック",
+          "predicted_rank": 16,
+          "score": 7.8795,
+          "actual_rank": 14,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "サンライズアース",
+          "predicted_rank": 17,
+          "score": 4.6726,
+          "actual_rank": 4,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "ミスタージーティー",
+          "predicted_rank": 18,
+          "score": 3.75,
+          "actual_rank": 16,
+          "used_results_count": 5
+        }
+      ]
+    },
+    {
+      "race_id": "202405021212",
+      "race_name": "目黒記念",
+      "race_date": "20240526",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.6648351648351648
+      },
+      "comparison": [
+        {
+          "horse_name": "シュトルーヴェ",
+          "predicted_rank": 1,
+          "score": 41.2008,
+          "actual_rank": 1,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "サトノグランツ",
+          "predicted_rank": 2,
+          "score": 27.8636,
+          "actual_rank": 4,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "マイネルウィルトス",
+          "predicted_rank": 3,
+          "score": 21.2992,
+          "actual_rank": 5,
+          "used_results_count": 41
+        },
+        {
+          "horse_name": "クロミナンス",
+          "predicted_rank": 4,
+          "score": 18.9561,
+          "actual_rank": 3,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ジューンアヲニヨシ",
+          "predicted_rank": 5,
+          "score": 16.8169,
+          "actual_rank": 12,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ケイアイサンデラ",
+          "predicted_rank": 6,
+          "score": 11.8722,
+          "actual_rank": 9,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ヒートオンビート",
+          "predicted_rank": 7,
+          "score": 6.5903,
+          "actual_rank": 7,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "シュヴァリエローズ",
+          "predicted_rank": 8,
+          "score": 4.7113,
+          "actual_rank": 2,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "ダンディズム",
+          "predicted_rank": 9,
+          "score": 1.8463,
+          "actual_rank": 6,
+          "used_results_count": 34
+        },
+        {
+          "horse_name": "メイショウブレゲ",
+          "predicted_rank": 10,
+          "score": 1.3013,
+          "actual_rank": 10,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "バラジ",
+          "predicted_rank": 11,
+          "score": 0.8299,
+          "actual_rank": 8,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ナイトインロンドン",
+          "predicted_rank": 12,
+          "score": 0.6909,
+          "actual_rank": 11,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "シークレットラン",
+          "predicted_rank": 13,
+          "score": 0.0013,
+          "actual_rank": 13,
+          "used_results_count": 27
+        }
+      ]
+    },
+    {
+      "race_id": "202405040811",
+      "race_name": "天皇賞(秋)",
+      "race_date": "20241027",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": -0.075
+      },
+      "comparison": [
+        {
+          "horse_name": "リバティアイランド",
+          "predicted_rank": 1,
+          "score": 155.6371,
+          "actual_rank": 13,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ベラジオオペラ",
+          "predicted_rank": 2,
+          "score": 82.6331,
+          "actual_rank": 6,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "レーベンスティール",
+          "predicted_rank": 3,
+          "score": 56.4193,
+          "actual_rank": 8,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ノースブリッジ",
+          "predicted_rank": 4,
+          "score": 53.0096,
+          "actual_rank": 11,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ホウオウビスケッツ",
+          "predicted_rank": 5,
+          "score": 47.3012,
+          "actual_rank": 3,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "キングズパレス",
+          "predicted_rank": 6,
+          "score": 31.897,
+          "actual_rank": 12,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ダノンベルーガ",
+          "predicted_rank": 7,
+          "score": 31.7128,
+          "actual_rank": 14,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 8,
+          "score": 30.4912,
+          "actual_rank": 4,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 9,
+          "score": 29.0602,
+          "actual_rank": 7,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ドウデュース",
+          "predicted_rank": 10,
+          "score": 26.4864,
+          "actual_rank": 1,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "マテンロウスカイ",
+          "predicted_rank": 11,
+          "score": 9.6774,
+          "actual_rank": 5,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "タスティエーラ",
+          "predicted_rank": 12,
+          "score": 9.4513,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ステラヴェローチェ",
+          "predicted_rank": 13,
+          "score": 7.5629,
+          "actual_rank": 9,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "シルトホルン",
+          "predicted_rank": 14,
+          "score": 6.0085,
+          "actual_rank": 15,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ニシノレヴナント",
+          "predicted_rank": 15,
+          "score": 1.5765,
+          "actual_rank": 10,
+          "used_results_count": 14
+        }
+      ]
+    },
+    {
+      "race_id": "202405050812",
+      "race_name": "ジャパンC",
+      "race_date": "20241124",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.3626373626373626
+      },
+      "comparison": [
+        {
+          "horse_name": "ゴリアット",
+          "predicted_rank": 1,
+          "score": 92.9855,
+          "actual_rank": 6,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "チェルヴィニア",
+          "predicted_rank": 2,
+          "score": 81.8523,
+          "actual_rank": 4,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "オーギュストロダン",
+          "predicted_rank": 3,
+          "score": 79.9176,
+          "actual_rank": 8,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ドウデュース",
+          "predicted_rank": 4,
+          "score": 60.2989,
+          "actual_rank": 1,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ブローザホーン",
+          "predicted_rank": 5,
+          "score": 51.2002,
+          "actual_rank": 12,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "スターズオンアース",
+          "predicted_rank": 6,
+          "score": 48.1575,
+          "actual_rank": 7,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ファンタスティックムーン",
+          "predicted_rank": 7,
+          "score": 42.725,
+          "actual_rank": 11,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 8,
+          "score": 31.6534,
+          "actual_rank": 5,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "シュトルーヴェ",
+          "predicted_rank": 9,
+          "score": 31.3435,
+          "actual_rank": 10,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ドゥレッツァ",
+          "predicted_rank": 10,
+          "score": 26.9765,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "シンエンペラー",
+          "predicted_rank": 11,
+          "score": 25.5403,
+          "actual_rank": 2,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 12,
+          "score": 13.4037,
+          "actual_rank": 14,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ダノンベルーガ",
+          "predicted_rank": 13,
+          "score": 12.403,
+          "actual_rank": 9,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "カラテ",
+          "predicted_rank": 14,
+          "score": 0.0846,
+          "actual_rank": 13,
+          "used_results_count": 43
+        }
+      ]
+    },
+    {
+      "race_id": "202406020211",
+      "race_name": "中山記念",
+      "race_date": "20240225",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.16470588235294117
+      },
+      "comparison": [
+        {
+          "horse_name": "エルトンバローズ",
+          "predicted_rank": 1,
+          "score": 55.5383,
+          "actual_rank": 7,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 2,
+          "score": 33.9518,
+          "actual_rank": 4,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ヒシイグアス",
+          "predicted_rank": 3,
+          "score": 31.4459,
+          "actual_rank": 11,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "マイネルクリソーラ",
+          "predicted_rank": 4,
+          "score": 14.4561,
+          "actual_rank": 5,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "マテンロウスカイ",
+          "predicted_rank": 5,
+          "score": 13.3139,
+          "actual_rank": 1,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ソーヴァリアント",
+          "predicted_rank": 6,
+          "score": 11.547,
+          "actual_rank": 12,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "レッドモンレーヴ",
+          "predicted_rank": 7,
+          "score": 9.9919,
+          "actual_rank": 15,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ドーブネ",
+          "predicted_rank": 8,
+          "score": 9.3277,
+          "actual_rank": 2,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ボーンディスウェイ",
+          "predicted_rank": 9,
+          "score": 7.291,
+          "actual_rank": 10,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ラーグルフ",
+          "predicted_rank": 10,
+          "score": 4.7605,
+          "actual_rank": 9,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "イルーシヴパンサー",
+          "predicted_rank": 11,
+          "score": 4.3753,
+          "actual_rank": 16,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "テーオーシリウス",
+          "predicted_rank": 12,
+          "score": 2.5224,
+          "actual_rank": 14,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "エエヤン",
+          "predicted_rank": 13,
+          "score": 2.3445,
+          "actual_rank": 13,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ホウオウリアリティ",
+          "predicted_rank": 14,
+          "score": 1.0608,
+          "actual_rank": 8,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "ジオグリフ",
+          "predicted_rank": 15,
+          "score": 0.8409,
+          "actual_rank": 3,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "タイムトゥヘヴン",
+          "predicted_rank": 16,
+          "score": 0.0338,
+          "actual_rank": 6,
+          "used_results_count": 26
+        }
+      ]
+    },
+    {
+      "race_id": "202406030211",
+      "race_name": "マーチS",
+      "race_date": "20240324",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.38461538461538464
+      },
+      "comparison": [
+        {
+          "horse_name": "ブライアンセンス",
+          "predicted_rank": 1,
+          "score": 30.6548,
+          "actual_rank": 6,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ミトノオー",
+          "predicted_rank": 2,
+          "score": 19.8131,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "キリンジ",
+          "predicted_rank": 3,
+          "score": 12.2517,
+          "actual_rank": 11,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ペイシャエス",
+          "predicted_rank": 4,
+          "score": 8.9144,
+          "actual_rank": 3,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ゴールドハイアー",
+          "predicted_rank": 5,
+          "score": 8.8712,
+          "actual_rank": 8,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ヴァルツァーシャル",
+          "predicted_rank": 6,
+          "score": 8.1034,
+          "actual_rank": 1,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "キタノリューオー",
+          "predicted_rank": 7,
+          "score": 7.9406,
+          "actual_rank": 12,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "ウェルカムニュース",
+          "predicted_rank": 8,
+          "score": 6.0778,
+          "actual_rank": 13,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ラインオブソウル",
+          "predicted_rank": 9,
+          "score": 3.5932,
+          "actual_rank": 5,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ニューモニュメント",
+          "predicted_rank": 10,
+          "score": 3.1394,
+          "actual_rank": 9,
+          "used_results_count": 37
+        },
+        {
+          "horse_name": "キタノヴィジョン",
+          "predicted_rank": 11,
+          "score": 2.0165,
+          "actual_rank": 4,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "クリノドラゴン",
+          "predicted_rank": 12,
+          "score": 1.3545,
+          "actual_rank": 10,
+          "used_results_count": 33
+        },
+        {
+          "horse_name": "ダノンブレット",
+          "predicted_rank": 13,
+          "score": 0.8408,
+          "actual_rank": 7,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ホウオウルバン",
+          "predicted_rank": 14,
+          "score": 0.5201,
+          "actual_rank": 14,
+          "used_results_count": 20
+        }
+      ]
+    },
+    {
+      "race_id": "202406050811",
+      "race_name": "有馬記念",
+      "race_date": "20241222",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.35
+      },
+      "comparison": [
+        {
+          "horse_name": "ドウデュース",
+          "predicted_rank": 1,
+          "score": 90.3764,
+          "actual_rank": null,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "プログノーシス",
+          "predicted_rank": 2,
+          "score": 86.7038,
+          "actual_rank": 11,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "アーバンシック",
+          "predicted_rank": 3,
+          "score": 63.8818,
+          "actual_rank": 6,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "シャフリヤール",
+          "predicted_rank": 4,
+          "score": 56.6008,
+          "actual_rank": 2,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "スタニングローズ",
+          "predicted_rank": 5,
+          "score": 39.7642,
+          "actual_rank": 8,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ダノンデサイル",
+          "predicted_rank": 6,
+          "score": 31.91,
+          "actual_rank": 3,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 7,
+          "score": 31.4534,
+          "actual_rank": 5,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ベラジオオペラ",
+          "predicted_rank": 8,
+          "score": 31.2644,
+          "actual_rank": 4,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ローシャムパーク",
+          "predicted_rank": 9,
+          "score": 31.0802,
+          "actual_rank": 7,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ハヤヤッコ",
+          "predicted_rank": 10,
+          "score": 30.8213,
+          "actual_rank": 15,
+          "used_results_count": 42
+        },
+        {
+          "horse_name": "ブローザホーン",
+          "predicted_rank": 11,
+          "score": 24.6791,
+          "actual_rank": 12,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "スターズオンアース",
+          "predicted_rank": 12,
+          "score": 22.9042,
+          "actual_rank": 14,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "レガレイラ",
+          "predicted_rank": 13,
+          "score": 18.6863,
+          "actual_rank": 1,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "シュトルーヴェ",
+          "predicted_rank": 14,
+          "score": 16.5502,
+          "actual_rank": 10,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ディープボンド",
+          "predicted_rank": 15,
+          "score": 13.0594,
+          "actual_rank": 13,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "ダノンベルーガ",
+          "predicted_rank": 16,
+          "score": 5.7996,
+          "actual_rank": 9,
+          "used_results_count": 13
+        }
+      ]
+    },
+    {
+      "race_id": "202407010611",
+      "race_name": "高松宮記念",
+      "race_date": "20240324",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.4530443756449948
+      },
+      "comparison": [
+        {
+          "horse_name": "ナムラクレア",
+          "predicted_rank": 1,
+          "score": 78.3639,
+          "actual_rank": 2,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "トウシンマカオ",
+          "predicted_rank": 2,
+          "score": 63.0608,
+          "actual_rank": 6,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ルガル",
+          "predicted_rank": 3,
+          "score": 55.3358,
+          "actual_rank": 10,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ビクターザウィナー",
+          "predicted_rank": 4,
+          "score": 51.795,
+          "actual_rank": 3,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ママコチャ",
+          "predicted_rank": 5,
+          "score": 50.9416,
+          "actual_rank": 8,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ウインマーベル",
+          "predicted_rank": 6,
+          "score": 46.4231,
+          "actual_rank": 12,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ソーダズリング",
+          "predicted_rank": 7,
+          "score": 23.4194,
+          "actual_rank": 14,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ビッグシーザー",
+          "predicted_rank": 8,
+          "score": 20.5425,
+          "actual_rank": 7,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "マッドクール",
+          "predicted_rank": 9,
+          "score": 16.1183,
+          "actual_rank": 1,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "シャンパンカラー",
+          "predicted_rank": 10,
+          "score": 8.6445,
+          "actual_rank": 17,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ウインカーネリアン",
+          "predicted_rank": 11,
+          "score": 8.2678,
+          "actual_rank": 4,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "テイエムスパーダ",
+          "predicted_rank": 12,
+          "score": 7.5829,
+          "actual_rank": 18,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ディヴィーナ",
+          "predicted_rank": 13,
+          "score": 7.0328,
+          "actual_rank": 11,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "シュバルツカイザー",
+          "predicted_rank": 14,
+          "score": 5.3192,
+          "actual_rank": 13,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "メイケイエール",
+          "predicted_rank": 15,
+          "score": 3.8931,
+          "actual_rank": 9,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ロータスランド",
+          "predicted_rank": 16,
+          "score": 1.9194,
+          "actual_rank": 5,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "モズメイメイ",
+          "predicted_rank": 17,
+          "score": 1.1074,
+          "actual_rank": 15,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "マテンロウオリオン",
+          "predicted_rank": 18,
+          "score": 0.5361,
+          "actual_rank": 16,
+          "used_results_count": 17
+        }
+      ]
+    },
+    {
+      "race_id": "202407040211",
+      "race_name": "チャンピオン",
+      "race_date": "20241201",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 2,
+        "spearman": 0.5529411764705883
+      },
+      "comparison": [
+        {
+          "horse_name": "レモンポップ",
+          "predicted_rank": 1,
+          "score": 153.7148,
+          "actual_rank": 1,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ウィルソンテソーロ",
+          "predicted_rank": 2,
+          "score": 105.7534,
+          "actual_rank": 2,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "サンライズジパング",
+          "predicted_rank": 3,
+          "score": 68.9016,
+          "actual_rank": 6,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ペプチドナイル",
+          "predicted_rank": 4,
+          "score": 57.8217,
+          "actual_rank": 5,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "アーテルアストレア",
+          "predicted_rank": 5,
+          "score": 50.4485,
+          "actual_rank": 7,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "クラウンプライド",
+          "predicted_rank": 6,
+          "score": 45.4916,
+          "actual_rank": 11,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ハギノアレグリアス",
+          "predicted_rank": 7,
+          "score": 41.4242,
+          "actual_rank": 4,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ペイシャエス",
+          "predicted_rank": 8,
+          "score": 30.8064,
+          "actual_rank": 8,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "セラフィックコール",
+          "predicted_rank": 9,
+          "score": 26.847,
+          "actual_rank": 12,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ミックファイア",
+          "predicted_rank": 10,
+          "score": 25.1591,
+          "actual_rank": 13,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ガイアフォース",
+          "predicted_rank": 11,
+          "score": 24.4411,
+          "actual_rank": 15,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "テーオードレフォン",
+          "predicted_rank": 12,
+          "score": 19.141,
+          "actual_rank": 14,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ミトノオー",
+          "predicted_rank": 13,
+          "score": 18.8686,
+          "actual_rank": 10,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "スレイマン",
+          "predicted_rank": 14,
+          "score": 17.8319,
+          "actual_rank": 16,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "グロリアムンディ",
+          "predicted_rank": 15,
+          "score": 6.598,
+          "actual_rank": 9,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ドゥラエレーデ",
+          "predicted_rank": 16,
+          "score": 5.9258,
+          "actual_rank": 3,
+          "used_results_count": 15
+        }
+      ]
+    },
+    {
+      "race_id": "202408040811",
+      "race_name": "宝塚記念",
+      "race_date": "20240623",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.4725274725274725
+      },
+      "comparison": [
+        {
+          "horse_name": "ベラジオオペラ",
+          "predicted_rank": 1,
+          "score": 68.0123,
+          "actual_rank": 3,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 2,
+          "score": 66.0156,
+          "actual_rank": 10,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ブローザホーン",
+          "predicted_rank": 3,
+          "score": 59.5184,
+          "actual_rank": 1,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ドウデュース",
+          "predicted_rank": 4,
+          "score": 58.0218,
+          "actual_rank": 6,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "シュトルーヴェ",
+          "predicted_rank": 5,
+          "score": 54.7695,
+          "actual_rank": 11,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ローシャムパーク",
+          "predicted_rank": 6,
+          "score": 49.9999,
+          "actual_rank": 5,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ルージュエヴァイユ",
+          "predicted_rank": 7,
+          "score": 25.1966,
+          "actual_rank": 8,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "プラダリア",
+          "predicted_rank": 8,
+          "score": 21.7059,
+          "actual_rank": 4,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 9,
+          "score": 16.4358,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ディープボンド",
+          "predicted_rank": 10,
+          "score": 10.8102,
+          "actual_rank": 7,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "ヤマニンサンパ",
+          "predicted_rank": 11,
+          "score": 6.1856,
+          "actual_rank": 9,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ヒートオンビート",
+          "predicted_rank": 12,
+          "score": 2.6976,
+          "actual_rank": 12,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "カラテ",
+          "predicted_rank": 13,
+          "score": 0.3939,
+          "actual_rank": 13,
+          "used_results_count": 41
+        }
+      ]
+    },
+    {
+      "race_id": "202408060812",
+      "race_name": "京阪杯",
+      "race_date": "20241124",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": -0.017543859649122806
+      },
+      "comparison": [
+        {
+          "horse_name": "ドロップオブライト",
+          "predicted_rank": 1,
+          "score": 21.7558,
+          "actual_rank": 6,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "モズメイメイ",
+          "predicted_rank": 2,
+          "score": 15.5456,
+          "actual_rank": 11,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "グランテスト",
+          "predicted_rank": 3,
+          "score": 12.9949,
+          "actual_rank": 10,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ヴェントヴォーチェ",
+          "predicted_rank": 4,
+          "score": 10.0029,
+          "actual_rank": 3,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ビッグシーザー",
+          "predicted_rank": 5,
+          "score": 9.4253,
+          "actual_rank": 1,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "レッドヒルシューズ",
+          "predicted_rank": 6,
+          "score": 7.818,
+          "actual_rank": 17,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ラプタス",
+          "predicted_rank": 7,
+          "score": 7.4298,
+          "actual_rank": 18,
+          "used_results_count": 31
+        },
+        {
+          "horse_name": "エイシンスポッター",
+          "predicted_rank": 8,
+          "score": 4.6559,
+          "actual_rank": 14,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "マメコ",
+          "predicted_rank": 9,
+          "score": 4.4744,
+          "actual_rank": 16,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "テイエムスパーダ",
+          "predicted_rank": 10,
+          "score": 3.5132,
+          "actual_rank": 12,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ウインカーネリアン",
+          "predicted_rank": 11,
+          "score": 3.1808,
+          "actual_rank": 2,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "アグリ",
+          "predicted_rank": 12,
+          "score": 3.0526,
+          "actual_rank": 8,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "チェイスザドリーム",
+          "predicted_rank": 13,
+          "score": 2.6473,
+          "actual_rank": 15,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "プルパレイ",
+          "predicted_rank": 14,
+          "score": 2.0373,
+          "actual_rank": 4,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "カンチェンジュンガ",
+          "predicted_rank": 15,
+          "score": 1.5667,
+          "actual_rank": 7,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "グレイトゲイナー",
+          "predicted_rank": 16,
+          "score": 0.4123,
+          "actual_rank": 9,
+          "used_results_count": 40
+        },
+        {
+          "horse_name": "サブライムアンセム",
+          "predicted_rank": 17,
+          "score": 0.0319,
+          "actual_rank": 5,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "レッドベルオーブ",
+          "predicted_rank": 18,
+          "score": 0.0247,
+          "actual_rank": 13,
+          "used_results_count": 24
+        }
+      ]
+    },
+    {
+      "race_id": "202409010211",
+      "race_name": "阪急杯",
+      "race_date": "20240225",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.6140350877192982
+      },
+      "comparison": [
+        {
+          "horse_name": "ダノンティンパニー",
+          "predicted_rank": 1,
+          "score": 44.7348,
+          "actual_rank": 9,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ウインマーベル",
+          "predicted_rank": 2,
+          "score": 34.8169,
+          "actual_rank": 1,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "サトノレーヴ",
+          "predicted_rank": 3,
+          "score": 20.6818,
+          "actual_rank": 4,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "アサカラキング",
+          "predicted_rank": 4,
+          "score": 19.7602,
+          "actual_rank": 2,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "スマートクラージュ",
+          "predicted_rank": 5,
+          "score": 18.3806,
+          "actual_rank": 10,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "サンライズロナウド",
+          "predicted_rank": 6,
+          "score": 9.2827,
+          "actual_rank": 3,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "カルロヴェローチェ",
+          "predicted_rank": 7,
+          "score": 8.3288,
+          "actual_rank": 8,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ボルザコフスキー",
+          "predicted_rank": 8,
+          "score": 4.1846,
+          "actual_rank": 5,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "メイショウホシアイ",
+          "predicted_rank": 9,
+          "score": 2.5411,
+          "actual_rank": 17,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "メイショウチタン",
+          "predicted_rank": 10,
+          "score": 1.661,
+          "actual_rank": 13,
+          "used_results_count": 34
+        },
+        {
+          "horse_name": "タマモブラックタイ",
+          "predicted_rank": 11,
+          "score": 1.4004,
+          "actual_rank": 15,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "エンペザー",
+          "predicted_rank": 12,
+          "score": 1.0644,
+          "actual_rank": 16,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ホープフルサイン",
+          "predicted_rank": 13,
+          "score": 0.8712,
+          "actual_rank": 7,
+          "used_results_count": 38
+        },
+        {
+          "horse_name": "デュガ",
+          "predicted_rank": 14,
+          "score": 0.7469,
+          "actual_rank": 11,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ルプリュフォール",
+          "predicted_rank": 15,
+          "score": 0.5094,
+          "actual_rank": 6,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "サトノアイ",
+          "predicted_rank": 16,
+          "score": 0.2714,
+          "actual_rank": 14,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ワールドウインズ",
+          "predicted_rank": 17,
+          "score": 0.0955,
+          "actual_rank": 12,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "カリボール",
+          "predicted_rank": 18,
+          "score": 0.0037,
+          "actual_rank": 18,
+          "used_results_count": 31
+        }
+      ]
+    },
+    {
+      "race_id": "202409020411",
+      "race_name": "大阪杯",
+      "race_date": "20240331",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.09411764705882353
+      },
+      "comparison": [
+        {
+          "horse_name": "ローシャムパーク",
+          "predicted_rank": 1,
+          "score": 42.1077,
+          "actual_rank": 2,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ベラジオオペラ",
+          "predicted_rank": 2,
+          "score": 41.7298,
+          "actual_rank": 1,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ミッキーゴージャス",
+          "predicted_rank": 3,
+          "score": 39.3333,
+          "actual_rank": 14,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "タスティエーラ",
+          "predicted_rank": 4,
+          "score": 37.8053,
+          "actual_rank": 11,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "プラダリア",
+          "predicted_rank": 5,
+          "score": 36.8826,
+          "actual_rank": 6,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 6,
+          "score": 35.5991,
+          "actual_rank": 7,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "リカンカブール",
+          "predicted_rank": 7,
+          "score": 31.4457,
+          "actual_rank": 16,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ハーパー",
+          "predicted_rank": 8,
+          "score": 26.0857,
+          "actual_rank": 13,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "エピファニー",
+          "predicted_rank": 9,
+          "score": 25.631,
+          "actual_rank": 10,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "スタニングローズ",
+          "predicted_rank": 10,
+          "score": 22.1831,
+          "actual_rank": 8,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "キラーアビリティ",
+          "predicted_rank": 11,
+          "score": 14.5989,
+          "actual_rank": 15,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ルージュエヴァイユ",
+          "predicted_rank": 12,
+          "score": 13.2534,
+          "actual_rank": 3,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ステラヴェローチェ",
+          "predicted_rank": 13,
+          "score": 11.332,
+          "actual_rank": 4,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ハヤヤッコ",
+          "predicted_rank": 14,
+          "score": 10.972,
+          "actual_rank": 12,
+          "used_results_count": 38
+        },
+        {
+          "horse_name": "ジオグリフ",
+          "predicted_rank": 15,
+          "score": 7.5255,
+          "actual_rank": 5,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "カテドラル",
+          "predicted_rank": 16,
+          "score": 0.1401,
+          "actual_rank": 9,
+          "used_results_count": 33
+        }
+      ]
+    },
+    {
+      "race_id": "202505010811",
+      "race_name": "フェブラリー",
+      "race_date": "20250223",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": 0.45294117647058824
+      },
+      "comparison": [
+        {
+          "horse_name": "アンモシエラ",
+          "predicted_rank": 1,
+          "score": 85.7277,
+          "actual_rank": 16,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "エンペラーワケア",
+          "predicted_rank": 2,
+          "score": 78.2734,
+          "actual_rank": 5,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ペプチドナイル",
+          "predicted_rank": 3,
+          "score": 61.5388,
+          "actual_rank": 4,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "メイショウハリオ",
+          "predicted_rank": 4,
+          "score": 59.0735,
+          "actual_rank": 6,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "ミッキーファイト",
+          "predicted_rank": 5,
+          "score": 58.2872,
+          "actual_rank": 3,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "コスタノヴァ",
+          "predicted_rank": 6,
+          "score": 44.0,
+          "actual_rank": 1,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "タガノビューティー",
+          "predicted_rank": 7,
+          "score": 43.4933,
+          "actual_rank": 8,
+          "used_results_count": 38
+        },
+        {
+          "horse_name": "サンライズジパング",
+          "predicted_rank": 8,
+          "score": 33.4091,
+          "actual_rank": 2,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "サンデーファンデー",
+          "predicted_rank": 9,
+          "score": 29.4202,
+          "actual_rank": 10,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ウィリアムバローズ",
+          "predicted_rank": 10,
+          "score": 26.5717,
+          "actual_rank": 13,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "アーテルアストレア",
+          "predicted_rank": 11,
+          "score": 24.0979,
+          "actual_rank": 9,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "ドゥラエレーデ",
+          "predicted_rank": 12,
+          "score": 22.8742,
+          "actual_rank": 11,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ガイアフォース",
+          "predicted_rank": 13,
+          "score": 13.6459,
+          "actual_rank": 7,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "デルマソトガケ",
+          "predicted_rank": 14,
+          "score": 5.8584,
+          "actual_rank": 14,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ミトノオー",
+          "predicted_rank": 15,
+          "score": 4.0253,
+          "actual_rank": 15,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ヘリオス",
+          "predicted_rank": 16,
+          "score": 1.5532,
+          "actual_rank": 11,
+          "used_results_count": 42
+        }
+      ]
+    },
+    {
+      "race_id": "202505021011",
+      "race_name": "オークス",
+      "race_date": "20250525",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.45510835913312686
+      },
+      "comparison": [
+        {
+          "horse_name": "エンブロイダリー",
+          "predicted_rank": 1,
+          "score": 44.5709,
+          "actual_rank": 9,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "アルマヴェローチェ",
+          "predicted_rank": 2,
+          "score": 35.9963,
+          "actual_rank": 2,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "カムニャック",
+          "predicted_rank": 3,
+          "score": 23.8095,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "レーゼドラマ",
+          "predicted_rank": 4,
+          "score": 20.8929,
+          "actual_rank": 16,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "エリカエクスプレス",
+          "predicted_rank": 5,
+          "score": 20.3704,
+          "actual_rank": 10,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "リンクスティップ",
+          "predicted_rank": 6,
+          "score": 17.4071,
+          "actual_rank": 5,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "パラディレーヌ",
+          "predicted_rank": 7,
+          "score": 14.1012,
+          "actual_rank": 4,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "タガノアビー",
+          "predicted_rank": 8,
+          "score": 10.931,
+          "actual_rank": 3,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "サヴォンリンナ",
+          "predicted_rank": 9,
+          "score": 9.3506,
+          "actual_rank": 17,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "タイセイプランセス",
+          "predicted_rank": 10,
+          "score": 9.2532,
+          "actual_rank": 11,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ビップデイジー",
+          "predicted_rank": 11,
+          "score": 9.1024,
+          "actual_rank": 13,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ケリフレッドアスク",
+          "predicted_rank": 12,
+          "score": 6.2884,
+          "actual_rank": 8,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ウィルサヴァイブ",
+          "predicted_rank": 13,
+          "score": 5.8965,
+          "actual_rank": 6,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ゴーソーファー",
+          "predicted_rank": 14,
+          "score": 4.7687,
+          "actual_rank": 18,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ブラウンラチェット",
+          "predicted_rank": 15,
+          "score": 4.2708,
+          "actual_rank": 7,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "サタデーサンライズ",
+          "predicted_rank": 16,
+          "score": 3.2357,
+          "actual_rank": 15,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "アイサンサン",
+          "predicted_rank": 17,
+          "score": 2.9844,
+          "actual_rank": 12,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "レーヴドロペラ",
+          "predicted_rank": 18,
+          "score": 1.3111,
+          "actual_rank": 14,
+          "used_results_count": 6
+        }
+      ]
+    },
+    {
+      "race_id": "202506010911",
+      "race_name": "AJCC",
+      "race_date": "20250126",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 1.0,
+        "top3_hit_count": 1,
+        "spearman": 0.413828689370485
+      },
+      "comparison": [
+        {
+          "horse_name": "ダノンデサイル",
+          "predicted_rank": 1,
+          "score": 41.3524,
+          "actual_rank": 1,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "レーベンスティール",
+          "predicted_rank": 2,
+          "score": 29.269,
+          "actual_rank": 12,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "アラタ",
+          "predicted_rank": 3,
+          "score": 22.5177,
+          "actual_rank": 14,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ボルドグフーシュ",
+          "predicted_rank": 4,
+          "score": 20.5481,
+          "actual_rank": 4,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ディープモンスター",
+          "predicted_rank": 5,
+          "score": 18.3016,
+          "actual_rank": 10,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "ボーンディスウェイ",
+          "predicted_rank": 6,
+          "score": 12.1645,
+          "actual_rank": 7,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "マテンロウレオ",
+          "predicted_rank": 7,
+          "score": 7.0659,
+          "actual_rank": 2,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "コスモキュランダ",
+          "predicted_rank": 8,
+          "score": 6.5932,
+          "actual_rank": 3,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "チャックネイト",
+          "predicted_rank": 9,
+          "score": 6.3827,
+          "actual_rank": 13,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ビザンチンドリーム",
+          "predicted_rank": 10,
+          "score": 5.3799,
+          "actual_rank": 6,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "マイネルクリソーラ",
+          "predicted_rank": 11,
+          "score": 3.4672,
+          "actual_rank": 9,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "アウスヴァール",
+          "predicted_rank": 12,
+          "score": 2.7544,
+          "actual_rank": 18,
+          "used_results_count": 29
+        },
+        {
+          "horse_name": "エヒト",
+          "predicted_rank": 13,
+          "score": 2.2164,
+          "actual_rank": 8,
+          "used_results_count": 32
+        },
+        {
+          "horse_name": "ニシノレヴナント",
+          "predicted_rank": 14,
+          "score": 0.9087,
+          "actual_rank": 16,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ポタジェ",
+          "predicted_rank": 15,
+          "score": 0.783,
+          "actual_rank": 15,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ライラック",
+          "predicted_rank": 16,
+          "score": 0.4459,
+          "actual_rank": 5,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ホウオウリアリティ",
+          "predicted_rank": 17,
+          "score": 0.0555,
+          "actual_rank": 17,
+          "used_results_count": 35
+        },
+        {
+          "horse_name": "カラテ",
+          "predicted_rank": 18,
+          "score": 0.0246,
+          "actual_rank": 11,
+          "used_results_count": 45
+        }
+      ]
+    },
+    {
+      "race_id": "202507010911",
+      "race_name": "プロキオンS",
+      "race_date": "20250126",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.5029411764705882
+      },
+      "comparison": [
+        {
+          "horse_name": "サンライズジパング",
+          "predicted_rank": 1,
+          "score": 34.4508,
+          "actual_rank": 2,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "カズペトシーン",
+          "predicted_rank": 2,
+          "score": 27.3001,
+          "actual_rank": 6,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ドゥラエレーデ",
+          "predicted_rank": 3,
+          "score": 20.8416,
+          "actual_rank": 3,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "サンマルパトロール",
+          "predicted_rank": 4,
+          "score": 19.2596,
+          "actual_rank": 10,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "オメガギネス",
+          "predicted_rank": 5,
+          "score": 14.8536,
+          "actual_rank": 7,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "ミッキーヌチバナ",
+          "predicted_rank": 6,
+          "score": 14.5502,
+          "actual_rank": 5,
+          "used_results_count": 21
+        },
+        {
+          "horse_name": "ディープリボーン",
+          "predicted_rank": 7,
+          "score": 13.8086,
+          "actual_rank": 8,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "フタイテンロック",
+          "predicted_rank": 8,
+          "score": 10.3414,
+          "actual_rank": 14,
+          "used_results_count": 30
+        },
+        {
+          "horse_name": "サンデーファンデー",
+          "predicted_rank": 9,
+          "score": 10.3043,
+          "actual_rank": 1,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ロコポルティ",
+          "predicted_rank": 10,
+          "score": 8.0842,
+          "actual_rank": 15,
+          "used_results_count": 27
+        },
+        {
+          "horse_name": "サトノエピック",
+          "predicted_rank": 11,
+          "score": 7.6231,
+          "actual_rank": 13,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "タマモロック",
+          "predicted_rank": 12,
+          "score": 5.7706,
+          "actual_rank": 12,
+          "used_results_count": 16
+        },
+        {
+          "horse_name": "ホウオウルーレット",
+          "predicted_rank": 13,
+          "score": 3.7242,
+          "actual_rank": 4,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "ペプチドソレイユ",
+          "predicted_rank": 14,
+          "score": 2.0625,
+          "actual_rank": 16,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ビヨンドザファザー",
+          "predicted_rank": 15,
+          "score": 0.9962,
+          "actual_rank": 11,
+          "used_results_count": 26
+        },
+        {
+          "horse_name": "ニューモニュメント",
+          "predicted_rank": 16,
+          "score": 0.0981,
+          "actual_rank": 9,
+          "used_results_count": 42
+        }
+      ]
+    },
+    {
+      "race_id": "202508030911",
+      "race_name": "菊花賞",
+      "race_date": "20251026",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 2,
+        "spearman": 0.6305469556243549
+      },
+      "comparison": [
+        {
+          "horse_name": "ショウヘイ",
+          "predicted_rank": 1,
+          "score": 33.6641,
+          "actual_rank": 14,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "エリキング",
+          "predicted_rank": 2,
+          "score": 28.1155,
+          "actual_rank": 2,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "エネルジコ",
+          "predicted_rank": 3,
+          "score": 23.7655,
+          "actual_rank": 1,
+          "used_results_count": 4
+        },
+        {
+          "horse_name": "ゲルチュタール",
+          "predicted_rank": 4,
+          "score": 18.7813,
+          "actual_rank": 4,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "レッドバンデ",
+          "predicted_rank": 5,
+          "score": 15.3357,
+          "actual_rank": 5,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "レクスノヴァス",
+          "predicted_rank": 6,
+          "score": 15.2141,
+          "actual_rank": 9,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "マイユニバース",
+          "predicted_rank": 7,
+          "score": 14.3408,
+          "actual_rank": 13,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "エキサイトバイオ",
+          "predicted_rank": 8,
+          "score": 13.8705,
+          "actual_rank": 3,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "ジョバンニ",
+          "predicted_rank": 9,
+          "score": 12.4698,
+          "actual_rank": 8,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "ミラージュナイト",
+          "predicted_rank": 10,
+          "score": 11.192,
+          "actual_rank": 6,
+          "used_results_count": 7
+        },
+        {
+          "horse_name": "アマキヒ",
+          "predicted_rank": 11,
+          "score": 9.6717,
+          "actual_rank": 11,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ヤマニンブークリエ",
+          "predicted_rank": 12,
+          "score": 9.1266,
+          "actual_rank": 16,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "アロンディ",
+          "predicted_rank": 13,
+          "score": 7.7354,
+          "actual_rank": 10,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ライトトラック",
+          "predicted_rank": 14,
+          "score": 6.4394,
+          "actual_rank": 12,
+          "used_results_count": 3
+        },
+        {
+          "horse_name": "コーチェラバレー",
+          "predicted_rank": 15,
+          "score": 5.5492,
+          "actual_rank": 7,
+          "used_results_count": 5
+        },
+        {
+          "horse_name": "ラーシャローム",
+          "predicted_rank": 16,
+          "score": 5.3571,
+          "actual_rank": 17,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "レイヤードレッド",
+          "predicted_rank": 17,
+          "score": 4.3767,
+          "actual_rank": 15,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ジーティーアダマン",
+          "predicted_rank": 18,
+          "score": 1.6458,
+          "actual_rank": 18,
+          "used_results_count": 4
+        }
+      ]
+    },
+    {
+      "race_id": "202509020411",
+      "race_name": "大阪杯",
+      "race_date": "20250406",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 1,
+        "spearman": 0.37857142857142856
+      },
+      "comparison": [
+        {
+          "horse_name": "ステレンボッシュ",
+          "predicted_rank": 1,
+          "score": 70.1002,
+          "actual_rank": 13,
+          "used_results_count": 8
+        },
+        {
+          "horse_name": "シックスペンス",
+          "predicted_rank": 2,
+          "score": 64.3452,
+          "actual_rank": 7,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "ロードデルレイ",
+          "predicted_rank": 3,
+          "score": 63.204,
+          "actual_rank": 2,
+          "used_results_count": 9
+        },
+        {
+          "horse_name": "ヨーホーレイク",
+          "predicted_rank": 4,
+          "score": 55.3708,
+          "actual_rank": 3,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "ベラジオオペラ",
+          "predicted_rank": 5,
+          "score": 38.3194,
+          "actual_rank": 1,
+          "used_results_count": 11
+        },
+        {
+          "horse_name": "ホウオウビスケッツ",
+          "predicted_rank": 6,
+          "score": 34.7526,
+          "actual_rank": 5,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "デシエルト",
+          "predicted_rank": 7,
+          "score": 34.6618,
+          "actual_rank": 14,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "ジャスティンパレス",
+          "predicted_rank": 8,
+          "score": 29.0574,
+          "actual_rank": 6,
+          "used_results_count": 18
+        },
+        {
+          "horse_name": "ラヴェル",
+          "predicted_rank": 9,
+          "score": 20.4363,
+          "actual_rank": 11,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "ボルドグフーシュ",
+          "predicted_rank": 10,
+          "score": 18.4335,
+          "actual_rank": 8,
+          "used_results_count": 14
+        },
+        {
+          "horse_name": "エコロヴァルツ",
+          "predicted_rank": 11,
+          "score": 16.7045,
+          "actual_rank": 4,
+          "used_results_count": 10
+        },
+        {
+          "horse_name": "アルナシーム",
+          "predicted_rank": 12,
+          "score": 14.7245,
+          "actual_rank": 15,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "コスモキュランダ",
+          "predicted_rank": 13,
+          "score": 13.3289,
+          "actual_rank": 8,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "ソールオリエンス",
+          "predicted_rank": 14,
+          "score": 8.832,
+          "actual_rank": 10,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "カラテ",
+          "predicted_rank": 15,
+          "score": 0.0074,
+          "actual_rank": 12,
+          "used_results_count": 47
+        }
+      ]
+    },
+    {
+      "race_id": "202510011011",
+      "race_name": "小倉大賞典",
+      "race_date": "20250223",
+      "leak_filter_applied": true,
+      "metrics": {
+        "tansho_hit": 0.0,
+        "top3_hit_count": 0,
+        "spearman": -0.3021978021978022
+      },
+      "comparison": [
+        {
+          "horse_name": "ヤマニンウルス",
+          "predicted_rank": 1,
+          "score": 37.3182,
+          "actual_rank": 10,
+          "used_results_count": 6
+        },
+        {
+          "horse_name": "コスモブッドレア",
+          "predicted_rank": 2,
+          "score": 13.3284,
+          "actual_rank": 9,
+          "used_results_count": 12
+        },
+        {
+          "horse_name": "グランドカリナン",
+          "predicted_rank": 3,
+          "score": 10.4491,
+          "actual_rank": 7,
+          "used_results_count": 20
+        },
+        {
+          "horse_name": "エピファニー",
+          "predicted_rank": 4,
+          "score": 9.8769,
+          "actual_rank": 5,
+          "used_results_count": 17
+        },
+        {
+          "horse_name": "ホウオウプロサンゲ",
+          "predicted_rank": 5,
+          "score": 9.2485,
+          "actual_rank": 13,
+          "used_results_count": 13
+        },
+        {
+          "horse_name": "シルトホルン",
+          "predicted_rank": 6,
+          "score": 4.772,
+          "actual_rank": 8,
+          "used_results_count": 22
+        },
+        {
+          "horse_name": "ロングラン",
+          "predicted_rank": 7,
+          "score": 4.2903,
+          "actual_rank": 1,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ショウナンアデイブ",
+          "predicted_rank": 8,
+          "score": 3.7232,
+          "actual_rank": 2,
+          "used_results_count": 25
+        },
+        {
+          "horse_name": "エアファンディタ",
+          "predicted_rank": 9,
+          "score": 3.2548,
+          "actual_rank": 11,
+          "used_results_count": 28
+        },
+        {
+          "horse_name": "ギャラクシーナイト",
+          "predicted_rank": 10,
+          "score": 2.5009,
+          "actual_rank": 12,
+          "used_results_count": 23
+        },
+        {
+          "horse_name": "セルバーグ",
+          "predicted_rank": 11,
+          "score": 0.775,
+          "actual_rank": 4,
+          "used_results_count": 24
+        },
+        {
+          "horse_name": "ラケマーダ",
+          "predicted_rank": 12,
+          "score": 0.6085,
+          "actual_rank": 3,
+          "used_results_count": 19
+        },
+        {
+          "horse_name": "タマモブラックタイ",
+          "predicted_rank": 13,
+          "score": 0.1266,
+          "actual_rank": null,
+          "used_results_count": 15
+        },
+        {
+          "horse_name": "マテンロウオリオン",
+          "predicted_rank": 14,
+          "score": 0.0049,
+          "actual_rank": 6,
+          "used_results_count": 24
+        }
+      ]
+    }
+  ]
+}
