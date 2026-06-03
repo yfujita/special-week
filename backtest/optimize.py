@@ -131,6 +131,8 @@ def suggest_params(trial: optuna.Trial) -> ScoringParams:
   field_size_base = trial.suggest_int('field_size_base', 12, 18)
   # コース種別不一致ペナルティ: 0.3〜1.0（1.0=ペナルティなし）。
   course_type_mismatch_penalty = trial.suggest_float('course_type_mismatch_penalty', 0.3, 1.0)
+  # 直近性減衰: 0.7〜1.0（1.0=減衰なし）。古い戦績ほど加点を緩やかに割り引く。
+  recency_decay = trial.suggest_float('recency_decay', 0.9, 1.0)
 
   return ScoringParams(
     win_score_1st=win_score_1st,
@@ -152,6 +154,7 @@ def suggest_params(trial: optuna.Trial) -> ScoringParams:
     enable_field_size_correction=enable_field_size_correction,
     field_size_base=field_size_base,
     course_type_mismatch_penalty=course_type_mismatch_penalty,
+    recency_decay=recency_decay,
     # course_condition_match_bonus は対象当日馬場状態が供給できず実効化不能（0006）。
     # 探索しても neutral 以外は常にスキップされ無意味なので neutral 固定で除外する。
     course_condition_match_bonus=1.0,

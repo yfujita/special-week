@@ -45,7 +45,8 @@ class Tipster:
     target_course_condition = race_info.get('course_condition')
 
     total_score: float = 0
-    for race_result in reversed_result:
+    num_results: int = len(reversed_result)
+    for index, race_result in enumerate(reversed_result):
       race_score: float = 0
 
       # 勝利数加点
@@ -105,6 +106,15 @@ class Tipster:
       if params.course_condition_match_bonus != 1.0 and target_course_condition:
         if race_result.course_condition == target_course_condition:
           race_score = race_score * params.course_condition_match_bonus
+
+      # --- 直近性による加点逓減 ---
+      # 古い戦績ほど加点を緩やかにする。reversed_result は古い順なので
+      # 直近戦からの古さ age は (num_results - 1 - index)（直近戦 = 0）。
+      # recency_decay ** age の重みを加点に乗じる。
+      # recency_decay=1.0（デフォルト）では重みが常に 1.0 となりベースライン一致。
+      if params.recency_decay != 1.0:
+        age = num_results - 1 - index
+        race_score = race_score * (params.recency_decay ** age)
 
       total_score += race_score
 
