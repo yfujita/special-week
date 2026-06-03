@@ -1,4 +1,6 @@
-FROM python:3.8
+# numpy>=2.0 / optuna>=4.0 は Python 3.9+ が必要なため 3.12 を使う
+# （3.8 では numpy 2.x の対応 wheel が無く pip install が失敗する）
+FROM python:3.12
 USER root
 
 RUN apt-get update
@@ -22,6 +24,7 @@ COPY special-week.py /app/
 COPY sp_es.py /app/
 COPY horse.py /app/
 COPY tipster.py /app/
+COPY scoring_params.py /app/
 COPY es_files /app/es_files/
 
 #ルートディレクトリ設定

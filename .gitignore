@@ -129,3 +129,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# バックテストの出力（再生成可能）は git 管理しない。
+# ただしベースライン基準値（baseline_*.json）は記録として残す。
+backtest/results/*
+!backtest/results/baseline_*.json

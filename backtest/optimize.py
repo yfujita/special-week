@@ -255,7 +255,7 @@ def main(argv: Optional[List[str]] = None) -> None:
   improved = best_metrics['composite'] > baseline_composite
   print(f'  ベースライン超え  : {improved}')
 
-  dump_params_to_yaml(best_params, args.out)
+  dump_params_to_yaml(best_params, args.out, metrics=best_metrics)
   print(f'最良パラメータを保存しました: {args.out}')
 
 
