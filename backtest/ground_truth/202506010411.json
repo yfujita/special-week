@@ -1,0 +1,102 @@
+{
+  "race_id": "202506010411",
+  "race_date": "20250112",
+  "results": [
+    {
+      "horse_name": "エリカエクスプレス",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "ティラトーレ",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "エストゥペンダ",
+      "ranking": 3,
+      "popularity": 9,
+      "odds": 27.8
+    },
+    {
+      "horse_name": "マイスターヴェルク",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "キタノクニカラ",
+      "ranking": 5,
+      "popularity": 13,
+      "odds": 72.8
+    },
+    {
+      "horse_name": "レモンバーム",
+      "ranking": 6,
+      "popularity": 14,
+      "odds": 94.7
+    },
+    {
+      "horse_name": "ハードワーカー",
+      "ranking": 7,
+      "popularity": 15,
+      "odds": 99.0
+    },
+    {
+      "horse_name": "ミラーダカリエンテ",
+      "ranking": 8,
+      "popularity": 16,
+      "odds": 107.4
+    },
+    {
+      "horse_name": "レイユール",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "ホウオウガイア",
+      "ranking": 10,
+      "popularity": 3,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "ジャルディニエ",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 14.0
+    },
+    {
+      "horse_name": "モルティフレーバー",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 14.8
+    },
+    {
+      "horse_name": "ネーブルオレンジ",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 62.8
+    },
+    {
+      "horse_name": "ミーントゥビー",
+      "ranking": 14,
+      "popularity": 6,
+      "odds": 8.4
+    },
+    {
+      "horse_name": "ルージュミレネール",
+      "ranking": 15,
+      "popularity": 10,
+      "odds": 30.8
+    },
+    {
+      "horse_name": "ニシノラヴァンダ",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 45.0
+    }
+  ]
+}

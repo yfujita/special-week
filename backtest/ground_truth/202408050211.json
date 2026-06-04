@@ -1,0 +1,72 @@
+{
+  "race_id": "202408050211",
+  "race_date": "20241006",
+  "results": [
+    {
+      "horse_name": "シュヴァリエローズ",
+      "ranking": 1,
+      "popularity": 8,
+      "odds": 22.5
+    },
+    {
+      "horse_name": "ディープボンド",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 9.9
+    },
+    {
+      "horse_name": "メイショウブレゲ",
+      "ranking": 3,
+      "popularity": 11,
+      "odds": 154.4
+    },
+    {
+      "horse_name": "スマートファントム",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 12.6
+    },
+    {
+      "horse_name": "サトノグランツ",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 2.8
+    },
+    {
+      "horse_name": "ドクタードリトル",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 21.6
+    },
+    {
+      "horse_name": "プラダリア",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 57.1
+    },
+    {
+      "horse_name": "ジューンアヲニヨシ",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 21.8
+    },
+    {
+      "horse_name": "ケイアイサンデラ",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 35.0
+    },
+    {
+      "horse_name": "ブローザホーン",
+      "ranking": 11,
+      "popularity": 1,
+      "odds": 2.6
+    }
+  ]
+}

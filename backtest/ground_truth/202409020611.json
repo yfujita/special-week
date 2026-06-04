@@ -1,0 +1,114 @@
+{
+  "race_id": "202409020611",
+  "race_date": "20240407",
+  "results": [
+    {
+      "horse_name": "ステレンボッシュ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "アスコリピチェーノ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.5
+    },
+    {
+      "horse_name": "ライトバック",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "スウィープフィート",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "エトヴプレ",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 61.8
+    },
+    {
+      "horse_name": "ワイドラトゥール",
+      "ranking": 6,
+      "popularity": 16,
+      "odds": 208.5
+    },
+    {
+      "horse_name": "セキトバイースト",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 80.2
+    },
+    {
+      "horse_name": "クイーンズウォーク",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "テウメッサ",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 147.1
+    },
+    {
+      "horse_name": "ハワイアンティアレ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 102.6
+    },
+    {
+      "horse_name": "イフェイオン",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 31.1
+    },
+    {
+      "horse_name": "シカゴスティング",
+      "ranking": 12,
+      "popularity": 17,
+      "odds": 215.2
+    },
+    {
+      "horse_name": "チェルヴィニア",
+      "ranking": 13,
+      "popularity": 4,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "マスクオールウィン",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 109.4
+    },
+    {
+      "horse_name": "セシリエプラージュ",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 122.2
+    },
+    {
+      "horse_name": "コラソンビート",
+      "ranking": 16,
+      "popularity": 5,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "ショウナンマヌエラ",
+      "ranking": 17,
+      "popularity": 18,
+      "odds": 340.2
+    },
+    {
+      "horse_name": "キャットファイト",
+      "ranking": 18,
+      "popularity": 11,
+      "odds": 99.1
+    }
+  ]
+}

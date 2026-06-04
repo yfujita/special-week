@@ -1,0 +1,114 @@
+{
+  "race_id": "202405030211",
+  "race_date": "20240602",
+  "results": [
+    {
+      "horse_name": "ロマンチックウォリアー",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.6
+    },
+    {
+      "horse_name": "ナミュール",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 10.0
+    },
+    {
+      "horse_name": "ソウルラッシュ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "ガイアフォース",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 11.6
+    },
+    {
+      "horse_name": "セリフォス",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "ジオグリフ",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 43.9
+    },
+    {
+      "horse_name": "フィアスプライド",
+      "ranking": 7,
+      "popularity": 13,
+      "odds": 54.8
+    },
+    {
+      "horse_name": "エルトンバローズ",
+      "ranking": 8,
+      "popularity": 14,
+      "odds": 63.1
+    },
+    {
+      "horse_name": "ステラヴェローチェ",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 16.4
+    },
+    {
+      "horse_name": "エアロロノア",
+      "ranking": 10,
+      "popularity": 16,
+      "odds": 107.8
+    },
+    {
+      "horse_name": "レッドモンレーヴ",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 36.2
+    },
+    {
+      "horse_name": "コレペティトール",
+      "ranking": 12,
+      "popularity": 17,
+      "odds": 125.3
+    },
+    {
+      "horse_name": "パラレルヴィジョン",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 15.4
+    },
+    {
+      "horse_name": "ウインカーネリアン",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 18.9
+    },
+    {
+      "horse_name": "ダノンスコーピオン",
+      "ranking": 15,
+      "popularity": 11,
+      "odds": 36.9
+    },
+    {
+      "horse_name": "カテドラル",
+      "ranking": 16,
+      "popularity": 18,
+      "odds": 212.1
+    },
+    {
+      "horse_name": "ヴォイッジバブル",
+      "ranking": 17,
+      "popularity": 8,
+      "odds": 17.3
+    },
+    {
+      "horse_name": "ドーブネ",
+      "ranking": 18,
+      "popularity": 15,
+      "odds": 71.1
+    }
+  ]
+}

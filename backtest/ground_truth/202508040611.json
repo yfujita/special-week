@@ -1,0 +1,114 @@
+{
+  "race_id": "202508040611",
+  "race_date": "20251123",
+  "results": [
+    {
+      "horse_name": "ジャンタルマンタル",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.8
+    },
+    {
+      "horse_name": "ガイアフォース",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 8.6
+    },
+    {
+      "horse_name": "ウォーターリヒト",
+      "ranking": 3,
+      "popularity": 15,
+      "odds": 130.2
+    },
+    {
+      "horse_name": "オフトレイル",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 34.1
+    },
+    {
+      "horse_name": "エルトンバローズ",
+      "ranking": 5,
+      "popularity": 12,
+      "odds": 67.2
+    },
+    {
+      "horse_name": "ソウルラッシュ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.2
+    },
+    {
+      "horse_name": "アスコリピチェーノ",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 7.5
+    },
+    {
+      "horse_name": "マジックサンズ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 53.2
+    },
+    {
+      "horse_name": "ドックランズ",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 120.2
+    },
+    {
+      "horse_name": "チェルヴィニア",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 45.4
+    },
+    {
+      "horse_name": "トウシンマカオ",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 58.9
+    },
+    {
+      "horse_name": "レーベンスティール",
+      "ranking": 12,
+      "popularity": 5,
+      "odds": 19.3
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 13,
+      "popularity": 17,
+      "odds": 240.9
+    },
+    {
+      "horse_name": "シャンパンカラー",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 121.9
+    },
+    {
+      "horse_name": "ロングラン",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 192.3
+    },
+    {
+      "horse_name": "ラヴァンダ",
+      "ranking": 16,
+      "popularity": 6,
+      "odds": 20.2
+    },
+    {
+      "horse_name": "ワイドラトゥール",
+      "ranking": 17,
+      "popularity": 18,
+      "odds": 278.2
+    },
+    {
+      "horse_name": "ウインマーベル",
+      "ranking": 18,
+      "popularity": 10,
+      "odds": 53.5
+    }
+  ]
+}

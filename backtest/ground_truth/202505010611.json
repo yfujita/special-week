@@ -1,0 +1,60 @@
+{
+  "race_id": "202505010611",
+  "race_date": "20250216",
+  "results": [
+    {
+      "horse_name": "マスカレードボール",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "カラマティアノス",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 14.1
+    },
+    {
+      "horse_name": "リトルジャイアンツ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "ネブラディスク",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "サトノカルナバル",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "ショウナンマクベス",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 33.4
+    },
+    {
+      "horse_name": "チョングク",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 245.9
+    },
+    {
+      "horse_name": "レッドキングリー",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "ワンモアスマイル",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 26.2
+    }
+  ]
+}

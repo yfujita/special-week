@@ -1,0 +1,90 @@
+{
+  "race_id": "202408010511",
+  "race_date": "20240114",
+  "results": [
+    {
+      "horse_name": "ブローザホーン",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "サヴォーナ",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "サトノグランツ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "ハーツコンチェルト",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "カレンルシェルブル",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 43.0
+    },
+    {
+      "horse_name": "レッドバリエンテ",
+      "ranking": 6,
+      "popularity": 5,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ナイママ",
+      "ranking": 7,
+      "popularity": 13,
+      "odds": 315.2
+    },
+    {
+      "horse_name": "リビアングラス",
+      "ranking": 8,
+      "popularity": 6,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "ハーツイストワール",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 29.8
+    },
+    {
+      "horse_name": "シンリョクカ",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 17.9
+    },
+    {
+      "horse_name": "インプレス",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 173.1
+    },
+    {
+      "horse_name": "ヒンドゥタイムズ",
+      "ranking": 12,
+      "popularity": 9,
+      "odds": 29.2
+    },
+    {
+      "horse_name": "リレーションシップ",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 397.4
+    },
+    {
+      "horse_name": "ディアスティマ",
+      "ranking": 14,
+      "popularity": 8,
+      "odds": 28.5
+    }
+  ]
+}

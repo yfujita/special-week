@@ -1,0 +1,114 @@
+{
+  "race_id": "202505021211",
+  "race_date": "20250601",
+  "results": [
+    {
+      "horse_name": "クロワデュノール",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 2.1
+    },
+    {
+      "horse_name": "マスカレードボール",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.8
+    },
+    {
+      "horse_name": "ショウヘイ",
+      "ranking": 3,
+      "popularity": 6,
+      "odds": 14.4
+    },
+    {
+      "horse_name": "サトノシャイニング",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 12.3
+    },
+    {
+      "horse_name": "エリキング",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 17.0
+    },
+    {
+      "horse_name": "ミュージアムマイル",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "エムズ",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 77.5
+    },
+    {
+      "horse_name": "ジョバンニ",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 15.9
+    },
+    {
+      "horse_name": "ファイアンクランツ",
+      "ranking": 9,
+      "popularity": 14,
+      "odds": 114.7
+    },
+    {
+      "horse_name": "リラエンブレム",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 76.9
+    },
+    {
+      "horse_name": "ホウオウアートマン",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 232.0
+    },
+    {
+      "horse_name": "カラマティアノス",
+      "ranking": 12,
+      "popularity": 15,
+      "odds": 126.4
+    },
+    {
+      "horse_name": "トッピボーン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 84.4
+    },
+    {
+      "horse_name": "ファンダム",
+      "ranking": 14,
+      "popularity": 4,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "ドラゴンブースト",
+      "ranking": 15,
+      "popularity": 18,
+      "odds": 298.5
+    },
+    {
+      "horse_name": "ニシノエージェント",
+      "ranking": 16,
+      "popularity": 17,
+      "odds": 268.2
+    },
+    {
+      "horse_name": "レディネス",
+      "ranking": 17,
+      "popularity": 9,
+      "odds": 50.1
+    },
+    {
+      "horse_name": "ファウストラーゼン",
+      "ranking": 18,
+      "popularity": 13,
+      "odds": 85.2
+    }
+  ]
+}

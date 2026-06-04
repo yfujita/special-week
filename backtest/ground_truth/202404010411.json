@@ -1,0 +1,102 @@
+{
+  "race_id": "202404010411",
+  "race_date": "20240505",
+  "results": [
+    {
+      "horse_name": "ヤマニンサルバム",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 15.9
+    },
+    {
+      "horse_name": "キングズパレス",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "ヨーホーレイク",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "デビットバローズ",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "リフレーミング",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 10.7
+    },
+    {
+      "horse_name": "ファユエン",
+      "ranking": 6,
+      "popularity": 15,
+      "odds": 181.7
+    },
+    {
+      "horse_name": "マイネルクリソーラ",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 7.0
+    },
+    {
+      "horse_name": "ノッキングポイント",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 16.8
+    },
+    {
+      "horse_name": "ブレイヴロッカー",
+      "ranking": 9,
+      "popularity": 9,
+      "odds": 20.3
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 45.5
+    },
+    {
+      "horse_name": "レーベンスティール",
+      "ranking": 11,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 36.2
+    },
+    {
+      "horse_name": "シーズンリッチ",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 56.1
+    },
+    {
+      "horse_name": "カラテ",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 27.6
+    },
+    {
+      "horse_name": "ヴァンケドミンゴ",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 287.9
+    },
+    {
+      "horse_name": "ホウオウアマゾン",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 97.0
+    }
+  ]
+}

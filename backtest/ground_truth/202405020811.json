@@ -1,0 +1,96 @@
+{
+  "race_id": "202405020811",
+  "race_date": "20240512",
+  "results": [
+    {
+      "horse_name": "テンハッピーローズ",
+      "ranking": 1,
+      "popularity": 14,
+      "odds": 208.6
+    },
+    {
+      "horse_name": "フィアスプライド",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 12.5
+    },
+    {
+      "horse_name": "マスクトディーヴァ",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 2.3
+    },
+    {
+      "horse_name": "ドゥアイズ",
+      "ranking": 4,
+      "popularity": 11,
+      "odds": 65.8
+    },
+    {
+      "horse_name": "ルージュリナージュ",
+      "ranking": 5,
+      "popularity": 13,
+      "odds": 112.1
+    },
+    {
+      "horse_name": "ウンブライル",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 9.4
+    },
+    {
+      "horse_name": "モリアーナ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 19.3
+    },
+    {
+      "horse_name": "ナミュール",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 2.5
+    },
+    {
+      "horse_name": "スタニングローズ",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 17.8
+    },
+    {
+      "horse_name": "サウンドビバーチェ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 82.7
+    },
+    {
+      "horse_name": "キタウイング",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 337.9
+    },
+    {
+      "horse_name": "フィールシンパシー",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 56.9
+    },
+    {
+      "horse_name": "コンクシェル",
+      "ranking": 13,
+      "popularity": 7,
+      "odds": 29.8
+    },
+    {
+      "horse_name": "ライラック",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 56.7
+    },
+    {
+      "horse_name": "ハーパー",
+      "ranking": 15,
+      "popularity": 8,
+      "odds": 36.2
+    }
+  ]
+}

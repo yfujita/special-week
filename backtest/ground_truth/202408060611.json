@@ -1,0 +1,108 @@
+{
+  "race_id": "202408060611",
+  "race_date": "20241117",
+  "results": [
+    {
+      "horse_name": "ソウルラッシュ",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "エルトンバローズ",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 18.9
+    },
+    {
+      "horse_name": "ウインマーベル",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 41.5
+    },
+    {
+      "horse_name": "ブレイディヴェーグ",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "チャリン",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "セリフォス",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 13.2
+    },
+    {
+      "horse_name": "タイムトゥヘヴン",
+      "ranking": 7,
+      "popularity": 13,
+      "odds": 152.7
+    },
+    {
+      "horse_name": "ニホンピロキーフ",
+      "ranking": 8,
+      "popularity": 16,
+      "odds": 194.0
+    },
+    {
+      "horse_name": "フィアスプライド",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 100.5
+    },
+    {
+      "horse_name": "ジュンブロッサム",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "アルナシーム",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 115.6
+    },
+    {
+      "horse_name": "オオバンブルマイ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 19.7
+    },
+    {
+      "horse_name": "バルサムノート",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 170.9
+    },
+    {
+      "horse_name": "マテンロウスカイ",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 23.0
+    },
+    {
+      "horse_name": "コムストックロード",
+      "ranking": 15,
+      "popularity": 17,
+      "odds": 282.7
+    },
+    {
+      "horse_name": "レイベリング",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 162.5
+    },
+    {
+      "horse_name": "ナミュール",
+      "ranking": 17,
+      "popularity": 2,
+      "odds": 4.8
+    }
+  ]
+}

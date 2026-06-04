@@ -1,0 +1,96 @@
+{
+  "race_id": "202408060211",
+  "race_date": "20241103",
+  "results": [
+    {
+      "horse_name": "サンライズジパング",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "アウトレンジ",
+      "ranking": 2,
+      "popularity": 11,
+      "odds": 35.4
+    },
+    {
+      "horse_name": "ロードアヴニール",
+      "ranking": 3,
+      "popularity": 9,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "ハピ",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 12.5
+    },
+    {
+      "horse_name": "ミッキーヌチバナ",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "ダンテバローズ",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 67.6
+    },
+    {
+      "horse_name": "デリカダ",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 31.8
+    },
+    {
+      "horse_name": "トウセツ",
+      "ranking": 8,
+      "popularity": 14,
+      "odds": 248.4
+    },
+    {
+      "horse_name": "リプレーザ",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 270.0
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 10,
+      "popularity": 1,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "ドゥラエレーデ",
+      "ranking": 11,
+      "popularity": 2,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "ロコポルティ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 14.7
+    },
+    {
+      "horse_name": "ゲンパチルシファー",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 121.4
+    },
+    {
+      "horse_name": "ミトノオー",
+      "ranking": 14,
+      "popularity": 4,
+      "odds": 11.1
+    },
+    {
+      "horse_name": "プロミストウォリア",
+      "ranking": 15,
+      "popularity": 6,
+      "odds": 11.7
+    }
+  ]
+}

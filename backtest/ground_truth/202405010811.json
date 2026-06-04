@@ -1,0 +1,102 @@
+{
+  "race_id": "202405010811",
+  "race_date": "20240218",
+  "results": [
+    {
+      "horse_name": "ペプチドナイル",
+      "ranking": 1,
+      "popularity": 11,
+      "odds": 38.0
+    },
+    {
+      "horse_name": "ガイアフォース",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 13.0
+    },
+    {
+      "horse_name": "セキフウ",
+      "ranking": 3,
+      "popularity": 13,
+      "odds": 48.2
+    },
+    {
+      "horse_name": "タガノビューティー",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 17.1
+    },
+    {
+      "horse_name": "キングズソード",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 9.4
+    },
+    {
+      "horse_name": "レッドルゼル",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 13.5
+    },
+    {
+      "horse_name": "ミックファイア",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 34.4
+    },
+    {
+      "horse_name": "ウィルソンテソーロ",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "ドンフランキー",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 36.0
+    },
+    {
+      "horse_name": "アルファマム",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 41.7
+    },
+    {
+      "horse_name": "イグナイター",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 34.1
+    },
+    {
+      "horse_name": "ドゥラエレーデ",
+      "ranking": 12,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "スピーディキック",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 107.0
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 14,
+      "popularity": 1,
+      "odds": 3.2
+    },
+    {
+      "horse_name": "カラテ",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 122.1
+    },
+    {
+      "horse_name": "シャンパンカラー",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 61.3
+    }
+  ]
+}

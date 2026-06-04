@@ -1,0 +1,90 @@
+{
+  "race_id": "202410020411",
+  "race_date": "20240218",
+  "results": [
+    {
+      "horse_name": "エピファニー",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 5.8
+    },
+    {
+      "horse_name": "ロングラン",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 18.8
+    },
+    {
+      "horse_name": "アルナシーム",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "フェーングロッテン",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 17.7
+    },
+    {
+      "horse_name": "クリノプレミアム",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 15.6
+    },
+    {
+      "horse_name": "カテドラル",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 14.3
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 8.8
+    },
+    {
+      "horse_name": "イクスプロージョン",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 100.1
+    },
+    {
+      "horse_name": "アドマイヤビルゴ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 44.6
+    },
+    {
+      "horse_name": "アサマノイタズラ",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 27.2
+    },
+    {
+      "horse_name": "ゴールドエクリプス",
+      "ranking": 12,
+      "popularity": 2,
+      "odds": 4.8
+    },
+    {
+      "horse_name": "マイネルファンロン",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 73.2
+    },
+    {
+      "horse_name": "シフルマン",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 86.2
+    }
+  ]
+}
