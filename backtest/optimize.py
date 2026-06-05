@@ -132,7 +132,7 @@ def suggest_params(trial: optuna.Trial) -> ScoringParams:
   # コース種別不一致ペナルティ: 0.3〜1.0（1.0=ペナルティなし）。
   course_type_mismatch_penalty = trial.suggest_float('course_type_mismatch_penalty', 0.3, 1.0)
   # 直近性減衰: 0.7〜1.0（1.0=減衰なし）。古い戦績ほど加点を緩やかに割り引く。
-  recency_decay = trial.suggest_float('recency_decay', 0.9, 1.0)
+  recency_decay = trial.suggest_float('recency_decay', 0.8, 1.0)
 
   return ScoringParams(
     win_score_1st=win_score_1st,

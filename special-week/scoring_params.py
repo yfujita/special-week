@@ -27,30 +27,30 @@ class ScoringParams:
   """
 
   # --- 勝利数加点（tipster.py 現 L25-28） ---
-  win_score_1st: float = 5.460565798982549   # 1着のとき race_score に加点
-  win_score_top3: float = 1.9647711452488708  # 2-3着のとき race_score に加点
+  win_score_1st: float = 5.906460715604959   # 1着のとき race_score に加点
+  win_score_top3: float = 0.501897071409903  # 2-3着のとき race_score に加点
 
   # --- 重賞加点（tipster.py 現 L31-48） RaceGrade.RANK_1/2/3 × 着順帯（1着 / 3着内 / 5着内） ---
-  grade1_rank1: float = 52.01675358152279    # G1相当(RANK_1)で1着
-  grade1_rank3: float = 38.86758912708247  # G1相当(RANK_1)で3着内
-  grade1_rank5: float = 27.077584400645982   # G1相当(RANK_1)で5着内
-  grade2_rank1: float = 42.67544477661562  # G2相当(RANK_2)で1着
-  grade2_rank3: float = 33.55575855687697   # G2相当(RANK_2)で3着内
-  grade2_rank5: float = 22.138877087192423  # G2相当(RANK_2)で5着内
-  grade3_rank1: float = 29.174224069875923   # G3相当(RANK_3)で1着
-  grade3_rank3: float = 21.048158806731273   # G3相当(RANK_3)で3着内
-  grade3_rank5: float = 13.903064075476225  # G3相当(RANK_3)で5着内
+  grade1_rank1: float = 29.492490933383515    # G1相当(RANK_1)で1着
+  grade1_rank3: float = 21.800999191066836  # G1相当(RANK_1)で3着内
+  grade1_rank5: float = 14.291787523255099   # G1相当(RANK_1)で5着内
+  grade2_rank1: float = 17.64476244563671  # G2相当(RANK_2)で1着
+  grade2_rank3: float = 12.927835660579955   # G2相当(RANK_2)で3着内
+  grade2_rank5: float = 9.367437691668473  # G2相当(RANK_2)で5着内
+  grade3_rank1: float = 5.629419819287177   # G3相当(RANK_3)で1着
+  grade3_rank3: float = 1.4579117317506851   # G3相当(RANK_3)で3着内
+  grade3_rank5: float = 1.2650191578370862  # G3相当(RANK_3)で5着内
 
   # --- 着差加点係数（tipster.py 現 L51-53: race_score += race_score * difference * 係数） ---
-  difference_multiplier: float = 2.1264872438049833
+  difference_multiplier: float = 0.0016923496361283957
 
   # --- 距離補正（tipster.py 現 L55: distance_base / (distance_base + abs(対象距離 - 戦績距離))） ---
-  distance_base: float = 1501.8200010294945
+  distance_base: float = 715.0537403682406
 
   # --- 負け減点 除数（tipster.py 現 L61-66: total_score /= 除数） ---
-  penalty_rank6plus: float = 1.6360640424477215  # 6着以降（ranking > 5）の除数
-  penalty_rank4_5: float = 1.8069596898667042    # 4-5着（ranking > 3）の除数
-  penalty_rank2_3: float = 1.0009955273439575    # 2-3着（ranking > 1）の除数
+  penalty_rank6plus: float = 2.9943347108750773  # 6着以降（ranking > 5）の除数
+  penalty_rank4_5: float = 3.9658403851032378    # 4-5着（ranking > 3）の除数
+  penalty_rank2_3: float = 1.1240840228109816    # 2-3着（ranking > 1）の除数
 
   # --- 脚質判定閾値（horse.py 現 L49-55 getRunType()。平均通過位置率の閾値） ---
   run_type_nige_threshold: float = 0.2     # この値以下なら逃げ
@@ -69,14 +69,14 @@ class ScoringParams:
   # enable_field_size_correction=False の間は補正を一切掛けない（＝neutral）。
   # 有効化時は race_score *= log(number_of_horses) / log(field_size_base) を乗算し、
   # field_size_base 頭（フルゲート想定）のレースで係数 1.0 になる。
-  enable_field_size_correction: bool = True  # True で出走頭数補正を有効化（最適化結果は False）
-  field_size_base: int = 14                   # 補正係数が 1.0 になる基準頭数（neutral時のフルゲート=18）
+  enable_field_size_correction: bool = False  # True で出走頭数補正を有効化（最適化結果は False）
+  field_size_base: int = 17                   # 補正係数が 1.0 になる基準頭数（neutral時のフルゲート=18）
 
   # --- コース種別不一致ペナルティ（tipster.py: race_score に乗算） ---
   # 過去戦の course_type（芝/ダ/障）が対象レースの course_type と異なる場合に乗算する係数。
   # 1.0 = ペナルティなし（＝neutral）。0.0〜1.0 を想定（小さいほど強い減点）。
   # 最適化結果は 0.343（芝⇔ダート転戦・障害戦の戦績を強めに割り引く）。
-  course_type_mismatch_penalty: float = 0.6257821904263687
+  course_type_mismatch_penalty: float = 0.4213422432811976
 
   # --- 馬場状態一致ボーナス（tipster.py: race_score に乗算） ---
   # 対象レースの当日馬場状態と過去戦の馬場状態（良/稍/重/不）が一致した戦績を加点する係数。
@@ -92,7 +92,7 @@ class ScoringParams:
   # recency_decay ** age の重みを掛ける。1.0 = 減衰なし（＝neutral, ベースライン一致）。
   # 0.0〜1.0 を想定し、値が小さいほど古い戦績の加点を強く割り引く
   # （例: 0.9 なら1戦古いごとに加点が 0.9 倍ずつ逓減）。
-  recency_decay: float = 0.9819383106096544
+  recency_decay: float = 0.9163007489992953
 
 
 def load_params_from_yaml(path: str) -> ScoringParams:
