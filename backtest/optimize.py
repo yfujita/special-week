@@ -3,18 +3,22 @@
 Optuna による ScoringParams の自動最適化（Phase 4）
 
 目的（最大化対象）:
-  「平均3着内的中頭数（top3_hit_count）」を主目的とする（ユーザー決定）。
-  ただし top3 はレース毎 0〜3 の離散値で同点が出やすいため、僅差の同点を
-  スピアマン相関で割る「複合スコア」を Optuna の単一目的値として返す:
+  「平均3着内的中頭数（top3_hit_count）」と「平均単勝的中率（tansho_hit）」を
+  同等に重視する（ユーザー決定）。両指標はスケールが異なる（top3 はレース毎 0〜3、
+  単勝は 0〜1）ため、top3 を理論上限 3 で割って 0〜1 に正規化したうえで単勝と 1:1 で
+  加算し、僅差の同点をスピアマン相関で割る「複合スコア」を Optuna の単一目的値として返す:
 
-      composite = average_top3_hit_count + TIE_BREAK_EPSILON * average_spearman
+      composite = average_top3_hit_count / TOP3_MAX
+                + average_tansho_hit
+                + TIE_BREAK_EPSILON * average_spearman
 
-  TIE_BREAK_EPSILON は十分小さく取り（0.001）、top3 の優劣が常にスピアマンの
-  寄与より優先される。スピアマンは [-1, 1] なので寄与は最大でも ±0.001。
-  一方 top3 平均の最小有意差は「1頭の3着内入れ替え＝1/レース数」で、27レースなら
-  約 0.037。0.037 ≫ 0.001 なので、top3 が少しでも勝るパラメータは composite でも
-  必ず勝つ。同点（top3 完全一致）のときだけスピアマンがタイブレークとして効く。
-  → 主目的=top3、副目的=スピアマンの「辞書式順序」を単一スカラーで表現している。
+  TIE_BREAK_EPSILON は十分小さく取り（0.001）、主指標（正規化 top3・単勝）の優劣が
+  常にスピアマンの寄与より優先される。スピアマンは [-1, 1] なので寄与は最大でも ±0.001。
+  一方、主指標の最小有意差は「1頭の入れ替え＝1/レース数」で、正規化 top3 なら
+  1/(3×レース数)。27レースなら約 0.0123、単勝なら約 0.037 で、いずれも 0.001 ≪ なので、
+  主指標が少しでも勝るパラメータは composite でも必ず勝つ。主指標が完全同点のときだけ
+  スピアマンがタイブレークとして効く。
+  → 主目的=正規化 top3＋単勝、副目的=スピアマンの「辞書式順序」を単一スカラーで表現している。
 
 設計:
   - run_backtest.py の評価ロジックを import 再利用する（サブプロセスを起動しない）。
@@ -27,6 +31,7 @@ Optuna による ScoringParams の自動最適化（Phase 4）
 import argparse
 import os
 import sys
+import time
 from dataclasses import asdict
 from typing import Dict, List, Optional
 
@@ -43,17 +48,24 @@ _BACKTEST_DIR = os.path.dirname(os.path.abspath(__file__))
 BEST_PARAMS_PATH = os.path.join(_BACKTEST_DIR, 'best_params.yaml')
 
 # 複合スコアのタイブレーク係数（上記モジュール docstring 参照）。
-# top3 平均の最小有意差（1/レース数 ≈ 0.037 @27レース）より十分小さく、
-# スピアマン（[-1,1]）の寄与が top3 の優劣を覆さない値にしている。
+# 主指標の最小有意差（正規化 top3 で 1/(3×レース数) ≈ 0.0123 @27レース）より十分小さく、
+# スピアマン（[-1,1]）の寄与が主指標の優劣を覆さない値にしている。
 TIE_BREAK_EPSILON: float = 0.001
+
+# top3_hit_count の理論上限（スコア上位3頭中の3着内的中頭数の最大）。
+# 単勝的中率（0〜1）とスケールを揃えるため、これで割って 0〜1 に正規化する。
+TOP3_MAX: float = 3.0
 
 # 再現性のための固定 seed（サンプラーに与える）。
 RANDOM_SEED: int = 42
 
 
 def composite_score(summary: dict) -> float:
-  """集計指標 dict から複合スコア（top3 主・スピアマン従）を計算する。"""
-  return summary['average_top3_hit_count'] + TIE_BREAK_EPSILON * summary['average_spearman']
+  """集計指標 dict から複合スコア（正規化 top3＋単勝が主・スピアマン従）を計算する。"""
+  normalized_top3 = summary['average_top3_hit_count'] / TOP3_MAX
+  return (normalized_top3
+          + summary['average_tansho_hit']
+          + TIE_BREAK_EPSILON * summary['average_spearman'])
 
 
 def suggest_params(trial: optuna.Trial) -> ScoringParams:
@@ -132,7 +144,7 @@ def suggest_params(trial: optuna.Trial) -> ScoringParams:
   # コース種別不一致ペナルティ: 0.3〜1.0（1.0=ペナルティなし）。
   course_type_mismatch_penalty = trial.suggest_float('course_type_mismatch_penalty', 0.3, 1.0)
   # 直近性減衰: 0.7〜1.0（1.0=減衰なし）。古い戦績ほど加点を緩やかに割り引く。
-  recency_decay = trial.suggest_float('recency_decay', 0.8, 1.0)
+  recency_decay = trial.suggest_float('recency_decay', 0.8, 0.95)
 
   return ScoringParams(
     win_score_1st=win_score_1st,
@@ -218,8 +230,8 @@ def _parse_args(argv: Optional[List[str]] = None) -> argparse.Namespace:
   parser = argparse.ArgumentParser(description='Optuna による ScoringParams 最適化（Phase 4）')
   parser.add_argument('--n-trials', type=int, default=200,
                       help='試行回数（デフォルト200）')
-  parser.add_argument('--seed', type=int, default=RANDOM_SEED,
-                      help='サンプラーの固定 seed（デフォルト42・再現性のため）')
+  parser.add_argument('--seed', type=int, default=None,
+                      help='サンプラーの固定 seed（未指定時は現在時刻ミリ秒文字列を seed に使用）')
   parser.add_argument('--out', default=BEST_PARAMS_PATH,
                       help=f'最良パラメータの保存先 YAML（デフォルト {BEST_PARAMS_PATH}）')
   return parser.parse_args(argv)
@@ -239,11 +251,15 @@ def main(argv: Optional[List[str]] = None) -> None:
   baseline_composite = composite_score(baseline_summary)
   print('=== ベースライン（デフォルト ScoringParams） ===')
   print(f'  平均3着内的中頭数 : {baseline_summary["average_top3_hit_count"]:.4f} / 3')
+  print(f'  平均単勝的中率    : {baseline_summary["average_tansho_hit"]:.4f}')
   print(f'  平均スピアマン相関: {baseline_summary["average_spearman"]:.4f}')
   print(f'  複合スコア        : {baseline_composite:.6f}')
 
-  print(f'=== Optuna 最適化開始（n_trials={args.n_trials}, seed={args.seed}） ===')
-  study = run_study(fixture_cache, n_trials=args.n_trials, seed=args.seed)
+  # seed 未指定時は現在時刻ミリ秒文字列を seed として使う（毎回異なる探索になる）。
+  # numpy/TPESampler の seed 上限（2**32 - 1）を超えないよう剰余で収める。
+  seed = args.seed if args.seed is not None else int(str(int(time.time() * 1000))) % (2 ** 32)
+  print(f'=== Optuna 最適化開始（n_trials={args.n_trials}, seed={seed}） ===')
+  study = run_study(fixture_cache, n_trials=args.n_trials, seed=seed)
 
   best_metrics = summarize_best(study)
   best_params = suggest_params(study.best_trial)
@@ -251,8 +267,8 @@ def main(argv: Optional[List[str]] = None) -> None:
 
   print('=== 最良結果 ===')
   print(f'  平均3着内的中頭数 : {best_metrics["average_top3_hit_count"]:.4f} / 3')
-  print(f'  平均スピアマン相関: {best_metrics["average_spearman"]:.4f}')
   print(f'  平均単勝的中率    : {best_metrics["average_tansho_hit"]:.4f}')
+  print(f'  平均スピアマン相関: {best_metrics["average_spearman"]:.4f}')
   print(f'  複合スコア        : {best_metrics["composite"]:.6f}')
   print(f'  ベースライン比改善: {best_metrics["composite"] - baseline_composite:+.6f}')
   improved = best_metrics['composite'] > baseline_composite

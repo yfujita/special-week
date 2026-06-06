@@ -1,0 +1,29 @@
+# === 最適化時の評価指標 ===
+# composite: 0.797698
+# average_top3_hit_count: 1.245098
+# average_spearman: 0.312782
+# average_tansho_hit: 0.382353
+win_score_1st: 9.733870376848035
+win_score_top3: 2.239983518511546
+grade1_rank1: 32.142189841174854
+grade1_rank3: 24.4233834512626
+grade1_rank5: 18.27098116733224
+grade2_rank1: 19.777225542734797
+grade2_rank3: 14.33105609597546
+grade2_rank5: 10.169048950487502
+grade3_rank1: 4.116935457075125
+grade3_rank3: 3.38941967864554
+grade3_rank5: 0.5820112906780786
+difference_multiplier: 0.3647545903483146
+distance_base: 1024.6098602882869
+penalty_rank6plus: 2.67012285604854
+penalty_rank4_5: 2.1149161754050536
+penalty_rank2_3: 1.0009698303186139
+run_type_nige_threshold: 0.2
+run_type_senkou_threshold: 0.4
+run_type_sashi_threshold: 0.7
+enable_field_size_correction: true
+field_size_base: 17
+course_type_mismatch_penalty: 0.586671587705336
+course_condition_match_bonus: 1.0
+recency_decay: 0.9374858171321758
