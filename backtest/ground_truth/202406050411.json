@@ -1,0 +1,96 @@
+{
+  "race_id": "202406050411",
+  "race_date": "20241208",
+  "results": [
+    {
+      "horse_name": "ガビーズシスター",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.3
+    },
+    {
+      "horse_name": "クロジシジョー",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 15.1
+    },
+    {
+      "horse_name": "ジレトール",
+      "ranking": 3,
+      "popularity": 9,
+      "odds": 29.1
+    },
+    {
+      "horse_name": "サンライズアムール",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "エティエンヌ",
+      "ranking": 5,
+      "popularity": 14,
+      "odds": 109.3
+    },
+    {
+      "horse_name": "チカッパ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "インビンシブルパパ",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ナムラフランク",
+      "ranking": 8,
+      "popularity": 12,
+      "odds": 76.0
+    },
+    {
+      "horse_name": "インユアパレス",
+      "ranking": 9,
+      "popularity": 3,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "クインズメリッサ",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 50.7
+    },
+    {
+      "horse_name": "イスラアネーロ",
+      "ranking": 11,
+      "popularity": 13,
+      "odds": 86.8
+    },
+    {
+      "horse_name": "スズカコテキタイ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 16.3
+    },
+    {
+      "horse_name": "テイエムトッキュウ",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 13.0
+    },
+    {
+      "horse_name": "チェイスザドリーム",
+      "ranking": 14,
+      "popularity": 11,
+      "odds": 74.7
+    },
+    {
+      "horse_name": "リベイクフルシティ",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 435.2
+    }
+  ]
+}

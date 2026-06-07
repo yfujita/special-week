@@ -1,0 +1,114 @@
+{
+  "race_id": "202505020211",
+  "race_date": "20250427",
+  "results": [
+    {
+      "horse_name": "カムニャック",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 14.7
+    },
+    {
+      "horse_name": "ヴァルキリーバース",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "タイセイプランセス",
+      "ranking": 3,
+      "popularity": 18,
+      "odds": 304.0
+    },
+    {
+      "horse_name": "エストゥペンダ",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "タガノアビー",
+      "ranking": 5,
+      "popularity": 12,
+      "odds": 80.9
+    },
+    {
+      "horse_name": "ロートホルン",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 12.8
+    },
+    {
+      "horse_name": "ルクスジニア",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "マーゴットレジーナ",
+      "ranking": 8,
+      "popularity": 15,
+      "odds": 128.6
+    },
+    {
+      "horse_name": "ロンドボス",
+      "ranking": 9,
+      "popularity": 17,
+      "odds": 251.2
+    },
+    {
+      "horse_name": "ハギノピアチェーレ",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 86.0
+    },
+    {
+      "horse_name": "ドーギッド",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 131.7
+    },
+    {
+      "horse_name": "ホウオウタイタン",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 103.3
+    },
+    {
+      "horse_name": "ブラックルビー",
+      "ranking": 13,
+      "popularity": 2,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "エンジェルブリーズ",
+      "ranking": 14,
+      "popularity": 5,
+      "odds": 11.9
+    },
+    {
+      "horse_name": "ティラトーレ",
+      "ranking": 15,
+      "popularity": 8,
+      "odds": 15.8
+    },
+    {
+      "horse_name": "ゴーソーファー",
+      "ranking": 16,
+      "popularity": 3,
+      "odds": 6.5
+    },
+    {
+      "horse_name": "ロジャリーマイン",
+      "ranking": 17,
+      "popularity": 10,
+      "odds": 21.0
+    },
+    {
+      "horse_name": "マイスターヴェルク",
+      "ranking": 18,
+      "popularity": 11,
+      "odds": 64.4
+    }
+  ]
+}

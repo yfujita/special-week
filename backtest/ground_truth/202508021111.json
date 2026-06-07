@@ -1,0 +1,102 @@
+{
+  "race_id": "202508021111",
+  "race_date": "20250531",
+  "results": [
+    {
+      "horse_name": "アブキールベイ",
+      "ranking": 1,
+      "popularity": 15,
+      "odds": 60.5
+    },
+    {
+      "horse_name": "クラスペディア",
+      "ranking": 2,
+      "popularity": 13,
+      "odds": 25.6
+    },
+    {
+      "horse_name": "レイピア",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 13.8
+    },
+    {
+      "horse_name": "サウスバンク",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 15.0
+    },
+    {
+      "horse_name": "モジャーリオ",
+      "ranking": 5,
+      "popularity": 14,
+      "odds": 37.4
+    },
+    {
+      "horse_name": "ダンツエラン",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "ベイビーキッス",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 19.1
+    },
+    {
+      "horse_name": "カンシン",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "カワキタマナレア",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 23.9
+    },
+    {
+      "horse_name": "ワース",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 10.5
+    },
+    {
+      "horse_name": "ニタモノドウシ",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "ムイ",
+      "ranking": 12,
+      "popularity": 5,
+      "odds": 10.0
+    },
+    {
+      "horse_name": "ウイントワイライト",
+      "ranking": 13,
+      "popularity": 1,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "ポッドベイダー",
+      "ranking": 14,
+      "popularity": 2,
+      "odds": 5.8
+    },
+    {
+      "horse_name": "オンザブルースカイ",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 90.2
+    },
+    {
+      "horse_name": "ドラゴンウェルズ",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 22.7
+    }
+  ]
+}

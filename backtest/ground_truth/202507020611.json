@@ -1,0 +1,114 @@
+{
+  "race_id": "202507020611",
+  "race_date": "20250330",
+  "results": [
+    {
+      "horse_name": "サトノレーヴ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ナムラクレア",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.5
+    },
+    {
+      "horse_name": "ママコチャ",
+      "ranking": 3,
+      "popularity": 6,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "トウシンマカオ",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "エイシンフェンサー",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 26.1
+    },
+    {
+      "horse_name": "マッドクール",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "ルガル",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "ドロップオブライト",
+      "ranking": 8,
+      "popularity": 17,
+      "odds": 186.4
+    },
+    {
+      "horse_name": "ビッグシーザー",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 19.7
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 42.4
+    },
+    {
+      "horse_name": "トゥラヴェスーラ",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 171.9
+    },
+    {
+      "horse_name": "バルサムノート",
+      "ranking": 12,
+      "popularity": 18,
+      "odds": 234.2
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 148.3
+    },
+    {
+      "horse_name": "オフトレイル",
+      "ranking": 14,
+      "popularity": 11,
+      "odds": 57.4
+    },
+    {
+      "horse_name": "キタノエクスプレス",
+      "ranking": 15,
+      "popularity": 13,
+      "odds": 130.5
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 91.3
+    },
+    {
+      "horse_name": "スズハローム",
+      "ranking": 17,
+      "popularity": 15,
+      "odds": 170.4
+    },
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 18,
+      "popularity": 10,
+      "odds": 56.5
+    }
+  ]
+}

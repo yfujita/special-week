@@ -1,0 +1,90 @@
+{
+  "race_id": "202402011111",
+  "race_date": "20240713",
+  "results": [
+    {
+      "horse_name": "サトノカルナバル",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "ニシノラヴァンダ",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 10.0
+    },
+    {
+      "horse_name": "エンドレスサマー",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 6.2
+    },
+    {
+      "horse_name": "ヤンキーバローズ",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 8.9
+    },
+    {
+      "horse_name": "カルプスペルシュ",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 7.0
+    },
+    {
+      "horse_name": "リリーフィールド",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 9.5
+    },
+    {
+      "horse_name": "モズナナスター",
+      "ranking": 7,
+      "popularity": 12,
+      "odds": 97.3
+    },
+    {
+      "horse_name": "チギリ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 28.9
+    },
+    {
+      "horse_name": "ヴーレヴー",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "エメラヴィ",
+      "ranking": 10,
+      "popularity": 3,
+      "odds": 6.8
+    },
+    {
+      "horse_name": "ヒデノブルースカイ",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 45.9
+    },
+    {
+      "horse_name": "シュードタキライト",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 84.2
+    },
+    {
+      "horse_name": "ラインパシオン",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 209.1
+    },
+    {
+      "horse_name": "オカメノコイ",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 131.6
+    }
+  ]
+}

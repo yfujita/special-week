@@ -1,0 +1,102 @@
+{
+  "race_id": "202608010911",
+  "race_date": "20260125",
+  "results": [
+    {
+      "horse_name": "ロードクロンヌ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "サンデーファンデー",
+      "ranking": 2,
+      "popularity": 11,
+      "odds": 43.4
+    },
+    {
+      "horse_name": "ルシュヴァルドール",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "ブライアンセンス",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "セラフィックコール",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 11.8
+    },
+    {
+      "horse_name": "ハピ",
+      "ranking": 6,
+      "popularity": 9,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "ジェイパームス",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "ペイシャエス",
+      "ranking": 8,
+      "popularity": 12,
+      "odds": 45.2
+    },
+    {
+      "horse_name": "サイモンザナドゥ",
+      "ranking": 9,
+      "popularity": 4,
+      "odds": 6.7
+    },
+    {
+      "horse_name": "テーオーパスワード",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 11.0
+    },
+    {
+      "horse_name": "マーブルロック",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 241.3
+    },
+    {
+      "horse_name": "ハナウマビーチ",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 27.4
+    },
+    {
+      "horse_name": "シゲルショウグン",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "テーオードレフォン",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 131.0
+    },
+    {
+      "horse_name": "クラウンプライド",
+      "ranking": 15,
+      "popularity": 13,
+      "odds": 49.7
+    },
+    {
+      "horse_name": "マリオロード",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 249.9
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "race_id": "202510020811",
+  "race_date": "20250720",
+  "results": [
+    {
+      "horse_name": "イングランドアイズ",
+      "ranking": 1,
+      "popularity": 9,
+      "odds": 16.3
+    },
+    {
+      "horse_name": "シェイクユアハート",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "ディープモンスター",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 5.8
+    },
+    {
+      "horse_name": "ラスカンブレス",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "オールセインツ",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 11.0
+    },
+    {
+      "horse_name": "ハピ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 7,
+      "popularity": 15,
+      "odds": 90.0
+    },
+    {
+      "horse_name": "ナムラエイハブ",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 14.9
+    },
+    {
+      "horse_name": "メリオーレム",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 5.0
+    },
+    {
+      "horse_name": "ニホンピロキーフ",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 21.3
+    },
+    {
+      "horse_name": "リカンカブール",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 26.4
+    },
+    {
+      "horse_name": "マイネルメモリー",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 20.7
+    },
+    {
+      "horse_name": "ショウナンアデイブ",
+      "ranking": 13,
+      "popularity": 7,
+      "odds": 14.2
+    },
+    {
+      "horse_name": "カネフラ",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 43.4
+    },
+    {
+      "horse_name": "スズカダブル",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 43.8
+    },
+    {
+      "horse_name": "グラティアス",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 156.1
+    }
+  ]
+}

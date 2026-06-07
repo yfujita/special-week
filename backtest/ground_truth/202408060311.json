@@ -1,0 +1,48 @@
+{
+  "race_id": "202408060311",
+  "race_date": "20241109",
+  "results": [
+    {
+      "horse_name": "ランフォーヴァウ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "ドラゴンブースト",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "ダイシンラー",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "エイヨーアメジスト",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 26.8
+    },
+    {
+      "horse_name": "サウンドバッハ",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 62.2
+    },
+    {
+      "horse_name": "ロヴィーサ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "ローレルオーブ",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 13.6
+    }
+  ]
+}

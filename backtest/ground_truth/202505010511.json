@@ -1,0 +1,90 @@
+{
+  "race_id": "202505010511",
+  "race_date": "20250215",
+  "results": [
+    {
+      "horse_name": "エンブロイダリー",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "マピュース",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 23.4
+    },
+    {
+      "horse_name": "エストゥペンダ",
+      "ranking": 3,
+      "popularity": 6,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "コートアリシアン",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "スライビングロード",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 35.1
+    },
+    {
+      "horse_name": "マディソンガール",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "ロートホルン",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "ティラトーレ",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 19.2
+    },
+    {
+      "horse_name": "ショウナンザナドゥ",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 4.8
+    },
+    {
+      "horse_name": "ロンドボス",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 39.7
+    },
+    {
+      "horse_name": "ヴィヴァラリス",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 97.1
+    },
+    {
+      "horse_name": "レイユール",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 45.4
+    },
+    {
+      "horse_name": "ギフテッド",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 233.5
+    },
+    {
+      "horse_name": "ミラーダカリエンテ",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 257.0
+    }
+  ]
+}

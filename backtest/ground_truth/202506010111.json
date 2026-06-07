@@ -1,0 +1,114 @@
+{
+  "race_id": "202506010111",
+  "race_date": "20250105",
+  "results": [
+    {
+      "horse_name": "アルナシーム",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 8.4
+    },
+    {
+      "horse_name": "マイネルモーント",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 10.2
+    },
+    {
+      "horse_name": "ボーンディスウェイ",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 16.5
+    },
+    {
+      "horse_name": "クリスマスパレード",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "ギャラクシーナイト",
+      "ranking": 5,
+      "popularity": 15,
+      "odds": 88.4
+    },
+    {
+      "horse_name": "パラレルヴィジョン",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 11.3
+    },
+    {
+      "horse_name": "ショウナンアデイブ",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 19.6
+    },
+    {
+      "horse_name": "エアファンディタ",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 26.0
+    },
+    {
+      "horse_name": "ホウオウビスケッツ",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "ラーグルフ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 42.5
+    },
+    {
+      "horse_name": "セイウンプラチナ",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 120.5
+    },
+    {
+      "horse_name": "シンリョクカ",
+      "ranking": 12,
+      "popularity": 3,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "カラテ",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 64.8
+    },
+    {
+      "horse_name": "ジェイパームス",
+      "ranking": 14,
+      "popularity": 11,
+      "odds": 29.8
+    },
+    {
+      "horse_name": "リカンカブール",
+      "ranking": 15,
+      "popularity": 5,
+      "odds": 8.5
+    },
+    {
+      "horse_name": "アドマイヤビルゴ",
+      "ranking": 16,
+      "popularity": 17,
+      "odds": 244.5
+    },
+    {
+      "horse_name": "ディオスバリエンテ",
+      "ranking": 17,
+      "popularity": 14,
+      "odds": 73.5
+    },
+    {
+      "horse_name": "カレンシュトラウス",
+      "ranking": 18,
+      "popularity": 18,
+      "odds": 258.7
+    }
+  ]
+}

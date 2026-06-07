@@ -1,0 +1,102 @@
+{
+  "race_id": "202505050111",
+  "race_date": "20251108",
+  "results": [
+    {
+      "horse_name": "ダイヤモンドノット",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.8
+    },
+    {
+      "horse_name": "フクチャンショウ",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 19.7
+    },
+    {
+      "horse_name": "トワニ",
+      "ranking": 3,
+      "popularity": 12,
+      "odds": 67.4
+    },
+    {
+      "horse_name": "シャオママル",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "ルートサーティーン",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 12.0
+    },
+    {
+      "horse_name": "ユウファラオ",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 36.5
+    },
+    {
+      "horse_name": "リネンタイリン",
+      "ranking": 7,
+      "popularity": 16,
+      "odds": 351.4
+    },
+    {
+      "horse_name": "ホットゥトロット",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 70.7
+    },
+    {
+      "horse_name": "レッドスティンガー",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "シュペルリング",
+      "ranking": 10,
+      "popularity": 2,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "ネネキリマル",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 19.5
+    },
+    {
+      "horse_name": "ミルトベスト",
+      "ranking": 12,
+      "popularity": 5,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "シーミハットク",
+      "ranking": 13,
+      "popularity": 9,
+      "odds": 31.4
+    },
+    {
+      "horse_name": "フォトンゲイザー",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 230.0
+    },
+    {
+      "horse_name": "フェーダーローター",
+      "ranking": 15,
+      "popularity": 11,
+      "odds": 64.5
+    },
+    {
+      "horse_name": "コックオーヴァン",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 90.3
+    }
+  ]
+}

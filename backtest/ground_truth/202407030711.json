@@ -1,0 +1,90 @@
+{
+  "race_id": "202407030711",
+  "race_date": "20240922",
+  "results": [
+    {
+      "horse_name": "メイショウタバル",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "ジューンテイク",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "ショウナンラプンタ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "オールセインツ",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 11.2
+    },
+    {
+      "horse_name": "メリオーレム",
+      "ranking": 5,
+      "popularity": 1,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "ビザンチンドリーム",
+      "ranking": 6,
+      "popularity": 9,
+      "odds": 17.9
+    },
+    {
+      "horse_name": "バッデレイト",
+      "ranking": 7,
+      "popularity": 7,
+      "odds": 12.0
+    },
+    {
+      "horse_name": "ヤマニンステラータ",
+      "ranking": 8,
+      "popularity": 12,
+      "odds": 41.4
+    },
+    {
+      "horse_name": "ヴィレム",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 18.9
+    },
+    {
+      "horse_name": "ミスタージーティー",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 16.5
+    },
+    {
+      "horse_name": "ウエストナウ",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 8.7
+    },
+    {
+      "horse_name": "トラストボス",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 238.5
+    },
+    {
+      "horse_name": "ゴージョニーゴー",
+      "ranking": 13,
+      "popularity": 11,
+      "odds": 40.8
+    },
+    {
+      "horse_name": "インテグレイト",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 142.4
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "race_id": "202506020311",
+  "race_date": "20250308",
+  "results": [
+    {
+      "horse_name": "シランケド",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 5.8
+    },
+    {
+      "horse_name": "ホーエリート",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "クリスマスパレード",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ビヨンドザヴァレー",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 10.9
+    },
+    {
+      "horse_name": "フィールシンパシー",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 20.8
+    },
+    {
+      "horse_name": "ジューンオレンジ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "シンティレーション",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "ミアネーロ",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "エミュー",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 42.6
+    },
+    {
+      "horse_name": "キミノナハマリア",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 56.4
+    },
+    {
+      "horse_name": "ペイシャフラワー",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 147.1
+    },
+    {
+      "horse_name": "セキトバイースト",
+      "ranking": 12,
+      "popularity": 6,
+      "odds": 10.6
+    },
+    {
+      "horse_name": "コンクシェル",
+      "ranking": 13,
+      "popularity": 10,
+      "odds": 25.1
+    },
+    {
+      "horse_name": "ヒップホップソウル",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 70.5
+    }
+  ]
+}

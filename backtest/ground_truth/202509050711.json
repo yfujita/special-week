@@ -1,0 +1,102 @@
+{
+  "race_id": "202509050711",
+  "race_date": "20251227",
+  "results": [
+    {
+      "horse_name": "ルガル",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "ナムラクレア",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 1.9
+    },
+    {
+      "horse_name": "フォーチュンタイム",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "グレイイングリーン",
+      "ranking": 4,
+      "popularity": 13,
+      "odds": 152.0
+    },
+    {
+      "horse_name": "エイシンフェンサー",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 25.8
+    },
+    {
+      "horse_name": "ヨシノイースター",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 23.7
+    },
+    {
+      "horse_name": "ダノンマッキンリー",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 9.2
+    },
+    {
+      "horse_name": "アスクワンタイム",
+      "ranking": 8,
+      "popularity": 16,
+      "odds": 348.0
+    },
+    {
+      "horse_name": "ミッキーゴージャス",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 22.8
+    },
+    {
+      "horse_name": "シュタールヴィント",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 90.3
+    },
+    {
+      "horse_name": "ジューンブレア",
+      "ranking": 11,
+      "popularity": 2,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "グロリアラウス",
+      "ranking": 12,
+      "popularity": 9,
+      "odds": 29.5
+    },
+    {
+      "horse_name": "カリボール",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 310.4
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 202.7
+    },
+    {
+      "horse_name": "ショウナンザナドゥ",
+      "ranking": 15,
+      "popularity": 11,
+      "odds": 114.0
+    },
+    {
+      "horse_name": "シャドウフューリー",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 134.5
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "race_id": "202509020511",
+  "race_date": "20250412",
+  "results": [
+    {
+      "horse_name": "サフィラ",
+      "ranking": 1,
+      "popularity": 9,
+      "odds": 29.7
+    },
+    {
+      "horse_name": "アルジーヌ",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.2
+    },
+    {
+      "horse_name": "ラヴァンダ",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 19.1
+    },
+    {
+      "horse_name": "ビヨンドザヴァレー",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 15.3
+    },
+    {
+      "horse_name": "ボンドガール",
+      "ranking": 5,
+      "popularity": 1,
+      "odds": 2.5
+    },
+    {
+      "horse_name": "ソーダズリング",
+      "ranking": 6,
+      "popularity": 5,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "タガノエルピーダ",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "ドゥアイズ",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 16.6
+    },
+    {
+      "horse_name": "ドナベティ",
+      "ranking": 9,
+      "popularity": 14,
+      "odds": 300.2
+    },
+    {
+      "horse_name": "ウンブライル",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 36.8
+    },
+    {
+      "horse_name": "キミノナハマリア",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 87.6
+    },
+    {
+      "horse_name": "スウィープフィート",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ヒルノローザンヌ",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 266.6
+    },
+    {
+      "horse_name": "イフェイオン",
+      "ranking": 14,
+      "popularity": 11,
+      "odds": 47.4
+    }
+  ]
+}

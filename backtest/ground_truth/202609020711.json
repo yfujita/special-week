@@ -1,0 +1,102 @@
+{
+  "race_id": "202609020711",
+  "race_date": "20260418",
+  "results": [
+    {
+      "horse_name": "ムルソー",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "モックモック",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 15.2
+    },
+    {
+      "horse_name": "ハグ",
+      "ranking": 3,
+      "popularity": 14,
+      "odds": 95.9
+    },
+    {
+      "horse_name": "タガノバビロン",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 9.5
+    },
+    {
+      "horse_name": "サンデーファンデー",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "ブライアンセンス",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "ハピ",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "シュラザック",
+      "ranking": 8,
+      "popularity": 16,
+      "odds": 154.7
+    },
+    {
+      "horse_name": "ロードラビリンス",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 119.1
+    },
+    {
+      "horse_name": "ジェイパームス",
+      "ranking": 10,
+      "popularity": 4,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "ペイシャエス",
+      "ranking": 11,
+      "popularity": 13,
+      "odds": 65.3
+    },
+    {
+      "horse_name": "ジューンアヲニヨシ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 22.5
+    },
+    {
+      "horse_name": "メイショウズイウン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 51.2
+    },
+    {
+      "horse_name": "サイモンザナドゥ",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 23.9
+    },
+    {
+      "horse_name": "ルシュヴァルドール",
+      "ranking": 15,
+      "popularity": 3,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ピカピカサンダー",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 41.1
+    }
+  ]
+}

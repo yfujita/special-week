@@ -1,0 +1,60 @@
+{
+  "race_id": "202605010611",
+  "race_date": "20260215",
+  "results": [
+    {
+      "horse_name": "リアライズシリウス",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "ベレシート",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ロブチェン",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 4.2
+    },
+    {
+      "horse_name": "ラヴェニュー",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 2.8
+    },
+    {
+      "horse_name": "ディバインウインド",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 8.4
+    },
+    {
+      "horse_name": "サノノグレーター",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 10.1
+    },
+    {
+      "horse_name": "ガリレア",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 96.6
+    },
+    {
+      "horse_name": "イージーライダー",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 138.0
+    },
+    {
+      "horse_name": "サトノヴァンクル",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 38.8
+    }
+  ]
+}

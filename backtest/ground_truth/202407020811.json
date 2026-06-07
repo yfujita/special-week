@@ -1,0 +1,84 @@
+{
+  "race_id": "202407020811",
+  "race_date": "20240901",
+  "results": [
+    {
+      "horse_name": "エイシンワンド",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "クラスペディア",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 26.9
+    },
+    {
+      "horse_name": "アーリントンロウ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "レイピア",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 4.8
+    },
+    {
+      "horse_name": "アブキールベイ",
+      "ranking": 5,
+      "popularity": 10,
+      "odds": 35.9
+    },
+    {
+      "horse_name": "エンドレスサマー",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "ポートデラメール",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 9.9
+    },
+    {
+      "horse_name": "ホウオウブースター",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 107.2
+    },
+    {
+      "horse_name": "タマモティーカップ",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 11.3
+    },
+    {
+      "horse_name": "ジャスパーディビネ",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 9.2
+    },
+    {
+      "horse_name": "ベルビースタローン",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 35.4
+    },
+    {
+      "horse_name": "ケイアイマハナ",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 65.4
+    },
+    {
+      "horse_name": "エイヨーアメジスト",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 72.3
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "race_id": "202406040511",
+  "race_date": "20240916",
+  "results": [
+    {
+      "horse_name": "アーバンシック",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "コスモキュランダ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 2.9
+    },
+    {
+      "horse_name": "エコロヴァルツ",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 6.8
+    },
+    {
+      "horse_name": "ヤマニンアドホック",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 10.3
+    },
+    {
+      "horse_name": "スティンガーグラス",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 10.7
+    },
+    {
+      "horse_name": "アスクカムオンモア",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 12.4
+    },
+    {
+      "horse_name": "タンゴバイラリン",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 75.7
+    },
+    {
+      "horse_name": "パンジャ",
+      "ranking": 8,
+      "popularity": 14,
+      "odds": 200.4
+    },
+    {
+      "horse_name": "タガノデュード",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 84.5
+    },
+    {
+      "horse_name": "ログラール",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 98.0
+    },
+    {
+      "horse_name": "エコロレイズ",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 39.7
+    },
+    {
+      "horse_name": "ルカランフィースト",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 22.3
+    },
+    {
+      "horse_name": "アスクハッピーモア",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 127.7
+    },
+    {
+      "horse_name": "サルヴェージワーク",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 155.3
+    }
+  ]
+}

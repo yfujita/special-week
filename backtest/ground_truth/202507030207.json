@@ -1,0 +1,102 @@
+{
+  "race_id": "202507030207",
+  "race_date": "20250727",
+  "results": [
+    {
+      "horse_name": "ヤマニンウルス",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 7.5
+    },
+    {
+      "horse_name": "インユアパレス",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "ビダーヤ",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 3.6
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 10.5
+    },
+    {
+      "horse_name": "サンライズフレイム",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "コンクイスタ",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 11.7
+    },
+    {
+      "horse_name": "リジル",
+      "ranking": 7,
+      "popularity": 13,
+      "odds": 67.5
+    },
+    {
+      "horse_name": "アルファマム",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 21.1
+    },
+    {
+      "horse_name": "ダノンスコーピオン",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 56.0
+    },
+    {
+      "horse_name": "サンライズホーク",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 16.8
+    },
+    {
+      "horse_name": "エートラックス",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 24.1
+    },
+    {
+      "horse_name": "イグザルト",
+      "ranking": 12,
+      "popularity": 15,
+      "odds": 104.2
+    },
+    {
+      "horse_name": "ヴィクティファルス",
+      "ranking": 13,
+      "popularity": 16,
+      "odds": 217.7
+    },
+    {
+      "horse_name": "ロードエクレール",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 36.2
+    },
+    {
+      "horse_name": "ライツフォル",
+      "ranking": 15,
+      "popularity": 11,
+      "odds": 40.4
+    },
+    {
+      "horse_name": "アドバンスファラオ",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 80.4
+    }
+  ]
+}

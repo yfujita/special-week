@@ -1,0 +1,114 @@
+{
+  "race_id": "202410030211",
+  "race_date": "20240630",
+  "results": [
+    {
+      "horse_name": "ピューロマジック",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "ヨシノイースター",
+      "ranking": 2,
+      "popularity": 9,
+      "odds": 15.7
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 3,
+      "popularity": 16,
+      "odds": 91.1
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 4,
+      "popularity": 10,
+      "odds": 20.2
+    },
+    {
+      "horse_name": "ショウナンハクラク",
+      "ranking": 5,
+      "popularity": 17,
+      "odds": 120.2
+    },
+    {
+      "horse_name": "ナナオ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "メイショウソラフネ",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 35.9
+    },
+    {
+      "horse_name": "ヤクシマ",
+      "ranking": 8,
+      "popularity": 15,
+      "odds": 83.6
+    },
+    {
+      "horse_name": "エイシンスポッター",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 11.9
+    },
+    {
+      "horse_name": "バースクライ",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "ディヴィナシオン",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 79.7
+    },
+    {
+      "horse_name": "サーマルウインド",
+      "ranking": 12,
+      "popularity": 1,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "トゥラヴェスーラ",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 56.6
+    },
+    {
+      "horse_name": "グランテスト",
+      "ranking": 14,
+      "popularity": 6,
+      "odds": 9.3
+    },
+    {
+      "horse_name": "メディーヴァル",
+      "ranking": 15,
+      "popularity": 18,
+      "odds": 303.8
+    },
+    {
+      "horse_name": "ジャスパークローネ",
+      "ranking": 16,
+      "popularity": 5,
+      "odds": 9.2
+    },
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 17,
+      "popularity": 4,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 18,
+      "popularity": 12,
+      "odds": 46.2
+    }
+  ]
+}

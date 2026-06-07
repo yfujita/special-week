@@ -1,0 +1,90 @@
+{
+  "race_id": "202401010611",
+  "race_date": "20240804",
+  "results": [
+    {
+      "horse_name": "ペイシャエス",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 9.8
+    },
+    {
+      "horse_name": "ドゥラエレーデ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "テーオードレフォン",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 26.0
+    },
+    {
+      "horse_name": "シルトプレ",
+      "ranking": 4,
+      "popularity": 12,
+      "odds": 54.4
+    },
+    {
+      "horse_name": "ミトノオー",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "ヴィクティファルス",
+      "ranking": 6,
+      "popularity": 11,
+      "odds": 43.3
+    },
+    {
+      "horse_name": "プロミストウォリア",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 7.4
+    },
+    {
+      "horse_name": "ナチュラルハイ",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "ベルダーイメル",
+      "ranking": 9,
+      "popularity": 9,
+      "odds": 23.9
+    },
+    {
+      "horse_name": "フルム",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 22.0
+    },
+    {
+      "horse_name": "タガノクリステル",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 156.5
+    },
+    {
+      "horse_name": "サヴァ",
+      "ranking": 12,
+      "popularity": 6,
+      "odds": 11.2
+    },
+    {
+      "horse_name": "ホウオウアマゾン",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 86.2
+    },
+    {
+      "horse_name": "ユティタム",
+      "ranking": 14,
+      "popularity": 7,
+      "odds": 17.8
+    }
+  ]
+}

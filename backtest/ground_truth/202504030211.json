@@ -1,0 +1,66 @@
+{
+  "race_id": "202504030211",
+  "race_date": "20250824",
+  "results": [
+    {
+      "horse_name": "リアライズシリウス",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 2.3
+    },
+    {
+      "horse_name": "タイセイボーグ",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "フェスティバルヒル",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "サンアントワーヌ",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "タイセイフレッサ",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 35.2
+    },
+    {
+      "horse_name": "サノノグレーター",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "フォトンゲイザー",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 160.1
+    },
+    {
+      "horse_name": "ヒルデグリム",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 9.2
+    },
+    {
+      "horse_name": "リネンタイリン",
+      "ranking": 9,
+      "popularity": 9,
+      "odds": 94.3
+    },
+    {
+      "horse_name": "メーゼ",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 64.6
+    }
+  ]
+}

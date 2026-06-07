@@ -1,0 +1,90 @@
+{
+  "race_id": "202410030811",
+  "race_date": "20240721",
+  "results": [
+    {
+      "horse_name": "アルナシーム",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "エピファニー",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "エルトンバローズ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "ロングラン",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 11.5
+    },
+    {
+      "horse_name": "ニホンピロキーフ",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "ボーデン",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 17.5
+    },
+    {
+      "horse_name": "カテドラル",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 62.5
+    },
+    {
+      "horse_name": "タガノパッション",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 37.7
+    },
+    {
+      "horse_name": "ソレイユヴィータ",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 64.8
+    },
+    {
+      "horse_name": "アナゴサン",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 19.4
+    },
+    {
+      "horse_name": "ワールドリバイバル",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 88.8
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 14.5
+    },
+    {
+      "horse_name": "セオ",
+      "ranking": 13,
+      "popularity": 4,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "テーオーシリウス",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 68.1
+    }
+  ]
+}

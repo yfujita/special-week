@@ -1,0 +1,96 @@
+{
+  "race_id": "202504020607",
+  "race_date": "20250810",
+  "results": [
+    {
+      "horse_name": "ドンインザムード",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 8.9
+    },
+    {
+      "horse_name": "ルヴァンユニベール",
+      "ranking": 2,
+      "popularity": 12,
+      "odds": 43.8
+    },
+    {
+      "horse_name": "ヒルノハンブルク",
+      "ranking": 3,
+      "popularity": 11,
+      "odds": 35.5
+    },
+    {
+      "horse_name": "ハグ",
+      "ranking": 4,
+      "popularity": 10,
+      "odds": 29.1
+    },
+    {
+      "horse_name": "サノノワンダー",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 28.9
+    },
+    {
+      "horse_name": "ジャナドリア",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 9.3
+    },
+    {
+      "horse_name": "ヴィンセンシオ",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "チュウジョウ",
+      "ranking": 8,
+      "popularity": 14,
+      "odds": 71.5
+    },
+    {
+      "horse_name": "ニューファウンド",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 74.9
+    },
+    {
+      "horse_name": "ロードラビリンス",
+      "ranking": 10,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "タガノマカシヤ",
+      "ranking": 11,
+      "popularity": 13,
+      "odds": 58.5
+    },
+    {
+      "horse_name": "トリポリタニア",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 6.3
+    },
+    {
+      "horse_name": "シンビリーブ",
+      "ranking": 13,
+      "popularity": 8,
+      "odds": 27.7
+    },
+    {
+      "horse_name": "ルグランヴァン",
+      "ranking": 14,
+      "popularity": 2,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "ポールセン",
+      "ranking": 15,
+      "popularity": 7,
+      "odds": 11.8
+    }
+  ]
+}

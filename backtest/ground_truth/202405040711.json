@@ -1,0 +1,72 @@
+{
+  "race_id": "202405040711",
+  "race_date": "20241026",
+  "results": [
+    {
+      "horse_name": "ブラウンラチェット",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "ミストレス",
+      "ranking": 2,
+      "popularity": 7,
+      "odds": 15.6
+    },
+    {
+      "horse_name": "ショウナンザナドゥ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "シホリーン",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "マイエレメント",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 6.3
+    },
+    {
+      "horse_name": "カムニャック",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "マピュース",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 57.9
+    },
+    {
+      "horse_name": "クレオズニードル",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 79.9
+    },
+    {
+      "horse_name": "ミリオンローズ",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 13.4
+    },
+    {
+      "horse_name": "ザラタン",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 217.2
+    },
+    {
+      "horse_name": "キョウエイボニータ",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 122.6
+    }
+  ]
+}

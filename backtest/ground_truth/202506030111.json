@@ -1,0 +1,96 @@
+{
+  "race_id": "202506030111",
+  "race_date": "20250329",
+  "results": [
+    {
+      "horse_name": "マイネルエンペラー",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 7.4
+    },
+    {
+      "horse_name": "チャックネイト",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "アーバンシック",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 1.7
+    },
+    {
+      "horse_name": "リビアングラス",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "マイネルクリソーラ",
+      "ranking": 5,
+      "popularity": 13,
+      "odds": 133.3
+    },
+    {
+      "horse_name": "ヴェルミセル",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 37.3
+    },
+    {
+      "horse_name": "マイネルウィルトス",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 57.3
+    },
+    {
+      "horse_name": "マテンロウレオ",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "アラタ",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 108.1
+    },
+    {
+      "horse_name": "ハヤヤッコ",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 24.3
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 53.0
+    },
+    {
+      "horse_name": "シュヴァリエローズ",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 9.4
+    },
+    {
+      "horse_name": "ホウオウノーサイド",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 404.0
+    },
+    {
+      "horse_name": "ブレイヴロッカー",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 220.3
+    },
+    {
+      "horse_name": "マキシ",
+      "ranking": 15,
+      "popularity": 11,
+      "odds": 63.1
+    }
+  ]
+}

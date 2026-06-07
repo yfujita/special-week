@@ -1,0 +1,102 @@
+{
+  "race_id": "202406040211",
+  "race_date": "20240908",
+  "results": [
+    {
+      "horse_name": "アスコリピチェーノ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.5
+    },
+    {
+      "horse_name": "タイムトゥヘヴン",
+      "ranking": 2,
+      "popularity": 14,
+      "odds": 161.8
+    },
+    {
+      "horse_name": "サンライズロナウド",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 10.7
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 34.7
+    },
+    {
+      "horse_name": "ジューンオレンジ",
+      "ranking": 5,
+      "popularity": 10,
+      "odds": 88.7
+    },
+    {
+      "horse_name": "ディオ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "ディスペランツァ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 15.7
+    },
+    {
+      "horse_name": "カテドラル",
+      "ranking": 8,
+      "popularity": 15,
+      "odds": 195.8
+    },
+    {
+      "horse_name": "キャットファイト",
+      "ranking": 9,
+      "popularity": 4,
+      "odds": 14.1
+    },
+    {
+      "horse_name": "オーキッドロマンス",
+      "ranking": 9,
+      "popularity": 8,
+      "odds": 33.8
+    },
+    {
+      "horse_name": "エエヤン",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 14.9
+    },
+    {
+      "horse_name": "ショウナンマグマ",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 93.0
+    },
+    {
+      "horse_name": "キタウイング",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 130.3
+    },
+    {
+      "horse_name": "エアファンディタ",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 136.9
+    },
+    {
+      "horse_name": "コラソンビート",
+      "ranking": 15,
+      "popularity": 7,
+      "odds": 19.0
+    },
+    {
+      "horse_name": "ドルチェモア",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 231.3
+    }
+  ]
+}

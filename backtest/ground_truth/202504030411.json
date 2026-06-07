@@ -1,0 +1,102 @@
+{
+  "race_id": "202504030411",
+  "race_date": "20250831",
+  "results": [
+    {
+      "horse_name": "シランケド",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "エネルジコ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "ディープモンスター",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 22.8
+    },
+    {
+      "horse_name": "シンリョクカ",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 25.6
+    },
+    {
+      "horse_name": "ヴェローチェエラ",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 25.8
+    },
+    {
+      "horse_name": "ブレイディヴェーグ",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "バレエマスター",
+      "ranking": 7,
+      "popularity": 12,
+      "odds": 223.2
+    },
+    {
+      "horse_name": "ナムラエイハブ",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 108.2
+    },
+    {
+      "horse_name": "コスモフリーゲン",
+      "ranking": 9,
+      "popularity": 4,
+      "odds": 9.4
+    },
+    {
+      "horse_name": "アスクドゥポルテ",
+      "ranking": 10,
+      "popularity": 15,
+      "odds": 367.1
+    },
+    {
+      "horse_name": "シェイクユアハート",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 54.3
+    },
+    {
+      "horse_name": "アスクカムオンモア",
+      "ranking": 12,
+      "popularity": 6,
+      "odds": 14.3
+    },
+    {
+      "horse_name": "ダノンベルーガ",
+      "ranking": 13,
+      "popularity": 5,
+      "odds": 11.5
+    },
+    {
+      "horse_name": "リフレーミング",
+      "ranking": 14,
+      "popularity": 13,
+      "odds": 258.1
+    },
+    {
+      "horse_name": "グランドカリナン",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 290.1
+    },
+    {
+      "horse_name": "サスツルギ",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 429.9
+    }
+  ]
+}

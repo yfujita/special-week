@@ -1,0 +1,72 @@
+{
+  "race_id": "202401020411",
+  "race_date": "20240818",
+  "results": [
+    {
+      "horse_name": "ノースブリッジ",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 14.5
+    },
+    {
+      "horse_name": "ジオグリフ",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "ステラヴェローチェ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 13.4
+    },
+    {
+      "horse_name": "プログノーシス",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 1.3
+    },
+    {
+      "horse_name": "シャフリヤール",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "トップナイフ",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 40.9
+    },
+    {
+      "horse_name": "アウスヴァール",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 128.4
+    },
+    {
+      "horse_name": "チャックネイト",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 59.2
+    },
+    {
+      "horse_name": "モズゴールドバレル",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 201.0
+    },
+    {
+      "horse_name": "ドゥラエレーデ",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 20.0
+    },
+    {
+      "horse_name": "ホウオウアマゾン",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 287.2
+    }
+  ]
+}

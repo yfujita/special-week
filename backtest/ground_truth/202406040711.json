@@ -1,0 +1,96 @@
+{
+  "race_id": "202406040711",
+  "race_date": "20240922",
+  "results": [
+    {
+      "horse_name": "レーベンスティール",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.5
+    },
+    {
+      "horse_name": "アウスヴァール",
+      "ranking": 2,
+      "popularity": 10,
+      "odds": 49.4
+    },
+    {
+      "horse_name": "リカンカブール",
+      "ranking": 3,
+      "popularity": 12,
+      "odds": 59.8
+    },
+    {
+      "horse_name": "サヴォーナ",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "アルビージャ",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 45.9
+    },
+    {
+      "horse_name": "ステラヴェローチェ",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "ラーグルフ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 39.5
+    },
+    {
+      "horse_name": "ヤマニンサンパ",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 39.9
+    },
+    {
+      "horse_name": "ニシノレヴナント",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 69.0
+    },
+    {
+      "horse_name": "キラーアビリティ",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 56.6
+    },
+    {
+      "horse_name": "ミクソロジー",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 28.7
+    },
+    {
+      "horse_name": "サリエラ",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 10.0
+    },
+    {
+      "horse_name": "ナイママ",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 400.4
+    },
+    {
+      "horse_name": "ロバートソンキー",
+      "ranking": 14,
+      "popularity": 8,
+      "odds": 40.8
+    },
+    {
+      "horse_name": "フェーングロッテン",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 190.8
+    }
+  ]
+}

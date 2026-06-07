@@ -1,0 +1,84 @@
+{
+  "race_id": "202507040411",
+  "race_date": "20250831",
+  "results": [
+    {
+      "horse_name": "キャンディード",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 13.2
+    },
+    {
+      "horse_name": "スターアニス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 1.7
+    },
+    {
+      "horse_name": "マイケルバローズ",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "タマモイカロス",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 12.6
+    },
+    {
+      "horse_name": "パープルガーネット",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "シュテフィ",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 65.8
+    },
+    {
+      "horse_name": "コラルリーフ",
+      "ranking": 7,
+      "popularity": 7,
+      "odds": 14.4
+    },
+    {
+      "horse_name": "アイルトン",
+      "ranking": 8,
+      "popularity": 4,
+      "odds": 9.9
+    },
+    {
+      "horse_name": "フレンドモナコ",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 137.1
+    },
+    {
+      "horse_name": "ナムラドロン",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 163.1
+    },
+    {
+      "horse_name": "エンヴィーミー",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 36.8
+    },
+    {
+      "horse_name": "ジュジュドール",
+      "ranking": 12,
+      "popularity": 9,
+      "odds": 46.3
+    },
+    {
+      "horse_name": "セイウンアインス",
+      "ranking": 13,
+      "popularity": 11,
+      "odds": 98.5
+    }
+  ]
+}

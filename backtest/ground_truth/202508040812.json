@@ -1,0 +1,108 @@
+{
+  "race_id": "202508040812",
+  "race_date": "20251130",
+  "results": [
+    {
+      "horse_name": "エーティーマクフィ",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 11.7
+    },
+    {
+      "horse_name": "ルガル",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "ヨシノイースター",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "レイピア",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "エイシンフェンサー",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 7.5
+    },
+    {
+      "horse_name": "アブキールベイ",
+      "ranking": 6,
+      "popularity": 11,
+      "odds": 25.0
+    },
+    {
+      "horse_name": "ヤマニンアルリフラ",
+      "ranking": 7,
+      "popularity": 12,
+      "odds": 25.4
+    },
+    {
+      "horse_name": "ジャスティンスカイ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 21.2
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 9,
+      "popularity": 16,
+      "odds": 130.5
+    },
+    {
+      "horse_name": "メイショウソラフネ",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 10.4
+    },
+    {
+      "horse_name": "クラスペディア",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 63.0
+    },
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 15.8
+    },
+    {
+      "horse_name": "ナムラクララ",
+      "ranking": 13,
+      "popularity": 2,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "オタルエバー",
+      "ranking": 14,
+      "popularity": 18,
+      "odds": 216.5
+    },
+    {
+      "horse_name": "ショウナンザナドゥ",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 61.9
+    },
+    {
+      "horse_name": "カルチャーデイ",
+      "ranking": 16,
+      "popularity": 10,
+      "odds": 23.3
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 17,
+      "popularity": 13,
+      "odds": 57.3
+    }
+  ]
+}

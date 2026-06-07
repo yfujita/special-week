@@ -1,0 +1,78 @@
+{
+  "race_id": "202608020611",
+  "race_date": "20260215",
+  "results": [
+    {
+      "horse_name": "ジューンテイク",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 15.9
+    },
+    {
+      "horse_name": "エリキング",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 1.8
+    },
+    {
+      "horse_name": "エコロディノス",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 9.0
+    },
+    {
+      "horse_name": "シェイクユアハート",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 15.2
+    },
+    {
+      "horse_name": "サフィラ",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 27.9
+    },
+    {
+      "horse_name": "リビアングラス",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 43.8
+    },
+    {
+      "horse_name": "ヨーホーレイク",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "ヘデントール",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ドクタードリトル",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 145.8
+    },
+    {
+      "horse_name": "マイネルクリソーラ",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 82.6
+    },
+    {
+      "horse_name": "メイショウブレゲ",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 177.8
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 12,
+      "popularity": 9,
+      "odds": 80.1
+    }
+  ]
+}

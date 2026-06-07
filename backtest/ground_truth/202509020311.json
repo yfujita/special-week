@@ -1,0 +1,72 @@
+{
+  "race_id": "202509020311",
+  "race_date": "20250405",
+  "results": [
+    {
+      "horse_name": "ランスオブカオス",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "アルテヴェローチェ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 2.7
+    },
+    {
+      "horse_name": "ミニトランザット",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 26.7
+    },
+    {
+      "horse_name": "スリールミニョン",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 16.3
+    },
+    {
+      "horse_name": "モンテシート",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "アスクセクシーモア",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "ジーティーマン",
+      "ranking": 7,
+      "popularity": 7,
+      "odds": 20.9
+    },
+    {
+      "horse_name": "ワンモアスマイル",
+      "ranking": 8,
+      "popularity": 6,
+      "odds": 18.5
+    },
+    {
+      "horse_name": "ツーエムクロノス",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 100.2
+    },
+    {
+      "horse_name": "モンタルチーノ",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 41.9
+    },
+    {
+      "horse_name": "フォルテム",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 63.7
+    }
+  ]
+}

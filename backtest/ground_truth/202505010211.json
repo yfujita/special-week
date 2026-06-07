@@ -1,0 +1,96 @@
+{
+  "race_id": "202505010211",
+  "race_date": "20250202",
+  "results": [
+    {
+      "horse_name": "コスタノヴァ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "ロードフォンス",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "アルファマム",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 20.0
+    },
+    {
+      "horse_name": "サンライズフレイム",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "クロジシジョー",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 26.0
+    },
+    {
+      "horse_name": "フリームファクシ",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 2.7
+    },
+    {
+      "horse_name": "スレイマン",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 26.3
+    },
+    {
+      "horse_name": "ショウナンライシン",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 85.2
+    },
+    {
+      "horse_name": "アームズレイン",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 19.8
+    },
+    {
+      "horse_name": "サトノルフィアン",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 26.8
+    },
+    {
+      "horse_name": "メイショウテンスイ",
+      "ranking": 11,
+      "popularity": 16,
+      "odds": 302.9
+    },
+    {
+      "horse_name": "スズカコテキタイ",
+      "ranking": 12,
+      "popularity": 15,
+      "odds": 282.4
+    },
+    {
+      "horse_name": "ドンフランキー",
+      "ranking": 13,
+      "popularity": 5,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "エイシンスポッター",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 103.8
+    },
+    {
+      "horse_name": "バルサムノート",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 77.0
+    }
+  ]
+}

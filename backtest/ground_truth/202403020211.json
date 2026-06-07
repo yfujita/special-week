@@ -1,0 +1,78 @@
+{
+  "race_id": "202403020211",
+  "race_date": "20240630",
+  "results": [
+    {
+      "horse_name": "オフトレイル",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 11.2
+    },
+    {
+      "horse_name": "シリウスコルト",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "ヤマニンアドホック",
+      "ranking": 3,
+      "popularity": 5,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "メイショウヨゾラ",
+      "ranking": 4,
+      "popularity": 12,
+      "odds": 25.4
+    },
+    {
+      "horse_name": "ショーマンフリート",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "ログラール",
+      "ranking": 6,
+      "popularity": 11,
+      "odds": 22.4
+    },
+    {
+      "horse_name": "ウインマクシマム",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "ジュンゴールド",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 20.2
+    },
+    {
+      "horse_name": "サトノシュトラーセ",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "ミナデオロ",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 19.2
+    },
+    {
+      "horse_name": "アレグロブリランテ",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 13.0
+    },
+    {
+      "horse_name": "セットアップ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 13.3
+    }
+  ]
+}

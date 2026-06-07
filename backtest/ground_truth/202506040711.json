@@ -1,0 +1,72 @@
+{
+  "race_id": "202506040711",
+  "race_date": "20250921",
+  "results": [
+    {
+      "horse_name": "レガレイラ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.3
+    },
+    {
+      "horse_name": "ドゥラドーレス",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 3.5
+    },
+    {
+      "horse_name": "ヨーホーレイク",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.0
+    },
+    {
+      "horse_name": "フェアエールング",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 33.3
+    },
+    {
+      "horse_name": "ホーエリート",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "リカンカブール",
+      "ranking": 6,
+      "popularity": 10,
+      "odds": 92.3
+    },
+    {
+      "horse_name": "ワイドエンペラー",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 181.1
+    },
+    {
+      "horse_name": "コスモキュランダ",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 8.1
+    },
+    {
+      "horse_name": "シュバルツクーゲル",
+      "ranking": 9,
+      "popularity": 9,
+      "odds": 66.7
+    },
+    {
+      "horse_name": "クロミナンス",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 13.1
+    },
+    {
+      "horse_name": "リビアングラス",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 14.8
+    }
+  ]
+}

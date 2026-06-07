@@ -1,0 +1,78 @@
+{
+  "race_id": "202509020711",
+  "race_date": "20250419",
+  "results": [
+    {
+      "horse_name": "ミッキーファイト",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.8
+    },
+    {
+      "horse_name": "タイトニット",
+      "ranking": 2,
+      "popularity": 10,
+      "odds": 39.4
+    },
+    {
+      "horse_name": "ラインオブソウル",
+      "ranking": 3,
+      "popularity": 11,
+      "odds": 274.4
+    },
+    {
+      "horse_name": "ミッキーヌチバナ",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 19.6
+    },
+    {
+      "horse_name": "ブレイクフォース",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 37.9
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 10.2
+    },
+    {
+      "horse_name": "ヤマニンウルス",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 4.8
+    },
+    {
+      "horse_name": "サンデーファンデー",
+      "ranking": 8,
+      "popularity": 5,
+      "odds": 16.1
+    },
+    {
+      "horse_name": "ホウオウルーレット",
+      "ranking": 9,
+      "popularity": 8,
+      "odds": 30.4
+    },
+    {
+      "horse_name": "マーブルロック",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 18.2
+    },
+    {
+      "horse_name": "マリオロード",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 296.1
+    },
+    {
+      "horse_name": "ハギノアレグリアス",
+      "ranking": 12,
+      "popularity": 3,
+      "odds": 7.4
+    }
+  ]
+}

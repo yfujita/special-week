@@ -1,0 +1,102 @@
+{
+  "race_id": "202508020911",
+  "race_date": "20250524",
+  "results": [
+    {
+      "horse_name": "アウトレンジ",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "ロードクロンヌ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "レヴォントゥレット",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 43.4
+    },
+    {
+      "horse_name": "ジンセイ",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "タイトニット",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "テーオードレフォン",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 10.1
+    },
+    {
+      "horse_name": "メイショウハリオ",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "マーブルロック",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 20.3
+    },
+    {
+      "horse_name": "ブライアンセンス",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "ルクスフロンティア",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 40.2
+    },
+    {
+      "horse_name": "スレイマン",
+      "ranking": 11,
+      "popularity": 13,
+      "odds": 129.5
+    },
+    {
+      "horse_name": "カンピオーネ",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 111.6
+    },
+    {
+      "horse_name": "ペプチドソレイユ",
+      "ranking": 13,
+      "popularity": 16,
+      "odds": 258.0
+    },
+    {
+      "horse_name": "バハルダール",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 184.1
+    },
+    {
+      "horse_name": "ライオットガール",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 145.4
+    },
+    {
+      "horse_name": "メイクアリープ",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 81.6
+    }
+  ]
+}

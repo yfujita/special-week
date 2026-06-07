@@ -1,0 +1,102 @@
+{
+  "race_id": "202505040411",
+  "race_date": "20251012",
+  "results": [
+    {
+      "horse_name": "ラヴァンダ",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 7.0
+    },
+    {
+      "horse_name": "アンゴラブラック",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 13.2
+    },
+    {
+      "horse_name": "カナテープ",
+      "ranking": 3,
+      "popularity": 5,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ライラック",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 19.1
+    },
+    {
+      "horse_name": "セフィロ",
+      "ranking": 5,
+      "popularity": 12,
+      "odds": 58.2
+    },
+    {
+      "horse_name": "ホウオウラスカーズ",
+      "ranking": 6,
+      "popularity": 11,
+      "odds": 49.7
+    },
+    {
+      "horse_name": "アドマイヤマツリ",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "リラボニート",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 29.3
+    },
+    {
+      "horse_name": "ボンドガール",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "セキトバイースト",
+      "ranking": 10,
+      "popularity": 3,
+      "odds": 5.9
+    },
+    {
+      "horse_name": "フィールシンパシー",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 115.7
+    },
+    {
+      "horse_name": "サフィラ",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 13.8
+    },
+    {
+      "horse_name": "ドゥアイズ",
+      "ranking": 13,
+      "popularity": 10,
+      "odds": 44.6
+    },
+    {
+      "horse_name": "アンリーロード",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 113.2
+    },
+    {
+      "horse_name": "ピースオブザライフ",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 207.1
+    },
+    {
+      "horse_name": "キャットファイト",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 74.9
+    }
+  ]
+}

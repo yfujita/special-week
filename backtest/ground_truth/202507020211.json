@@ -1,0 +1,66 @@
+{
+  "race_id": "202507020211",
+  "race_date": "20250316",
+  "results": [
+    {
+      "horse_name": "クイーンズウォーク",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "ホウオウビスケッツ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "キングズパレス",
+      "ranking": 3,
+      "popularity": 6,
+      "odds": 23.9
+    },
+    {
+      "horse_name": "デシエルト",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 3.2
+    },
+    {
+      "horse_name": "ディープモンスター",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 36.3
+    },
+    {
+      "horse_name": "プログノーシス",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "マイネルモーント",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 32.6
+    },
+    {
+      "horse_name": "ライラック",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 25.4
+    },
+    {
+      "horse_name": "ラヴェル",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 11.7
+    },
+    {
+      "horse_name": "アスクドゥポルテ",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 61.2
+    }
+  ]
+}

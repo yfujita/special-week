@@ -1,0 +1,90 @@
+{
+  "race_id": "202505040611",
+  "race_date": "20251018",
+  "results": [
+    {
+      "horse_name": "ガイアフォース",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "ジャンタルマンタル",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 1.9
+    },
+    {
+      "horse_name": "ソウルラッシュ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ジュンブロッサム",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "ウンブライル",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 23.3
+    },
+    {
+      "horse_name": "キープカルム",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 17.6
+    },
+    {
+      "horse_name": "ファーヴェント",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 42.4
+    },
+    {
+      "horse_name": "シャンパンカラー",
+      "ranking": 8,
+      "popularity": 7,
+      "odds": 18.6
+    },
+    {
+      "horse_name": "ウォーターリヒト",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 15.9
+    },
+    {
+      "horse_name": "マジックサンズ",
+      "ranking": 10,
+      "popularity": 2,
+      "odds": 6.1
+    },
+    {
+      "horse_name": "ニシノスーベニア",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 94.5
+    },
+    {
+      "horse_name": "レイベリング",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 219.4
+    },
+    {
+      "horse_name": "グリューネグリーン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 216.7
+    },
+    {
+      "horse_name": "シャイニーロック",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 235.0
+    }
+  ]
+}

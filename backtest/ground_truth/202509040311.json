@@ -1,0 +1,96 @@
+{
+  "race_id": "202509040311",
+  "race_date": "20250913",
+  "results": [
+    {
+      "horse_name": "オールナット",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "グランヴィノス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "マイネルクリソーラ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "サブマリーナ",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "イングランドアイズ",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 12.9
+    },
+    {
+      "horse_name": "オニャンコポン",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 41.1
+    },
+    {
+      "horse_name": "アスクカムオンモア",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 16.9
+    },
+    {
+      "horse_name": "タガノデュード",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 17.3
+    },
+    {
+      "horse_name": "ヴェルテンベルク",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 22.6
+    },
+    {
+      "horse_name": "ジューンテイク",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 14.5
+    },
+    {
+      "horse_name": "エアファンディタ",
+      "ranking": 11,
+      "popularity": 14,
+      "odds": 116.8
+    },
+    {
+      "horse_name": "カネフラ",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 49.6
+    },
+    {
+      "horse_name": "ドクタードリトル",
+      "ranking": 13,
+      "popularity": 11,
+      "odds": 32.1
+    },
+    {
+      "horse_name": "ホウオウプロサンゲ",
+      "ranking": 14,
+      "popularity": 7,
+      "odds": 16.1
+    },
+    {
+      "horse_name": "ショウナンマグマ",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 202.3
+    }
+  ]
+}

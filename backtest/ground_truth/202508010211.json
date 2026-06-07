@@ -1,0 +1,102 @@
+{
+  "race_id": "202508010211",
+  "race_date": "20250202",
+  "results": [
+    {
+      "horse_name": "エイシンフェンサー",
+      "ranking": 1,
+      "popularity": 9,
+      "odds": 27.4
+    },
+    {
+      "horse_name": "グランテスト",
+      "ranking": 2,
+      "popularity": 10,
+      "odds": 30.5
+    },
+    {
+      "horse_name": "ウインカーネリアン",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.5
+    },
+    {
+      "horse_name": "カピリナ",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "メイショウソラフネ",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 10.5
+    },
+    {
+      "horse_name": "プルパレイ",
+      "ranking": 6,
+      "popularity": 14,
+      "odds": 121.4
+    },
+    {
+      "horse_name": "マイヨアポア",
+      "ranking": 7,
+      "popularity": 16,
+      "odds": 200.4
+    },
+    {
+      "horse_name": "スリーアイランド",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 26.5
+    },
+    {
+      "horse_name": "ピューロマジック",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 3.6
+    },
+    {
+      "horse_name": "レッドアヴァンティ",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 62.0
+    },
+    {
+      "horse_name": "ジャングロ",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 129.1
+    },
+    {
+      "horse_name": "ダノンタッチダウン",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 95.1
+    },
+    {
+      "horse_name": "クファシル",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 14,
+      "popularity": 3,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "セントメモリーズ",
+      "ranking": 15,
+      "popularity": 7,
+      "odds": 19.4
+    },
+    {
+      "horse_name": "シロン",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 78.8
+    }
+  ]
+}

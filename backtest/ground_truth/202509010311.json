@@ -1,0 +1,114 @@
+{
+  "race_id": "202509010311",
+  "race_date": "20250308",
+  "results": [
+    {
+      "horse_name": "ショウナンザナドゥ",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 6.7
+    },
+    {
+      "horse_name": "チェルビアット",
+      "ranking": 2,
+      "popularity": 14,
+      "odds": 101.6
+    },
+    {
+      "horse_name": "ボンヌソワレ",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "インブロリオ",
+      "ranking": 4,
+      "popularity": 11,
+      "odds": 36.7
+    },
+    {
+      "horse_name": "モズナナスター",
+      "ranking": 5,
+      "popularity": 6,
+      "odds": 9.7
+    },
+    {
+      "horse_name": "ダンツエラン",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 10.6
+    },
+    {
+      "horse_name": "イリフィ",
+      "ranking": 7,
+      "popularity": 17,
+      "odds": 153.0
+    },
+    {
+      "horse_name": "チギリ",
+      "ranking": 8,
+      "popularity": 18,
+      "odds": 214.1
+    },
+    {
+      "horse_name": "ウォーターエアリー",
+      "ranking": 9,
+      "popularity": 9,
+      "odds": 25.6
+    },
+    {
+      "horse_name": "ルージュラナキラ",
+      "ranking": 10,
+      "popularity": 1,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "リリーフィールド",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "インプロペリア",
+      "ranking": 12,
+      "popularity": 2,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "ドゥアムール",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 72.1
+    },
+    {
+      "horse_name": "スライビングロード",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 32.9
+    },
+    {
+      "horse_name": "キャッスルレイク",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 59.2
+    },
+    {
+      "horse_name": "アオイレーギーナ",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 113.9
+    },
+    {
+      "horse_name": "ランフォーヴァウ",
+      "ranking": 17,
+      "popularity": 5,
+      "odds": 9.0
+    },
+    {
+      "horse_name": "ホーリーブラッサム",
+      "ranking": 18,
+      "popularity": 15,
+      "odds": 107.6
+    }
+  ]
+}

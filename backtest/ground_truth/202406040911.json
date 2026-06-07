@@ -1,0 +1,102 @@
+{
+  "race_id": "202406040911",
+  "race_date": "20240929",
+  "results": [
+    {
+      "horse_name": "ルガル",
+      "ranking": 1,
+      "popularity": 9,
+      "odds": 28.5
+    },
+    {
+      "horse_name": "トウシンマカオ",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 9.6
+    },
+    {
+      "horse_name": "ナムラクレア",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "ママコチャ",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 5.2
+    },
+    {
+      "horse_name": "ウインマーベル",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 13.5
+    },
+    {
+      "horse_name": "ビクターザウィナー",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 12.5
+    },
+    {
+      "horse_name": "サトノレーヴ",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "ピューロマジック",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 34.5
+    },
+    {
+      "horse_name": "エイシンスポッター",
+      "ranking": 9,
+      "popularity": 15,
+      "odds": 126.1
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 55.9
+    },
+    {
+      "horse_name": "オオバンブルマイ",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 17.1
+    },
+    {
+      "horse_name": "マッドクール",
+      "ranking": 12,
+      "popularity": 3,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "ムゲン",
+      "ranking": 13,
+      "popularity": 13,
+      "odds": 59.1
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 91.7
+    },
+    {
+      "horse_name": "ダノンスコーピオン",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 158.7
+    },
+    {
+      "horse_name": "ヴェントヴォーチェ",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 56.5
+    }
+  ]
+}

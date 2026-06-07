@@ -1,0 +1,102 @@
+{
+  "race_id": "202507010711",
+  "race_date": "20250119",
+  "results": [
+    {
+      "horse_name": "ロードデルレイ",
+      "ranking": 1,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ショウナンラプンタ",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "マイネルエンペラー",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 15.0
+    },
+    {
+      "horse_name": "ヴェローチェエラ",
+      "ranking": 4,
+      "popularity": 1,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "サトノグランツ",
+      "ranking": 5,
+      "popularity": 10,
+      "odds": 25.2
+    },
+    {
+      "horse_name": "キングズパレス",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 17.6
+    },
+    {
+      "horse_name": "マイネルメモリー",
+      "ranking": 7,
+      "popularity": 15,
+      "odds": 219.2
+    },
+    {
+      "horse_name": "バトルボーン",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 35.6
+    },
+    {
+      "horse_name": "サリエラ",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 53.0
+    },
+    {
+      "horse_name": "ヴェルトライゼンデ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 39.2
+    },
+    {
+      "horse_name": "メイショウタバル",
+      "ranking": 11,
+      "popularity": 2,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "プラチナトレジャー",
+      "ranking": 12,
+      "popularity": 16,
+      "odds": 344.9
+    },
+    {
+      "horse_name": "タッチウッド",
+      "ranking": 13,
+      "popularity": 9,
+      "odds": 19.3
+    },
+    {
+      "horse_name": "ホールネス",
+      "ranking": 14,
+      "popularity": 5,
+      "odds": 8.2
+    },
+    {
+      "horse_name": "ケイアイサンデラ",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 96.1
+    },
+    {
+      "horse_name": "サンライズアース",
+      "ranking": 16,
+      "popularity": 6,
+      "odds": 8.4
+    }
+  ]
+}

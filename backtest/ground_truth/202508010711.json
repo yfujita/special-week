@@ -1,0 +1,114 @@
+{
+  "race_id": "202508010711",
+  "race_date": "20250222",
+  "results": [
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 18.6
+    },
+    {
+      "horse_name": "アサカラキング",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "ソーダズリング",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "ダノンマッキンリー",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "フォーチュンタイム",
+      "ranking": 5,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "セッション",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 54.4
+    },
+    {
+      "horse_name": "トゥラヴェスーラ",
+      "ranking": 7,
+      "popularity": 9,
+      "odds": 24.9
+    },
+    {
+      "horse_name": "ダノンスコーピオン",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 58.0
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 9,
+      "popularity": 14,
+      "odds": 65.3
+    },
+    {
+      "horse_name": "オオバンブルマイ",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 14.0
+    },
+    {
+      "horse_name": "アグリ",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 20.6
+    },
+    {
+      "horse_name": "スズハローム",
+      "ranking": 12,
+      "popularity": 6,
+      "odds": 17.4
+    },
+    {
+      "horse_name": "ドナベティ",
+      "ranking": 13,
+      "popularity": 17,
+      "odds": 209.0
+    },
+    {
+      "horse_name": "ブーケファロス",
+      "ranking": 14,
+      "popularity": 18,
+      "odds": 386.1
+    },
+    {
+      "horse_name": "ヴァトレニ",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 114.7
+    },
+    {
+      "horse_name": "シュバルツカイザー",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 36.4
+    },
+    {
+      "horse_name": "ジャングロ",
+      "ranking": 17,
+      "popularity": 16,
+      "odds": 158.5
+    },
+    {
+      "horse_name": "フルメタルボディー",
+      "ranking": 18,
+      "popularity": 10,
+      "odds": 33.2
+    }
+  ]
+}

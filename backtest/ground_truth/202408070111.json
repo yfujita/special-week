@@ -1,0 +1,96 @@
+{
+  "race_id": "202408070111",
+  "race_date": "20241130",
+  "results": [
+    {
+      "horse_name": "ラヴェル",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 6.5
+    },
+    {
+      "horse_name": "ディープモンスター",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 10.4
+    },
+    {
+      "horse_name": "エアファンディタ",
+      "ranking": 3,
+      "popularity": 13,
+      "odds": 84.4
+    },
+    {
+      "horse_name": "ボルドグフーシュ",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 6.0
+    },
+    {
+      "horse_name": "セイウンハーデス",
+      "ranking": 5,
+      "popularity": 9,
+      "odds": 16.5
+    },
+    {
+      "horse_name": "マイネルモーント",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 43.6
+    },
+    {
+      "horse_name": "ダノンエアズロック",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "コガネノソラ",
+      "ranking": 8,
+      "popularity": 8,
+      "odds": 15.2
+    },
+    {
+      "horse_name": "アルビージャ",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "ラーグルフ",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 35.9
+    },
+    {
+      "horse_name": "エピファニー",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 11.4
+    },
+    {
+      "horse_name": "マキシ",
+      "ranking": 12,
+      "popularity": 4,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ルペルカーリア",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 158.1
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 24.2
+    },
+    {
+      "horse_name": "アウスヴァール",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 87.8
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "race_id": "202605020511",
+  "race_date": "20260509",
+  "results": [
+    {
+      "horse_name": "トロヴァトーレ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.1
+    },
+    {
+      "horse_name": "ステレンボッシュ",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 17.0
+    },
+    {
+      "horse_name": "レガーロデルシエロ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 30.1
+    },
+    {
+      "horse_name": "マジックサンズ",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 17.4
+    },
+    {
+      "horse_name": "サクラファレル",
+      "ranking": 5,
+      "popularity": 1,
+      "odds": 2.7
+    },
+    {
+      "horse_name": "カラマティアノス",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 4.8
+    },
+    {
+      "horse_name": "シルトホルン",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 29.1
+    },
+    {
+      "horse_name": "ジュタ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 29.8
+    },
+    {
+      "horse_name": "ジュンブロッサム",
+      "ranking": 9,
+      "popularity": 7,
+      "odds": 23.3
+    },
+    {
+      "horse_name": "センツブラッド",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 60.7
+    },
+    {
+      "horse_name": "サブマリーナ",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 12.3
+    },
+    {
+      "horse_name": "マイネルモーント",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 62.1
+    },
+    {
+      "horse_name": "エピファニー",
+      "ranking": 13,
+      "popularity": 17,
+      "odds": 188.6
+    },
+    {
+      "horse_name": "マテンロウレオ",
+      "ranking": 14,
+      "popularity": 11,
+      "odds": 45.4
+    },
+    {
+      "horse_name": "オニャンコポン",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 153.0
+    },
+    {
+      "horse_name": "ストレイトトーカー",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 45.5
+    },
+    {
+      "horse_name": "オクタヴィアヌス",
+      "ranking": 17,
+      "popularity": 15,
+      "odds": 68.7
+    }
+  ]
+}

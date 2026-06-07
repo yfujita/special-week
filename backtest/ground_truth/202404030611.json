@@ -1,0 +1,72 @@
+{
+  "race_id": "202404030611",
+  "race_date": "20240825",
+  "results": [
+    {
+      "horse_name": "トータルクラリティ",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 11.7
+    },
+    {
+      "horse_name": "コートアリシアン",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "プロクレイア",
+      "ranking": 3,
+      "popularity": 5,
+      "odds": 9.0
+    },
+    {
+      "horse_name": "マジカルフェアリー",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 22.9
+    },
+    {
+      "horse_name": "ジョリーレーヌ",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "スターウェーブ",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "スリールミニョン",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 76.9
+    },
+    {
+      "horse_name": "キタノクニカラ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 69.7
+    },
+    {
+      "horse_name": "シンフォーエバー",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "ケイテンアイジン",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 44.7
+    },
+    {
+      "horse_name": "モジャーリオ",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 94.3
+    }
+  ]
+}

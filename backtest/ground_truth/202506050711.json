@@ -1,0 +1,102 @@
+{
+  "race_id": "202506050711",
+  "race_date": "20251227",
+  "results": [
+    {
+      "horse_name": "ロブチェン",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 19.8
+    },
+    {
+      "horse_name": "フォルテアンジェロ",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "アスクエジンバラ",
+      "ranking": 3,
+      "popularity": 9,
+      "odds": 32.9
+    },
+    {
+      "horse_name": "アーレムアレス",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 16.0
+    },
+    {
+      "horse_name": "バドリナート",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "オルフセン",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 29.9
+    },
+    {
+      "horse_name": "アンドゥーリル",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 3.5
+    },
+    {
+      "horse_name": "ジャスティンビスタ",
+      "ranking": 8,
+      "popularity": 2,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "テーオーアルアイン",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 87.8
+    },
+    {
+      "horse_name": "ノチェセラーダ",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 37.9
+    },
+    {
+      "horse_name": "マテンロウゼロ",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 151.9
+    },
+    {
+      "horse_name": "ジーネキング",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 55.0
+    },
+    {
+      "horse_name": "ウイナーズナイン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 62.0
+    },
+    {
+      "horse_name": "ショウナンガルフ",
+      "ranking": 14,
+      "popularity": 3,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "ノーウェアマン",
+      "ranking": 15,
+      "popularity": 16,
+      "odds": 279.1
+    },
+    {
+      "horse_name": "メイショウハチコウ",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 133.0
+    }
+  ]
+}

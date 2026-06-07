@@ -1,0 +1,84 @@
+{
+  "race_id": "202506030311",
+  "race_date": "20250405",
+  "results": [
+    {
+      "horse_name": "トロヴァトーレ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 1.7
+    },
+    {
+      "horse_name": "コントラポスト",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 10.6
+    },
+    {
+      "horse_name": "キープカルム",
+      "ranking": 3,
+      "popularity": 6,
+      "odds": 14.2
+    },
+    {
+      "horse_name": "マテンロウオリオン",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 25.2
+    },
+    {
+      "horse_name": "ゾンニッヒ",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 48.3
+    },
+    {
+      "horse_name": "シャンパンカラー",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 20.1
+    },
+    {
+      "horse_name": "タシット",
+      "ranking": 7,
+      "popularity": 4,
+      "odds": 12.6
+    },
+    {
+      "horse_name": "ゴートゥファースト",
+      "ranking": 8,
+      "popularity": 12,
+      "odds": 54.6
+    },
+    {
+      "horse_name": "ロジリオン",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "シュバルツカイザー",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 140.7
+    },
+    {
+      "horse_name": "アサカラキング",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "ノーブルロジャー",
+      "ranking": 12,
+      "popularity": 9,
+      "odds": 28.8
+    },
+    {
+      "horse_name": "メイショウチタン",
+      "ranking": 13,
+      "popularity": 10,
+      "odds": 36.1
+    }
+  ]
+}

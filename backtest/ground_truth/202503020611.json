@@ -1,0 +1,96 @@
+{
+  "race_id": "202503020611",
+  "race_date": "20250713",
+  "results": [
+    {
+      "horse_name": "コスモフリーゲン",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.2
+    },
+    {
+      "horse_name": "ドゥラドーレス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "オニャンコポン",
+      "ranking": 3,
+      "popularity": 12,
+      "odds": 49.8
+    },
+    {
+      "horse_name": "シルトホルン",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 10.7
+    },
+    {
+      "horse_name": "ドラゴンヘッド",
+      "ranking": 5,
+      "popularity": 10,
+      "odds": 34.3
+    },
+    {
+      "horse_name": "セブンマジシャン",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 13.0
+    },
+    {
+      "horse_name": "ニシノレヴナント",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "シリウスコルト",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 6.3
+    },
+    {
+      "horse_name": "パラレルヴィジョン",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 49.8
+    },
+    {
+      "horse_name": "ショウナンマグマ",
+      "ranking": 10,
+      "popularity": 15,
+      "odds": 143.3
+    },
+    {
+      "horse_name": "バラジ",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 12.1
+    },
+    {
+      "horse_name": "ダンテスヴュー",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 57.9
+    },
+    {
+      "horse_name": "ギャラクシーナイト",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 93.0
+    },
+    {
+      "horse_name": "マテンロウオリオン",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 31.5
+    },
+    {
+      "horse_name": "リフレーミング",
+      "ranking": 15,
+      "popularity": 8,
+      "odds": 16.5
+    }
+  ]
+}

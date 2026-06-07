@@ -1,0 +1,78 @@
+{
+  "race_id": "202501020511",
+  "race_date": "20250906",
+  "results": [
+    {
+      "horse_name": "ショウナンガルフ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "ジーネキング",
+      "ranking": 2,
+      "popularity": 10,
+      "odds": 31.1
+    },
+    {
+      "horse_name": "スマートプリエール",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "アーレムアレス",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 4.2
+    },
+    {
+      "horse_name": "ロスパレドネス",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "サンセットゴールド",
+      "ranking": 6,
+      "popularity": 9,
+      "odds": 28.2
+    },
+    {
+      "horse_name": "オブラプリーマ",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 25.9
+    },
+    {
+      "horse_name": "ミリオンクラウン",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 73.6
+    },
+    {
+      "horse_name": "ポペット",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "ヒシアムルーズ",
+      "ranking": 10,
+      "popularity": 6,
+      "odds": 22.5
+    },
+    {
+      "horse_name": "トーアサジタリウス",
+      "ranking": 11,
+      "popularity": 12,
+      "odds": 234.6
+    },
+    {
+      "horse_name": "ジャスティンシカゴ",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 22.9
+    }
+  ]
+}

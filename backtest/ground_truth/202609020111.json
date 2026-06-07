@@ -1,0 +1,48 @@
+{
+  "race_id": "202609020111",
+  "race_date": "20260328",
+  "results": [
+    {
+      "horse_name": "アルトラムス",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 2.4
+    },
+    {
+      "horse_name": "ローベルクランツ",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 5.0
+    },
+    {
+      "horse_name": "カフジエメンタール",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "ウップヘリーア",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 5.1
+    },
+    {
+      "horse_name": "フレイムスター",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 52.0
+    },
+    {
+      "horse_name": "ブリガンティン",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 25.6
+    },
+    {
+      "horse_name": "シーズザスローン",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 16.9
+    }
+  ]
+}

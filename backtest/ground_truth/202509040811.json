@@ -1,0 +1,90 @@
+{
+  "race_id": "202509040811",
+  "race_date": "20250927",
+  "results": [
+    {
+      "horse_name": "ホウオウルーレット",
+      "ranking": 1,
+      "popularity": 8,
+      "odds": 23.5
+    },
+    {
+      "horse_name": "サイモンザナドゥ",
+      "ranking": 2,
+      "popularity": 9,
+      "odds": 37.4
+    },
+    {
+      "horse_name": "ジューンアヲニヨシ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 10.9
+    },
+    {
+      "horse_name": "ジンセイ",
+      "ranking": 4,
+      "popularity": 2,
+      "odds": 4.5
+    },
+    {
+      "horse_name": "ブライアンセンス",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 19.7
+    },
+    {
+      "horse_name": "ルクスフロンティア",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 16.9
+    },
+    {
+      "horse_name": "テーオーパスワード",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 2.0
+    },
+    {
+      "horse_name": "タイトニット",
+      "ranking": 8,
+      "popularity": 3,
+      "odds": 6.7
+    },
+    {
+      "horse_name": "エナハツホ",
+      "ranking": 9,
+      "popularity": 14,
+      "odds": 177.2
+    },
+    {
+      "horse_name": "タイセイドレフォン",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 147.6
+    },
+    {
+      "horse_name": "メイプルリッジ",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "ラインオブソウル",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 87.7
+    },
+    {
+      "horse_name": "グーデンドラーク",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 88.8
+    },
+    {
+      "horse_name": "ホウオウプロサンゲ",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 56.7
+    }
+  ]
+}

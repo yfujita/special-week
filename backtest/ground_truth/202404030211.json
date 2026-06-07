@@ -1,0 +1,114 @@
+{
+  "race_id": "202404030211",
+  "race_date": "20240811",
+  "results": [
+    {
+      "horse_name": "トゥードジボン",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ディオ",
+      "ranking": 2,
+      "popularity": 8,
+      "odds": 14.7
+    },
+    {
+      "horse_name": "ジュンブロッサム",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "ロジリオン",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 12.8
+    },
+    {
+      "horse_name": "プレサージュリフト",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "サンライズロナウド",
+      "ranking": 6,
+      "popularity": 11,
+      "odds": 41.7
+    },
+    {
+      "horse_name": "ラインベック",
+      "ranking": 7,
+      "popularity": 14,
+      "odds": 79.5
+    },
+    {
+      "horse_name": "アスクコンナモンダ",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 37.9
+    },
+    {
+      "horse_name": "ディスペランツァ",
+      "ranking": 9,
+      "popularity": 4,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "メイショウシンタケ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 46.7
+    },
+    {
+      "horse_name": "オニャンコポン",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 22.1
+    },
+    {
+      "horse_name": "タイムトゥヘヴン",
+      "ranking": 12,
+      "popularity": 16,
+      "odds": 171.9
+    },
+    {
+      "horse_name": "サクラトゥジュール",
+      "ranking": 13,
+      "popularity": 6,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "パラレルヴィジョン",
+      "ranking": 14,
+      "popularity": 7,
+      "odds": 14.4
+    },
+    {
+      "horse_name": "ダディーズビビッド",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 95.0
+    },
+    {
+      "horse_name": "コレペティトール",
+      "ranking": 16,
+      "popularity": 13,
+      "odds": 70.6
+    },
+    {
+      "horse_name": "グランデマーレ",
+      "ranking": 17,
+      "popularity": 17,
+      "odds": 220.2
+    },
+    {
+      "horse_name": "ワールドウインズ",
+      "ranking": 18,
+      "popularity": 18,
+      "odds": 406.9
+    }
+  ]
+}

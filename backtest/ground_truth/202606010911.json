@@ -1,0 +1,102 @@
+{
+  "race_id": "202606010911",
+  "race_date": "20260125",
+  "results": [
+    {
+      "horse_name": "ショウヘイ",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 5.0
+    },
+    {
+      "horse_name": "ドゥラドーレス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "エヒト",
+      "ranking": 3,
+      "popularity": 14,
+      "odds": 267.9
+    },
+    {
+      "horse_name": "マテンロウレオ",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 11.5
+    },
+    {
+      "horse_name": "サンストックトン",
+      "ranking": 5,
+      "popularity": 16,
+      "odds": 400.8
+    },
+    {
+      "horse_name": "ディマイザキッド",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 8.5
+    },
+    {
+      "horse_name": "ジョバンニ",
+      "ranking": 7,
+      "popularity": 2,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "ノースブリッジ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 36.5
+    },
+    {
+      "horse_name": "ニシノレヴナント",
+      "ranking": 9,
+      "popularity": 10,
+      "odds": 64.7
+    },
+    {
+      "horse_name": "アルビージャ",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 152.2
+    },
+    {
+      "horse_name": "マイネルエンペラー",
+      "ranking": 11,
+      "popularity": 5,
+      "odds": 9.1
+    },
+    {
+      "horse_name": "ファウストラーゼン",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 12.9
+    },
+    {
+      "horse_name": "チャックネイト",
+      "ranking": 13,
+      "popularity": 8,
+      "odds": 26.0
+    },
+    {
+      "horse_name": "ホウオウノーサイド",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 315.3
+    },
+    {
+      "horse_name": "マイネルメモリー",
+      "ranking": 15,
+      "popularity": 13,
+      "odds": 258.1
+    },
+    {
+      "horse_name": "アウスヴァール",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 148.4
+    }
+  ]
+}

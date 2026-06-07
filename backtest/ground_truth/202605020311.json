@@ -1,0 +1,114 @@
+{
+  "race_id": "202605020311",
+  "race_date": "20260502",
+  "results": [
+    {
+      "horse_name": "ワールズエンド",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "セフィロ",
+      "ranking": 2,
+      "popularity": 14,
+      "odds": 80.6
+    },
+    {
+      "horse_name": "マイネルチケット",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "ラケマーダ",
+      "ranking": 4,
+      "popularity": 18,
+      "odds": 305.9
+    },
+    {
+      "horse_name": "シリウスコルト",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 45.3
+    },
+    {
+      "horse_name": "キープカルム",
+      "ranking": 6,
+      "popularity": 6,
+      "odds": 15.1
+    },
+    {
+      "horse_name": "ワイドラトゥール",
+      "ranking": 7,
+      "popularity": 8,
+      "odds": 21.8
+    },
+    {
+      "horse_name": "ファンダム",
+      "ranking": 8,
+      "popularity": 1,
+      "odds": 3.3
+    },
+    {
+      "horse_name": "ダノンセンチュリー",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 4.4
+    },
+    {
+      "horse_name": "ヤブサメ",
+      "ranking": 10,
+      "popularity": 4,
+      "odds": 9.8
+    },
+    {
+      "horse_name": "レッドシュヴェルト",
+      "ranking": 11,
+      "popularity": 15,
+      "odds": 122.7
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 60.1
+    },
+    {
+      "horse_name": "ララマセラシオン",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 46.7
+    },
+    {
+      "horse_name": "フリームファクシ",
+      "ranking": 14,
+      "popularity": 16,
+      "odds": 142.8
+    },
+    {
+      "horse_name": "ダノンマッキンリー",
+      "ranking": 15,
+      "popularity": 9,
+      "odds": 23.4
+    },
+    {
+      "horse_name": "ウイントワイライト",
+      "ranking": 16,
+      "popularity": 5,
+      "odds": 12.0
+    },
+    {
+      "horse_name": "レイベリング",
+      "ranking": 17,
+      "popularity": 17,
+      "odds": 198.5
+    },
+    {
+      "horse_name": "アサカラキング",
+      "ranking": 18,
+      "popularity": 10,
+      "odds": 23.7
+    }
+  ]
+}

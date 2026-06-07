@@ -1,0 +1,102 @@
+{
+  "race_id": "202608031111",
+  "race_date": "20260530",
+  "results": [
+    {
+      "horse_name": "デアヴェローチェ",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 8.7
+    },
+    {
+      "horse_name": "ヒシアイラ",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 8.8
+    },
+    {
+      "horse_name": "タマモイカロス",
+      "ranking": 3,
+      "popularity": 3,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ガラベイヤ",
+      "ranking": 4,
+      "popularity": 10,
+      "odds": 28.5
+    },
+    {
+      "horse_name": "トップアタック",
+      "ranking": 5,
+      "popularity": 15,
+      "odds": 86.0
+    },
+    {
+      "horse_name": "エイシンディード",
+      "ranking": 6,
+      "popularity": 2,
+      "odds": 4.7
+    },
+    {
+      "horse_name": "タガノアラリア",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ウチュウノセカイ",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 53.2
+    },
+    {
+      "horse_name": "シラヌイ",
+      "ranking": 9,
+      "popularity": 11,
+      "odds": 44.1
+    },
+    {
+      "horse_name": "ショウナンカリス",
+      "ranking": 10,
+      "popularity": 9,
+      "odds": 22.1
+    },
+    {
+      "horse_name": "フォーゲル",
+      "ranking": 11,
+      "popularity": 4,
+      "odds": 7.7
+    },
+    {
+      "horse_name": "アンジュプロミス",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 16.7
+    },
+    {
+      "horse_name": "クリエープキー",
+      "ranking": 13,
+      "popularity": 16,
+      "odds": 137.4
+    },
+    {
+      "horse_name": "メランコリニスタ",
+      "ranking": 14,
+      "popularity": 8,
+      "odds": 21.8
+    },
+    {
+      "horse_name": "ルージュサウダージ",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 45.8
+    },
+    {
+      "horse_name": "コックピットサイト",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 75.9
+    }
+  ]
+}

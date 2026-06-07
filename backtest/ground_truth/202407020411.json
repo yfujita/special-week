@@ -1,0 +1,114 @@
+{
+  "race_id": "202407020411",
+  "race_date": "20240818",
+  "results": [
+    {
+      "horse_name": "ドロップオブライト",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 10.8
+    },
+    {
+      "horse_name": "スズハローム",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 6.5
+    },
+    {
+      "horse_name": "グランテスト",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 6.5
+    },
+    {
+      "horse_name": "メイショウソラフネ",
+      "ranking": 4,
+      "popularity": 16,
+      "odds": 109.3
+    },
+    {
+      "horse_name": "ジャスティンスカイ",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 9.5
+    },
+    {
+      "horse_name": "カンチェンジュンガ",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "キタノエクスプレス",
+      "ranking": 7,
+      "popularity": 1,
+      "odds": 4.0
+    },
+    {
+      "horse_name": "スコールユニバンス",
+      "ranking": 8,
+      "popularity": 18,
+      "odds": 187.0
+    },
+    {
+      "horse_name": "ブーケファロス",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 70.3
+    },
+    {
+      "horse_name": "グレイトゲイナー",
+      "ranking": 10,
+      "popularity": 11,
+      "odds": 38.2
+    },
+    {
+      "horse_name": "バースクライ",
+      "ranking": 11,
+      "popularity": 7,
+      "odds": 11.5
+    },
+    {
+      "horse_name": "ヤクシマ",
+      "ranking": 12,
+      "popularity": 17,
+      "odds": 143.3
+    },
+    {
+      "horse_name": "レッドヒルシューズ",
+      "ranking": 13,
+      "popularity": 9,
+      "odds": 16.6
+    },
+    {
+      "horse_name": "カリボール",
+      "ranking": 14,
+      "popularity": 14,
+      "odds": 78.8
+    },
+    {
+      "horse_name": "ショウナンハクラク",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 65.4
+    },
+    {
+      "horse_name": "サウンドビバーチェ",
+      "ranking": 16,
+      "popularity": 10,
+      "odds": 30.9
+    },
+    {
+      "horse_name": "アグリ",
+      "ranking": 17,
+      "popularity": 4,
+      "odds": 6.7
+    },
+    {
+      "horse_name": "アネゴハダ",
+      "ranking": 18,
+      "popularity": 15,
+      "odds": 96.4
+    }
+  ]
+}

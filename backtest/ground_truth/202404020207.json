@@ -1,0 +1,114 @@
+{
+  "race_id": "202404020207",
+  "race_date": "20240728",
+  "results": [
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 1,
+      "popularity": 3,
+      "odds": 7.6
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 6.5
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 16.0
+    },
+    {
+      "horse_name": "ディヴィナシオン",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 10.3
+    },
+    {
+      "horse_name": "メディーヴァル",
+      "ranking": 5,
+      "popularity": 13,
+      "odds": 48.3
+    },
+    {
+      "horse_name": "アビッグチア",
+      "ranking": 6,
+      "popularity": 16,
+      "odds": 154.1
+    },
+    {
+      "horse_name": "クムシラコ",
+      "ranking": 7,
+      "popularity": 15,
+      "odds": 141.8
+    },
+    {
+      "horse_name": "ロードベイリーフ",
+      "ranking": 8,
+      "popularity": 14,
+      "odds": 95.5
+    },
+    {
+      "horse_name": "チェイスザドリーム",
+      "ranking": 9,
+      "popularity": 1,
+      "odds": 3.0
+    },
+    {
+      "horse_name": "ジャスパークローネ",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 15.3
+    },
+    {
+      "horse_name": "マウンテンムスメ",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 19.1
+    },
+    {
+      "horse_name": "ショウナンマッハ",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 34.1
+    },
+    {
+      "horse_name": "ハギノメーテル",
+      "ranking": 13,
+      "popularity": 18,
+      "odds": 281.3
+    },
+    {
+      "horse_name": "デュアリスト",
+      "ranking": 14,
+      "popularity": 10,
+      "odds": 19.6
+    },
+    {
+      "horse_name": "グレイトゲイナー",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 40.8
+    },
+    {
+      "horse_name": "ファイアダンサー",
+      "ranking": 16,
+      "popularity": 4,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "マイヨアポア",
+      "ranking": 17,
+      "popularity": 6,
+      "odds": 12.8
+    },
+    {
+      "horse_name": "リプレーザ",
+      "ranking": 18,
+      "popularity": 17,
+      "odds": 225.0
+    }
+  ]
+}

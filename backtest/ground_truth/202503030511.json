@@ -1,0 +1,102 @@
+{
+  "race_id": "202503030511",
+  "race_date": "20251122",
+  "results": [
+    {
+      "horse_name": "ニシノティアモ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "エコロヴァルツ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.4
+    },
+    {
+      "horse_name": "パレハ",
+      "ranking": 3,
+      "popularity": 7,
+      "odds": 18.6
+    },
+    {
+      "horse_name": "アラタ",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 23.6
+    },
+    {
+      "horse_name": "シリウスコルト",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 11.0
+    },
+    {
+      "horse_name": "クリスマスパレード",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "リカンカブール",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 33.7
+    },
+    {
+      "horse_name": "リフレーミング",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 72.9
+    },
+    {
+      "horse_name": "クリノメイ",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 15.7
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 10,
+      "popularity": 14,
+      "odds": 81.0
+    },
+    {
+      "horse_name": "コガネノソラ",
+      "ranking": 11,
+      "popularity": 8,
+      "odds": 21.3
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 12,
+      "popularity": 12,
+      "odds": 38.7
+    },
+    {
+      "horse_name": "タイムトゥヘヴン",
+      "ranking": 13,
+      "popularity": 10,
+      "odds": 26.6
+    },
+    {
+      "horse_name": "キタウイング",
+      "ranking": 14,
+      "popularity": 16,
+      "odds": 203.4
+    },
+    {
+      "horse_name": "イングランドアイズ",
+      "ranking": 15,
+      "popularity": 4,
+      "odds": 7.9
+    },
+    {
+      "horse_name": "アンリーロード",
+      "ranking": 16,
+      "popularity": 15,
+      "odds": 81.9
+    }
+  ]
+}

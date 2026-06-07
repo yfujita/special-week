@@ -1,0 +1,114 @@
+{
+  "race_id": "202504020407",
+  "race_date": "20250803",
+  "results": [
+    {
+      "horse_name": "ピューロマジック",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.6
+    },
+    {
+      "horse_name": "テイエムスパーダ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.7
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 24.5
+    },
+    {
+      "horse_name": "カルロヴェローチェ",
+      "ranking": 4,
+      "popularity": 4,
+      "odds": 8.0
+    },
+    {
+      "horse_name": "デュガ",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 33.2
+    },
+    {
+      "horse_name": "モズメイメイ",
+      "ranking": 6,
+      "popularity": 3,
+      "odds": 4.9
+    },
+    {
+      "horse_name": "ショウナンハクラク",
+      "ranking": 7,
+      "popularity": 14,
+      "odds": 90.5
+    },
+    {
+      "horse_name": "ファロロジー",
+      "ranking": 8,
+      "popularity": 18,
+      "odds": 274.0
+    },
+    {
+      "horse_name": "ブーケファロス",
+      "ranking": 9,
+      "popularity": 6,
+      "odds": 13.1
+    },
+    {
+      "horse_name": "ニシノコニャック",
+      "ranking": 10,
+      "popularity": 12,
+      "odds": 64.2
+    },
+    {
+      "horse_name": "クムシラコ",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 24.1
+    },
+    {
+      "horse_name": "カフジテトラゴン",
+      "ranking": 12,
+      "popularity": 7,
+      "odds": 20.4
+    },
+    {
+      "horse_name": "スコーピオン",
+      "ranking": 13,
+      "popularity": 15,
+      "odds": 143.6
+    },
+    {
+      "horse_name": "シロン",
+      "ranking": 14,
+      "popularity": 16,
+      "odds": 144.2
+    },
+    {
+      "horse_name": "エランティス",
+      "ranking": 15,
+      "popularity": 13,
+      "odds": 70.2
+    },
+    {
+      "horse_name": "コラソンビート",
+      "ranking": 16,
+      "popularity": 5,
+      "odds": 10.1
+    },
+    {
+      "horse_name": "ニシノトキメキ",
+      "ranking": 17,
+      "popularity": 8,
+      "odds": 23.6
+    },
+    {
+      "horse_name": "キタノブレイド",
+      "ranking": 18,
+      "popularity": 17,
+      "odds": 244.2
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "race_id": "202609011011",
+  "race_date": "20260322",
+  "results": [
+    {
+      "horse_name": "アドマイヤテラ",
+      "ranking": 1,
+      "popularity": 1,
+      "odds": 3.1
+    },
+    {
+      "horse_name": "アクアヴァーナル",
+      "ranking": 2,
+      "popularity": 6,
+      "odds": 13.6
+    },
+    {
+      "horse_name": "ダノンシーマ",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 3.3
+    },
+    {
+      "horse_name": "シュヴァリエローズ",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "マイネルエンペラー",
+      "ranking": 5,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "サンライズソレイユ",
+      "ranking": 6,
+      "popularity": 8,
+      "odds": 35.6
+    },
+    {
+      "horse_name": "レッドバンデ",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 3.6
+    },
+    {
+      "horse_name": "メイショウブレゲ",
+      "ranking": 8,
+      "popularity": 9,
+      "odds": 174.1
+    },
+    {
+      "horse_name": "ファミリータイム",
+      "ranking": 9,
+      "popularity": 5,
+      "odds": 12.6
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 223.9
+    }
+  ]
+}

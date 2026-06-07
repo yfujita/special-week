@@ -1,0 +1,102 @@
+{
+  "race_id": "202506020711",
+  "race_date": "20250322",
+  "results": [
+    {
+      "horse_name": "レーゼドラマ",
+      "ranking": 1,
+      "popularity": 5,
+      "odds": 14.4
+    },
+    {
+      "horse_name": "パラディレーヌ",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 1.9
+    },
+    {
+      "horse_name": "ゴーソーファー",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ジョスラン",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 6.6
+    },
+    {
+      "horse_name": "ミッキーマドンナ",
+      "ranking": 5,
+      "popularity": 2,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "ハギノピアチェーレ",
+      "ranking": 6,
+      "popularity": 9,
+      "odds": 46.7
+    },
+    {
+      "horse_name": "レーヴドロペラ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 19.6
+    },
+    {
+      "horse_name": "ヴォンフレ",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 177.3
+    },
+    {
+      "horse_name": "ホリーアン",
+      "ranking": 9,
+      "popularity": 16,
+      "odds": 343.0
+    },
+    {
+      "horse_name": "ホウオウガイア",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 32.5
+    },
+    {
+      "horse_name": "ジャルディニエ",
+      "ranking": 11,
+      "popularity": 11,
+      "odds": 62.4
+    },
+    {
+      "horse_name": "キョウエイタイコ",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 192.9
+    },
+    {
+      "horse_name": "インヴォーグ",
+      "ranking": 13,
+      "popularity": 7,
+      "odds": 24.0
+    },
+    {
+      "horse_name": "コンテナライン",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 340.4
+    },
+    {
+      "horse_name": "エナジーショット",
+      "ranking": 15,
+      "popularity": 10,
+      "odds": 55.8
+    },
+    {
+      "horse_name": "ハードワーカー",
+      "ranking": 16,
+      "popularity": 12,
+      "odds": 107.9
+    }
+  ]
+}

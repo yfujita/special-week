@@ -1,0 +1,78 @@
+{
+  "race_id": "202502011211",
+  "race_date": "20250720",
+  "results": [
+    {
+      "horse_name": "エイシンディード",
+      "ranking": 1,
+      "popularity": 9,
+      "odds": 48.7
+    },
+    {
+      "horse_name": "ブラックチャリス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 2.5
+    },
+    {
+      "horse_name": "カイショー",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 2.6
+    },
+    {
+      "horse_name": "タガノアラリア",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 7.8
+    },
+    {
+      "horse_name": "スターオブロンドン",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 18.4
+    },
+    {
+      "horse_name": "クラディスティーナ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 12.7
+    },
+    {
+      "horse_name": "トウカイマシェリ",
+      "ranking": 7,
+      "popularity": 5,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "ノアールビーナス",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 65.5
+    },
+    {
+      "horse_name": "ウレシイゴサン",
+      "ranking": 9,
+      "popularity": 12,
+      "odds": 156.6
+    },
+    {
+      "horse_name": "スペシャルチャンス",
+      "ranking": 10,
+      "popularity": 10,
+      "odds": 49.1
+    },
+    {
+      "horse_name": "エスカレイト",
+      "ranking": 11,
+      "popularity": 6,
+      "odds": 18.3
+    },
+    {
+      "horse_name": "マイオウンウェイ",
+      "ranking": 12,
+      "popularity": 8,
+      "odds": 20.7
+    }
+  ]
+}

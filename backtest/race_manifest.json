@@ -871,5 +871,1841 @@
     "course_type": "芝",
     "place": "京都",
     "kaisai_date": "20251019"
+  },
+  "202608031111": {
+    "race_id": "202608031111",
+    "race_name": "葵S",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260530"
+  },
+  "202608030911": {
+    "race_id": "202608030911",
+    "race_name": "平安S",
+    "grade": "G3",
+    "distance": 1900,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20260523"
+  },
+  "202604010511": {
+    "race_id": "202604010511",
+    "race_name": "新潟大賞典",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20260516"
+  },
+  "202605020511": {
+    "race_id": "202605020511",
+    "race_name": "エプソムC",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260509"
+  },
+  "202608030511": {
+    "race_id": "202608030511",
+    "race_name": "京都新聞杯",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260509"
+  },
+  "202605020311": {
+    "race_id": "202605020311",
+    "race_name": "京王杯SC",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260502"
+  },
+  "202608030311": {
+    "race_id": "202608030311",
+    "race_name": "ユニコーンS",
+    "grade": "G3",
+    "distance": 1900,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20260502"
+  },
+  "202605020111": {
+    "race_id": "202605020111",
+    "race_name": "青葉賞",
+    "grade": "G2",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260425"
+  },
+  "202609020711": {
+    "race_id": "202609020711",
+    "race_name": "アンタレスS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "阪神",
+    "kaisai_date": "20260418"
+  },
+  "202606030511": {
+    "race_id": "202606030511",
+    "race_name": "NZT",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260411"
+  },
+  "202609020511": {
+    "race_id": "202609020511",
+    "race_name": "阪神牝馬S",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260411"
+  },
+  "202606030311": {
+    "race_id": "202606030311",
+    "race_name": "ダービーCT",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260404"
+  },
+  "202609020311": {
+    "race_id": "202609020311",
+    "race_name": "チャーチルC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260404"
+  },
+  "202606030211": {
+    "race_id": "202606030211",
+    "race_name": "マーチS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "中山",
+    "kaisai_date": "20260329"
+  },
+  "202607010611": {
+    "race_id": "202607010611",
+    "race_name": "高松宮記念",
+    "grade": "G1",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20260329"
+  },
+  "202606030111": {
+    "race_id": "202606030111",
+    "race_name": "日経賞",
+    "grade": "G2",
+    "distance": 2500,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260328"
+  },
+  "202609020111": {
+    "race_id": "202609020111",
+    "race_name": "毎日杯",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260328"
+  },
+  "202609011011": {
+    "race_id": "202609011011",
+    "race_name": "阪神大賞典",
+    "grade": "G2",
+    "distance": 3000,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260322"
+  },
+  "202607010411": {
+    "race_id": "202607010411",
+    "race_name": "愛知杯",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20260322"
+  },
+  "202606020711": {
+    "race_id": "202606020711",
+    "race_name": "フラワーC",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260321"
+  },
+  "202607010311": {
+    "race_id": "202607010311",
+    "race_name": "ファルコンS",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20260321"
+  },
+  "202606020611": {
+    "race_id": "202606020611",
+    "race_name": "スプリングS",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260315"
+  },
+  "202607010211": {
+    "race_id": "202607010211",
+    "race_name": "金鯱賞",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20260315"
+  },
+  "202606020411": {
+    "race_id": "202606020411",
+    "race_name": "弥生賞",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260308"
+  },
+  "202606020311": {
+    "race_id": "202606020311",
+    "race_name": "中山牝馬S",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260307"
+  },
+  "202609010511": {
+    "race_id": "202609010511",
+    "race_name": "フィリーズR",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260307"
+  },
+  "202606020211": {
+    "race_id": "202606020211",
+    "race_name": "中山記念",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260301"
+  },
+  "202609010411": {
+    "race_id": "202609010411",
+    "race_name": "チューリップ",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260301"
+  },
+  "202606020111": {
+    "race_id": "202606020111",
+    "race_name": "オーシャンS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260228"
+  },
+  "202605010811": {
+    "race_id": "202605010811",
+    "race_name": "フェブラリー",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "ダ",
+    "place": "東京",
+    "kaisai_date": "20260222"
+  },
+  "202610011011": {
+    "race_id": "202610011011",
+    "race_name": "小倉大賞典",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20260222"
+  },
+  "202605010711": {
+    "race_id": "202605010711",
+    "race_name": "ダイヤモンド",
+    "grade": "G3",
+    "distance": 3400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260221"
+  },
+  "202609010111": {
+    "race_id": "202609010111",
+    "race_name": "阪急杯",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20260221"
+  },
+  "202605010611": {
+    "race_id": "202605010611",
+    "race_name": "共同通信杯",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260215"
+  },
+  "202608020611": {
+    "race_id": "202608020611",
+    "race_name": "京都記念",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260215"
+  },
+  "202605010511": {
+    "race_id": "202605010511",
+    "race_name": "クイーンC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260214"
+  },
+  "202605010411": {
+    "race_id": "202605010411",
+    "race_name": "東京新聞杯",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20260210"
+  },
+  "202608020411": {
+    "race_id": "202608020411",
+    "race_name": "きさらぎ賞",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260210"
+  },
+  "202605010211": {
+    "race_id": "202605010211",
+    "race_name": "根岸S",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "ダ",
+    "place": "東京",
+    "kaisai_date": "20260201"
+  },
+  "202608020211": {
+    "race_id": "202608020211",
+    "race_name": "シルクロード",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260201"
+  },
+  "202606010911": {
+    "race_id": "202606010911",
+    "race_name": "AJCC",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260125"
+  },
+  "202608010911": {
+    "race_id": "202608010911",
+    "race_name": "プロキオンS",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20260125"
+  },
+  "202610010111": {
+    "race_id": "202610010111",
+    "race_name": "小倉牝馬S",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20260124"
+  },
+  "202606010711": {
+    "race_id": "202606010711",
+    "race_name": "京成杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260118"
+  },
+  "202608010711": {
+    "race_id": "202608010711",
+    "race_name": "日経新春杯",
+    "grade": "G2",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260118"
+  },
+  "202608010511": {
+    "race_id": "202608010511",
+    "race_name": "シンザン記念",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260112"
+  },
+  "202606010411": {
+    "race_id": "202606010411",
+    "race_name": "フェアリーS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260111"
+  },
+  "202606010111": {
+    "race_id": "202606010111",
+    "race_name": "中山金杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20260104"
+  },
+  "202608010111": {
+    "race_id": "202608010111",
+    "race_name": "京都金杯",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20260104"
+  },
+  "202506050711": {
+    "race_id": "202506050711",
+    "race_name": "ホープフルS",
+    "grade": "G1",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20251227"
+  },
+  "202509050711": {
+    "race_id": "202509050711",
+    "race_name": "阪神カップ",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20251227"
+  },
+  "202509050611": {
+    "race_id": "202509050611",
+    "race_name": "朝日杯FS",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20251221"
+  },
+  "202506050511": {
+    "race_id": "202506050511",
+    "race_name": "ターコイズS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20251220"
+  },
+  "202506050411": {
+    "race_id": "202506050411",
+    "race_name": "カペラS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "ダ",
+    "place": "中山",
+    "kaisai_date": "20251214"
+  },
+  "202509050411": {
+    "race_id": "202509050411",
+    "race_name": "阪神JF",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20251214"
+  },
+  "202507050311": {
+    "race_id": "202507050311",
+    "race_name": "中日新聞杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20251213"
+  },
+  "202506050111": {
+    "race_id": "202506050111",
+    "race_name": "ステイヤーズ",
+    "grade": "G2",
+    "distance": 3600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20251206"
+  },
+  "202509050111": {
+    "race_id": "202509050111",
+    "race_name": "鳴尾記念",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20251206"
+  },
+  "202505050812": {
+    "race_id": "202505050812",
+    "race_name": "ジャパンC",
+    "grade": "G1",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251130"
+  },
+  "202508040812": {
+    "race_id": "202508040812",
+    "race_name": "京阪杯",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251130"
+  },
+  "202508040711": {
+    "race_id": "202508040711",
+    "race_name": "京都2歳S",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251129"
+  },
+  "202505050611": {
+    "race_id": "202505050611",
+    "race_name": "東スポ杯2歳",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251124"
+  },
+  "202503030511": {
+    "race_id": "202503030511",
+    "race_name": "福島記念",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "福島",
+    "kaisai_date": "20251122"
+  },
+  "202508040411": {
+    "race_id": "202508040411",
+    "race_name": "エリザベス杯",
+    "grade": "G1",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251116"
+  },
+  "202505050311": {
+    "race_id": "202505050311",
+    "race_name": "武蔵野S",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "ダ",
+    "place": "東京",
+    "kaisai_date": "20251115"
+  },
+  "202508040311": {
+    "race_id": "202508040311",
+    "race_name": "デイリー2歳",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251115"
+  },
+  "202505050211": {
+    "race_id": "202505050211",
+    "race_name": "AR共和国杯",
+    "grade": "G2",
+    "distance": 2500,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251109"
+  },
+  "202508040211": {
+    "race_id": "202508040211",
+    "race_name": "みやこS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20251109"
+  },
+  "202505050111": {
+    "race_id": "202505050111",
+    "race_name": "京王杯2歳S",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251108"
+  },
+  "202508031011": {
+    "race_id": "202508031011",
+    "race_name": "ファンタジー",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251101"
+  },
+  "202505040811": {
+    "race_id": "202505040811",
+    "race_name": "アルテミスS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251025"
+  },
+  "202505040611": {
+    "race_id": "202505040611",
+    "race_name": "富士S",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251018"
+  },
+  "202508030511": {
+    "race_id": "202508030511",
+    "race_name": "スワンS",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251013"
+  },
+  "202505040411": {
+    "race_id": "202505040411",
+    "race_name": "アイルランド",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251012"
+  },
+  "202505040311": {
+    "race_id": "202505040311",
+    "race_name": "サウジRC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251011"
+  },
+  "202505040211": {
+    "race_id": "202505040211",
+    "race_name": "毎日王冠",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20251005"
+  },
+  "202508030211": {
+    "race_id": "202508030211",
+    "race_name": "京都大賞典",
+    "grade": "G2",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20251005"
+  },
+  "202506040911": {
+    "race_id": "202506040911",
+    "race_name": "スプリンター",
+    "grade": "G1",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250928"
+  },
+  "202509040811": {
+    "race_id": "202509040811",
+    "race_name": "シリウスS",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "ダ",
+    "place": "阪神",
+    "kaisai_date": "20250927"
+  },
+  "202506040711": {
+    "race_id": "202506040711",
+    "race_name": "オールカマー",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250921"
+  },
+  "202509040711": {
+    "race_id": "202509040711",
+    "race_name": "神戸新聞杯",
+    "grade": "G2",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250921"
+  },
+  "202506040511": {
+    "race_id": "202506040511",
+    "race_name": "セントライト",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250915"
+  },
+  "202509040411": {
+    "race_id": "202509040411",
+    "race_name": "ローズS",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250914"
+  },
+  "202509040311": {
+    "race_id": "202509040311",
+    "race_name": "チャレンジC",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250913"
+  },
+  "202506040211": {
+    "race_id": "202506040211",
+    "race_name": "紫苑S",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250907"
+  },
+  "202509040211": {
+    "race_id": "202509040211",
+    "race_name": "セントウルS",
+    "grade": "G2",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250907"
+  },
+  "202506040111": {
+    "race_id": "202506040111",
+    "race_name": "京成杯AH",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250906"
+  },
+  "202501020511": {
+    "race_id": "202501020511",
+    "race_name": "札幌2歳S",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20250906"
+  },
+  "202504030411": {
+    "race_id": "202504030411",
+    "race_name": "新潟記念",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20250831"
+  },
+  "202507040411": {
+    "race_id": "202507040411",
+    "race_name": "中京2歳S",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250831"
+  },
+  "202504030211": {
+    "race_id": "202504030211",
+    "race_name": "新潟2歳S",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20250824"
+  },
+  "202501020211": {
+    "race_id": "202501020211",
+    "race_name": "キーンランド",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20250824"
+  },
+  "202507030807": {
+    "race_id": "202507030807",
+    "race_name": "中京記念",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250817"
+  },
+  "202501010811": {
+    "race_id": "202501010811",
+    "race_name": "札幌記念",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20250817"
+  },
+  "202504020607": {
+    "race_id": "202504020607",
+    "race_name": "レパードS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "新潟",
+    "kaisai_date": "20250810"
+  },
+  "202507030607": {
+    "race_id": "202507030607",
+    "race_name": "CBC賞",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250810"
+  },
+  "202501010511": {
+    "race_id": "202501010511",
+    "race_name": "エルムS",
+    "grade": "G3",
+    "distance": 1700,
+    "course_type": "ダ",
+    "place": "札幌",
+    "kaisai_date": "20250809"
+  },
+  "202504020407": {
+    "race_id": "202504020407",
+    "race_name": "アイビスSD",
+    "grade": "G3",
+    "distance": 1000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20250803"
+  },
+  "202501010411": {
+    "race_id": "202501010411",
+    "race_name": "クイーンS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20250803"
+  },
+  "202504020207": {
+    "race_id": "202504020207",
+    "race_name": "関屋記念",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20250727"
+  },
+  "202507030207": {
+    "race_id": "202507030207",
+    "race_name": "東海S",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "ダ",
+    "place": "中京",
+    "kaisai_date": "20250727"
+  },
+  "202510020811": {
+    "race_id": "202510020811",
+    "race_name": "小倉記念",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20250720"
+  },
+  "202502011211": {
+    "race_id": "202502011211",
+    "race_name": "函館2歳S",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "函館",
+    "kaisai_date": "20250720"
+  },
+  "202503020611": {
+    "race_id": "202503020611",
+    "race_name": "七夕賞",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "福島",
+    "kaisai_date": "20250713"
+  },
+  "202510020411": {
+    "race_id": "202510020411",
+    "race_name": "北九州記念",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20250706"
+  },
+  "202505030611": {
+    "race_id": "202505030611",
+    "race_name": "府中牝馬S",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250622"
+  },
+  "202509030611": {
+    "race_id": "202509030611",
+    "race_name": "しらさぎS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250622"
+  },
+  "202509030411": {
+    "race_id": "202509030411",
+    "race_name": "宝塚記念",
+    "grade": "G1",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250615"
+  },
+  "202502010111": {
+    "race_id": "202502010111",
+    "race_name": "函館SS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "函館",
+    "kaisai_date": "20250614"
+  },
+  "202505030211": {
+    "race_id": "202505030211",
+    "race_name": "安田記念",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250608"
+  },
+  "202508021111": {
+    "race_id": "202508021111",
+    "race_name": "葵S",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250531"
+  },
+  "202508020911": {
+    "race_id": "202508020911",
+    "race_name": "平安S",
+    "grade": "G3",
+    "distance": 1900,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20250524"
+  },
+  "202505020811": {
+    "race_id": "202505020811",
+    "race_name": "ヴィクトリア",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250518"
+  },
+  "202504010511": {
+    "race_id": "202504010511",
+    "race_name": "新潟大賞典",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20250517"
+  },
+  "202505020511": {
+    "race_id": "202505020511",
+    "race_name": "エプソムC",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250510"
+  },
+  "202508020511": {
+    "race_id": "202508020511",
+    "race_name": "京都新聞杯",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250510"
+  },
+  "202505020311": {
+    "race_id": "202505020311",
+    "race_name": "京王杯SC",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250503"
+  },
+  "202508020311": {
+    "race_id": "202508020311",
+    "race_name": "ユニコーンS",
+    "grade": "G3",
+    "distance": 1900,
+    "course_type": "ダ",
+    "place": "京都",
+    "kaisai_date": "20250503"
+  },
+  "202505020211": {
+    "race_id": "202505020211",
+    "race_name": "フローラS",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250427"
+  },
+  "202508020211": {
+    "race_id": "202508020211",
+    "race_name": "マイラーズC",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250427"
+  },
+  "202505020111": {
+    "race_id": "202505020111",
+    "race_name": "青葉賞",
+    "grade": "G2",
+    "distance": 2400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250426"
+  },
+  "202509020711": {
+    "race_id": "202509020711",
+    "race_name": "アンタレスS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "阪神",
+    "kaisai_date": "20250419"
+  },
+  "202509020611": {
+    "race_id": "202509020611",
+    "race_name": "桜花賞",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250413"
+  },
+  "202506030511": {
+    "race_id": "202506030511",
+    "race_name": "NZT",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250412"
+  },
+  "202509020511": {
+    "race_id": "202509020511",
+    "race_name": "阪神牝馬S",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250412"
+  },
+  "202506030311": {
+    "race_id": "202506030311",
+    "race_name": "ダービーCT",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250405"
+  },
+  "202509020311": {
+    "race_id": "202509020311",
+    "race_name": "チャーチルC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250405"
+  },
+  "202506030211": {
+    "race_id": "202506030211",
+    "race_name": "マーチS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "中山",
+    "kaisai_date": "20250330"
+  },
+  "202507020611": {
+    "race_id": "202507020611",
+    "race_name": "高松宮記念",
+    "grade": "G1",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250330"
+  },
+  "202506030111": {
+    "race_id": "202506030111",
+    "race_name": "日経賞",
+    "grade": "G2",
+    "distance": 2500,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250329"
+  },
+  "202509020111": {
+    "race_id": "202509020111",
+    "race_name": "毎日杯",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250329"
+  },
+  "202509010811": {
+    "race_id": "202509010811",
+    "race_name": "阪神大賞典",
+    "grade": "G2",
+    "distance": 3000,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250323"
+  },
+  "202507020411": {
+    "race_id": "202507020411",
+    "race_name": "愛知杯",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250323"
+  },
+  "202506020711": {
+    "race_id": "202506020711",
+    "race_name": "フラワーC",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250322"
+  },
+  "202507020311": {
+    "race_id": "202507020311",
+    "race_name": "ファルコンS",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250322"
+  },
+  "202506020611": {
+    "race_id": "202506020611",
+    "race_name": "スプリングS",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250316"
+  },
+  "202507020211": {
+    "race_id": "202507020211",
+    "race_name": "金鯱賞",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250316"
+  },
+  "202506020311": {
+    "race_id": "202506020311",
+    "race_name": "中山牝馬S",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250308"
+  },
+  "202509010311": {
+    "race_id": "202509010311",
+    "race_name": "フィリーズR",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250308"
+  },
+  "202506020211": {
+    "race_id": "202506020211",
+    "race_name": "中山記念",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250302"
+  },
+  "202509010211": {
+    "race_id": "202509010211",
+    "race_name": "チューリップ",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "阪神",
+    "kaisai_date": "20250302"
+  },
+  "202506020111": {
+    "race_id": "202506020111",
+    "race_name": "オーシャンS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250301"
+  },
+  "202505010711": {
+    "race_id": "202505010711",
+    "race_name": "ダイヤモンド",
+    "grade": "G3",
+    "distance": 3400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250222"
+  },
+  "202508010711": {
+    "race_id": "202508010711",
+    "race_name": "阪急杯",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250222"
+  },
+  "202505010511": {
+    "race_id": "202505010511",
+    "race_name": "クイーンC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250215"
+  },
+  "202505010411": {
+    "race_id": "202505010411",
+    "race_name": "東京新聞杯",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20250209"
+  },
+  "202508010411": {
+    "race_id": "202508010411",
+    "race_name": "きさらぎ賞",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250209"
+  },
+  "202505010211": {
+    "race_id": "202505010211",
+    "race_name": "根岸S",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "ダ",
+    "place": "東京",
+    "kaisai_date": "20250202"
+  },
+  "202508010211": {
+    "race_id": "202508010211",
+    "race_name": "シルクロード",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20250202"
+  },
+  "202510010111": {
+    "race_id": "202510010111",
+    "race_name": "小倉牝馬S",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20250125"
+  },
+  "202506010711": {
+    "race_id": "202506010711",
+    "race_name": "京成杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250119"
+  },
+  "202507010711": {
+    "race_id": "202507010711",
+    "race_name": "日経新春杯",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250119"
+  },
+  "202507010511": {
+    "race_id": "202507010511",
+    "race_name": "シンザン記念",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250113"
+  },
+  "202506010111": {
+    "race_id": "202506010111",
+    "race_name": "中山金杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20250105"
+  },
+  "202507010111": {
+    "race_id": "202507010111",
+    "race_name": "京都金杯",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20250105"
+  },
+  "202408070711": {
+    "race_id": "202408070711",
+    "race_name": "阪神C",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241221"
+  },
+  "202406050511": {
+    "race_id": "202406050511",
+    "race_name": "ターコイズS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20241214"
+  },
+  "202406050411": {
+    "race_id": "202406050411",
+    "race_name": "カペラS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "ダ",
+    "place": "中山",
+    "kaisai_date": "20241208"
+  },
+  "202408070411": {
+    "race_id": "202408070411",
+    "race_name": "阪神JF",
+    "grade": "G1",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241208"
+  },
+  "202407040311": {
+    "race_id": "202407040311",
+    "race_name": "中日新聞杯",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20241207"
+  },
+  "202406050111": {
+    "race_id": "202406050111",
+    "race_name": "ステイヤーズ",
+    "grade": "G2",
+    "distance": 3600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20241130"
+  },
+  "202408070111": {
+    "race_id": "202408070111",
+    "race_name": "チャレンジC",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241130"
+  },
+  "202408060711": {
+    "race_id": "202408060711",
+    "race_name": "京都2歳S",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241123"
+  },
+  "202405050511": {
+    "race_id": "202405050511",
+    "race_name": "東スポ2歳S",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241116"
+  },
+  "202405050311": {
+    "race_id": "202405050311",
+    "race_name": "武蔵野S",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "ダ",
+    "place": "東京",
+    "kaisai_date": "20241109"
+  },
+  "202408060311": {
+    "race_id": "202408060311",
+    "race_name": "デイリー2S",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241109"
+  },
+  "202405050111": {
+    "race_id": "202405050111",
+    "race_name": "京王杯2歳S",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241102"
+  },
+  "202408060111": {
+    "race_id": "202408060111",
+    "race_name": "ファンタジー",
+    "grade": "G3",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241102"
+  },
+  "202405040711": {
+    "race_id": "202405040711",
+    "race_name": "アルテミスS",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241026"
+  },
+  "202408050711": {
+    "race_id": "202408050711",
+    "race_name": "スワンS",
+    "grade": "G2",
+    "distance": 1400,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241026"
+  },
+  "202408050611": {
+    "race_id": "202408050611",
+    "race_name": "菊花賞",
+    "grade": "G1",
+    "distance": 3000,
+    "course_type": "芝",
+    "place": "京都",
+    "kaisai_date": "20241020"
+  },
+  "202405040511": {
+    "race_id": "202405040511",
+    "race_name": "富士S",
+    "grade": "G2",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241019"
+  },
+  "202405040411": {
+    "race_id": "202405040411",
+    "race_name": "府中牝馬S",
+    "grade": "G2",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241014"
+  },
+  "202405040111": {
+    "race_id": "202405040111",
+    "race_name": "サウジRC",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20241005"
+  },
+  "202406040911": {
+    "race_id": "202406040911",
+    "race_name": "スプリンター",
+    "grade": "G1",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20240929"
+  },
+  "202407030811": {
+    "race_id": "202407030811",
+    "race_name": "シリウスS",
+    "grade": "G3",
+    "distance": 1900,
+    "course_type": "ダ",
+    "place": "中京",
+    "kaisai_date": "20240928"
+  },
+  "202406040711": {
+    "race_id": "202406040711",
+    "race_name": "オールカマー",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20240922"
+  },
+  "202407030711": {
+    "race_id": "202407030711",
+    "race_name": "神戸新聞杯",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240922"
+  },
+  "202406040511": {
+    "race_id": "202406040511",
+    "race_name": "セントライト",
+    "grade": "G2",
+    "distance": 2200,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20240916"
+  },
+  "202407030411": {
+    "race_id": "202407030411",
+    "race_name": "ローズS",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240915"
+  },
+  "202406040211": {
+    "race_id": "202406040211",
+    "race_name": "京成杯AH",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20240908"
+  },
+  "202407030211": {
+    "race_id": "202407030211",
+    "race_name": "セントウルS",
+    "grade": "G2",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240908"
+  },
+  "202406040111": {
+    "race_id": "202406040111",
+    "race_name": "紫苑S",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中山",
+    "kaisai_date": "20240907"
+  },
+  "202404030811": {
+    "race_id": "202404030811",
+    "race_name": "新潟記念",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20240901"
+  },
+  "202407020811": {
+    "race_id": "202407020811",
+    "race_name": "小倉2歳S",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240901"
+  },
+  "202401020711": {
+    "race_id": "202401020711",
+    "race_name": "札幌2歳S",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20240831"
+  },
+  "202404030611": {
+    "race_id": "202404030611",
+    "race_name": "新潟2歳S",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20240825"
+  },
+  "202401020611": {
+    "race_id": "202401020611",
+    "race_name": "キーンランド",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20240825"
+  },
+  "202407020411": {
+    "race_id": "202407020411",
+    "race_name": "CBC賞",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240818"
+  },
+  "202401020411": {
+    "race_id": "202401020411",
+    "race_name": "札幌記念",
+    "grade": "G2",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20240818"
+  },
+  "202404030211": {
+    "race_id": "202404030211",
+    "race_name": "関屋記念",
+    "grade": "G3",
+    "distance": 1600,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20240811"
+  },
+  "202407020211": {
+    "race_id": "202407020211",
+    "race_name": "小倉記念",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "中京",
+    "kaisai_date": "20240811"
+  },
+  "202404020407": {
+    "race_id": "202404020407",
+    "race_name": "レパードS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "ダ",
+    "place": "新潟",
+    "kaisai_date": "20240804"
+  },
+  "202401010611": {
+    "race_id": "202401010611",
+    "race_name": "エルムS",
+    "grade": "G3",
+    "distance": 1700,
+    "course_type": "ダ",
+    "place": "札幌",
+    "kaisai_date": "20240804"
+  },
+  "202404020207": {
+    "race_id": "202404020207",
+    "race_name": "アイビスSD",
+    "grade": "G3",
+    "distance": 1000,
+    "course_type": "芝",
+    "place": "新潟",
+    "kaisai_date": "20240728"
+  },
+  "202401010411": {
+    "race_id": "202401010411",
+    "race_name": "クイーンS",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "札幌",
+    "kaisai_date": "20240728"
+  },
+  "202410030811": {
+    "race_id": "202410030811",
+    "race_name": "中京記念",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20240721"
+  },
+  "202402011111": {
+    "race_id": "202402011111",
+    "race_name": "函館2歳S",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "函館",
+    "kaisai_date": "20240713"
+  },
+  "202403020411": {
+    "race_id": "202403020411",
+    "race_name": "七夕賞",
+    "grade": "G3",
+    "distance": 2000,
+    "course_type": "芝",
+    "place": "福島",
+    "kaisai_date": "20240707"
+  },
+  "202410030411": {
+    "race_id": "202410030411",
+    "race_name": "プロキオンS",
+    "grade": "G3",
+    "distance": 1700,
+    "course_type": "ダ",
+    "place": "小倉",
+    "kaisai_date": "20240707"
+  },
+  "202403020211": {
+    "race_id": "202403020211",
+    "race_name": "ラジNIK賞",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "福島",
+    "kaisai_date": "20240630"
+  },
+  "202410030211": {
+    "race_id": "202410030211",
+    "race_name": "北九州記念",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "小倉",
+    "kaisai_date": "20240630"
+  },
+  "202405030411": {
+    "race_id": "202405030411",
+    "race_name": "エプソムC",
+    "grade": "G3",
+    "distance": 1800,
+    "course_type": "芝",
+    "place": "東京",
+    "kaisai_date": "20240609"
+  },
+  "202402010211": {
+    "race_id": "202402010211",
+    "race_name": "函館SS",
+    "grade": "G3",
+    "distance": 1200,
+    "course_type": "芝",
+    "place": "函館",
+    "kaisai_date": "20240609"
   }
 }

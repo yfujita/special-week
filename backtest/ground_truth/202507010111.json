@@ -1,0 +1,102 @@
+{
+  "race_id": "202507010111",
+  "race_date": "20250105",
+  "results": [
+    {
+      "horse_name": "サクラトゥジュール",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 12.0
+    },
+    {
+      "horse_name": "ウォーターリヒト",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "ロジリオン",
+      "ranking": 3,
+      "popularity": 2,
+      "odds": 5.2
+    },
+    {
+      "horse_name": "セオ",
+      "ranking": 4,
+      "popularity": 8,
+      "odds": 15.6
+    },
+    {
+      "horse_name": "アスクコンナモンダ",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "シャドウフューリー",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "シュバルツカイザー",
+      "ranking": 7,
+      "popularity": 11,
+      "odds": 50.0
+    },
+    {
+      "horse_name": "マテンロウオリオン",
+      "ranking": 8,
+      "popularity": 10,
+      "odds": 44.5
+    },
+    {
+      "horse_name": "コレペティトール",
+      "ranking": 9,
+      "popularity": 16,
+      "odds": 161.8
+    },
+    {
+      "horse_name": "メイショウチタン",
+      "ranking": 10,
+      "popularity": 15,
+      "odds": 120.6
+    },
+    {
+      "horse_name": "ドゥアイズ",
+      "ranking": 11,
+      "popularity": 3,
+      "odds": 6.4
+    },
+    {
+      "horse_name": "オーキッドロマンス",
+      "ranking": 12,
+      "popularity": 13,
+      "odds": 79.4
+    },
+    {
+      "horse_name": "セルバーグ",
+      "ranking": 13,
+      "popularity": 9,
+      "odds": 18.6
+    },
+    {
+      "horse_name": "フィールシンパシー",
+      "ranking": 14,
+      "popularity": 7,
+      "odds": 12.8
+    },
+    {
+      "horse_name": "ゴールデンシロップ",
+      "ranking": 15,
+      "popularity": 12,
+      "odds": 63.3
+    },
+    {
+      "horse_name": "コナコースト",
+      "ranking": 16,
+      "popularity": 14,
+      "odds": 97.4
+    }
+  ]
+}

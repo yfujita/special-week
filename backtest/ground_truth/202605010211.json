@@ -1,0 +1,102 @@
+{
+  "race_id": "202605010211",
+  "race_date": "20260201",
+  "results": [
+    {
+      "horse_name": "ロードフォンス",
+      "ranking": 1,
+      "popularity": 6,
+      "odds": 13.2
+    },
+    {
+      "horse_name": "バトルクライ",
+      "ranking": 2,
+      "popularity": 13,
+      "odds": 150.9
+    },
+    {
+      "horse_name": "ダノンフィーゴ",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 7.2
+    },
+    {
+      "horse_name": "オメガギネス",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 8.9
+    },
+    {
+      "horse_name": "マピュース",
+      "ranking": 5,
+      "popularity": 8,
+      "odds": 25.9
+    },
+    {
+      "horse_name": "エンペラーワケア",
+      "ranking": 6,
+      "popularity": 1,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "ウェイワードアクト",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 5.0
+    },
+    {
+      "horse_name": "チカッパ",
+      "ranking": 8,
+      "popularity": 11,
+      "odds": 40.0
+    },
+    {
+      "horse_name": "インユアパレス",
+      "ranking": 9,
+      "popularity": 2,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "サントノーレ",
+      "ranking": 10,
+      "popularity": 7,
+      "odds": 19.1
+    },
+    {
+      "horse_name": "マテンロウコマンド",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 26.6
+    },
+    {
+      "horse_name": "フェブランシェ",
+      "ranking": 12,
+      "popularity": 10,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "アルファマム",
+      "ranking": 13,
+      "popularity": 12,
+      "odds": 65.0
+    },
+    {
+      "horse_name": "メイショウカズサ",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 216.1
+    },
+    {
+      "horse_name": "ネオトキオ",
+      "ranking": 15,
+      "popularity": 14,
+      "odds": 207.2
+    },
+    {
+      "horse_name": "ケイアイドリー",
+      "ranking": 16,
+      "popularity": 16,
+      "odds": 284.7
+    }
+  ]
+}

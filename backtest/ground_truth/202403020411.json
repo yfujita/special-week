@@ -1,0 +1,96 @@
+{
+  "race_id": "202403020411",
+  "race_date": "20240707",
+  "results": [
+    {
+      "horse_name": "レッドラディエンス",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 4.3
+    },
+    {
+      "horse_name": "キングズパレス",
+      "ranking": 2,
+      "popularity": 1,
+      "odds": 3.8
+    },
+    {
+      "horse_name": "ノッキングポイント",
+      "ranking": 3,
+      "popularity": 8,
+      "odds": 20.0
+    },
+    {
+      "horse_name": "ダンディズム",
+      "ranking": 4,
+      "popularity": 9,
+      "odds": 22.0
+    },
+    {
+      "horse_name": "リフレーミング",
+      "ranking": 5,
+      "popularity": 3,
+      "odds": 5.5
+    },
+    {
+      "horse_name": "レッドランメルト",
+      "ranking": 6,
+      "popularity": 12,
+      "odds": 35.3
+    },
+    {
+      "horse_name": "アラタ",
+      "ranking": 7,
+      "popularity": 6,
+      "odds": 12.4
+    },
+    {
+      "horse_name": "ノースザワールド",
+      "ranking": 8,
+      "popularity": 13,
+      "odds": 50.2
+    },
+    {
+      "horse_name": "ボーンディスウェイ",
+      "ranking": 9,
+      "popularity": 4,
+      "odds": 7.3
+    },
+    {
+      "horse_name": "カレンルシェルブル",
+      "ranking": 10,
+      "popularity": 5,
+      "odds": 11.7
+    },
+    {
+      "horse_name": "バビット",
+      "ranking": 11,
+      "popularity": 10,
+      "odds": 28.6
+    },
+    {
+      "horse_name": "ダンテスヴュー",
+      "ranking": 12,
+      "popularity": 14,
+      "odds": 66.7
+    },
+    {
+      "horse_name": "フェーングロッテン",
+      "ranking": 13,
+      "popularity": 11,
+      "odds": 34.7
+    },
+    {
+      "horse_name": "セイウンプラチナ",
+      "ranking": 14,
+      "popularity": 7,
+      "odds": 19.7
+    },
+    {
+      "horse_name": "グレンガリー",
+      "ranking": 15,
+      "popularity": 15,
+      "odds": 235.4
+    }
+  ]
+}

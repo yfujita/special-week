@@ -1,0 +1,114 @@
+{
+  "race_id": "202609010511",
+  "race_date": "20260307",
+  "results": [
+    {
+      "horse_name": "ギリーズボール",
+      "ranking": 1,
+      "popularity": 10,
+      "odds": 24.5
+    },
+    {
+      "horse_name": "サンアントワーヌ",
+      "ranking": 2,
+      "popularity": 2,
+      "odds": 5.4
+    },
+    {
+      "horse_name": "アイニードユー",
+      "ranking": 3,
+      "popularity": 4,
+      "odds": 6.9
+    },
+    {
+      "horse_name": "デアヴェローチェ",
+      "ranking": 4,
+      "popularity": 5,
+      "odds": 8.8
+    },
+    {
+      "horse_name": "プレセピオ",
+      "ranking": 5,
+      "popularity": 7,
+      "odds": 16.4
+    },
+    {
+      "horse_name": "フルールジェンヌ",
+      "ranking": 6,
+      "popularity": 17,
+      "odds": 92.3
+    },
+    {
+      "horse_name": "トワニ",
+      "ranking": 7,
+      "popularity": 12,
+      "odds": 32.8
+    },
+    {
+      "horse_name": "ショウナンカリス",
+      "ranking": 8,
+      "popularity": 1,
+      "odds": 5.3
+    },
+    {
+      "horse_name": "イヌボウノウタゴエ",
+      "ranking": 9,
+      "popularity": 13,
+      "odds": 33.7
+    },
+    {
+      "horse_name": "コラルリーフ",
+      "ranking": 10,
+      "popularity": 8,
+      "odds": 19.5
+    },
+    {
+      "horse_name": "テイエムスティール",
+      "ranking": 11,
+      "popularity": 3,
+      "odds": 5.7
+    },
+    {
+      "horse_name": "タイセイフレッサ",
+      "ranking": 12,
+      "popularity": 18,
+      "odds": 118.2
+    },
+    {
+      "horse_name": "タイニーワンダー",
+      "ranking": 13,
+      "popularity": 16,
+      "odds": 57.7
+    },
+    {
+      "horse_name": "ファニーバニー",
+      "ranking": 14,
+      "popularity": 9,
+      "odds": 19.9
+    },
+    {
+      "horse_name": "ルージュサウダージ",
+      "ranking": 15,
+      "popularity": 6,
+      "odds": 16.2
+    },
+    {
+      "horse_name": "ローズカリス",
+      "ranking": 16,
+      "popularity": 11,
+      "odds": 28.2
+    },
+    {
+      "horse_name": "ラスティングスノー",
+      "ranking": 17,
+      "popularity": 14,
+      "odds": 37.8
+    },
+    {
+      "horse_name": "クリエープキー",
+      "ranking": 18,
+      "popularity": 15,
+      "odds": 38.9
+    }
+  ]
+}

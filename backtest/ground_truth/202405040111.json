@@ -1,0 +1,48 @@
+{
+  "race_id": "202405040111",
+  "race_date": "20241005",
+  "results": [
+    {
+      "horse_name": "アルテヴェローチェ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 3.5
+    },
+    {
+      "horse_name": "タイセイカレント",
+      "ranking": 2,
+      "popularity": 4,
+      "odds": 12.9
+    },
+    {
+      "horse_name": "マイネルチケット",
+      "ranking": 3,
+      "popularity": 5,
+      "odds": 13.8
+    },
+    {
+      "horse_name": "シンフォーエバー",
+      "ranking": 4,
+      "popularity": 6,
+      "odds": 25.9
+    },
+    {
+      "horse_name": "アルレッキーノ",
+      "ranking": 5,
+      "popularity": 1,
+      "odds": 1.5
+    },
+    {
+      "horse_name": "ニシノルアノーヴァ",
+      "ranking": 6,
+      "popularity": 7,
+      "odds": 55.1
+    },
+    {
+      "horse_name": "フードマン",
+      "ranking": 7,
+      "popularity": 3,
+      "odds": 7.8
+    }
+  ]
+}

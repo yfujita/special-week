@@ -1,0 +1,102 @@
+{
+  "race_id": "202606020111",
+  "race_date": "20260228",
+  "results": [
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 1,
+      "popularity": 7,
+      "odds": 16.7
+    },
+    {
+      "horse_name": "レイピア",
+      "ranking": 2,
+      "popularity": 5,
+      "odds": 14.5
+    },
+    {
+      "horse_name": "ルガル",
+      "ranking": 3,
+      "popularity": 1,
+      "odds": 2.9
+    },
+    {
+      "horse_name": "ママコチャ",
+      "ranking": 4,
+      "popularity": 3,
+      "odds": 5.6
+    },
+    {
+      "horse_name": "ヨシノイースター",
+      "ranking": 5,
+      "popularity": 11,
+      "odds": 45.2
+    },
+    {
+      "horse_name": "フリッカージャブ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 8.7
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 7,
+      "popularity": 10,
+      "odds": 37.5
+    },
+    {
+      "horse_name": "ルージュラナキラ",
+      "ranking": 8,
+      "popularity": 12,
+      "odds": 50.2
+    },
+    {
+      "horse_name": "ビッグシーザー",
+      "ranking": 9,
+      "popularity": 8,
+      "odds": 24.6
+    },
+    {
+      "horse_name": "カリボール",
+      "ranking": 10,
+      "popularity": 15,
+      "odds": 329.3
+    },
+    {
+      "horse_name": "フィオライア",
+      "ranking": 10,
+      "popularity": 13,
+      "odds": 86.2
+    },
+    {
+      "horse_name": "ファンダム",
+      "ranking": 12,
+      "popularity": 2,
+      "odds": 3.9
+    },
+    {
+      "horse_name": "フリームファクシ",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 147.4
+    },
+    {
+      "horse_name": "オタルエバー",
+      "ranking": 14,
+      "popularity": 16,
+      "odds": 423.3
+    },
+    {
+      "horse_name": "インビンシブルパパ",
+      "ranking": 15,
+      "popularity": 6,
+      "odds": 14.6
+    },
+    {
+      "horse_name": "ピューロマジック",
+      "ranking": 16,
+      "popularity": 9,
+      "odds": 29.5
+    }
+  ]
+}

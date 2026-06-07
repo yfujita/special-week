@@ -1,0 +1,96 @@
+{
+  "race_id": "202502010111",
+  "race_date": "20250614",
+  "results": [
+    {
+      "horse_name": "カピリナ",
+      "ranking": 1,
+      "popularity": 2,
+      "odds": 6.2
+    },
+    {
+      "horse_name": "ジューンブレア",
+      "ranking": 2,
+      "popularity": 3,
+      "odds": 7.1
+    },
+    {
+      "horse_name": "ドンアミティエ",
+      "ranking": 3,
+      "popularity": 10,
+      "odds": 46.3
+    },
+    {
+      "horse_name": "インビンシブルパパ",
+      "ranking": 4,
+      "popularity": 7,
+      "odds": 23.8
+    },
+    {
+      "horse_name": "ペアポルックス",
+      "ranking": 5,
+      "popularity": 5,
+      "odds": 16.3
+    },
+    {
+      "horse_name": "カルチャーデイ",
+      "ranking": 6,
+      "popularity": 4,
+      "odds": 12.3
+    },
+    {
+      "horse_name": "ジョーメッドヴィン",
+      "ranking": 7,
+      "popularity": 12,
+      "odds": 94.3
+    },
+    {
+      "horse_name": "ナムラクレア",
+      "ranking": 8,
+      "popularity": 1,
+      "odds": 1.7
+    },
+    {
+      "horse_name": "モリノドリーム",
+      "ranking": 9,
+      "popularity": 8,
+      "odds": 31.5
+    },
+    {
+      "horse_name": "プルパレイ",
+      "ranking": 10,
+      "popularity": 16,
+      "odds": 234.2
+    },
+    {
+      "horse_name": "ウイングレイテスト",
+      "ranking": 11,
+      "popularity": 9,
+      "odds": 36.2
+    },
+    {
+      "horse_name": "ゾンニッヒ",
+      "ranking": 12,
+      "popularity": 11,
+      "odds": 81.6
+    },
+    {
+      "horse_name": "レイベリング",
+      "ranking": 13,
+      "popularity": 14,
+      "odds": 120.8
+    },
+    {
+      "horse_name": "フィオライア",
+      "ranking": 14,
+      "popularity": 15,
+      "odds": 172.7
+    },
+    {
+      "horse_name": "ステークホルダー",
+      "ranking": 15,
+      "popularity": 13,
+      "odds": 116.6
+    }
+  ]
+}
